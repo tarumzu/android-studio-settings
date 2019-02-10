@@ -9,12 +9,12 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1549263253096">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1549810406994">
         <mark key="'" line="158" column="20" />
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="26" column="21" />
-        <mark key="." line="26" column="21" />
-        <mark key="^" line="150" column="30" />
+        <mark key="[" line="173" column="47" />
+        <mark key="]" line="173" column="48" />
+        <mark key="." line="173" column="48" />
+        <mark key="^" line="148" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/layout_thanks.xml" timestamp="1548823017749">
         <mark key="[" line="19" column="14" />
@@ -263,7 +263,7 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="27" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549443596267">
+      <file name="/Dummy.txt" timestamp="1549810222267">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_account_success.xml" timestamp="1549348154673">
@@ -459,11 +459,11 @@
       <jump line="37" column="37" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>realmResults</text>
