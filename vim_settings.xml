@@ -28,6 +28,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="51" column="85" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.1.0-alpha04/e5a4a5e6c2dbe7bd87cc09920e309c8e5cc4e317/core-1.1.0-alpha04-sources.jar!/androidx/core/content/res/ResourcesCompat.java" timestamp="1549951418449" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/SuccessUtils.kt" timestamp="1549248097236">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -109,11 +110,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="36" column="57" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_word_layout.xml" timestamp="1549882733061">
-        <mark key="[" line="40" column="36" />
-        <mark key="]" line="40" column="36" />
-        <mark key="." line="40" column="36" />
-        <mark key="^" line="40" column="36" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_word_layout.xml" timestamp="1549950880468">
+        <mark key="[" line="41" column="30" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="29" />
+        <mark key="^" line="41" column="29" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/strings.xml" timestamp="1549245961183">
         <mark key="[" line="62" column="36" />
@@ -190,11 +191,12 @@
         <mark key="." line="61" column="33" />
         <mark key="^" line="61" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/databinding/ListWordViewModel.kt" timestamp="1549941609102">
-        <mark key="'" line="38" column="24" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/databinding/ListWordViewModel.kt" timestamp="1549951386947">
+        <mark key="'" line="43" column="24" />
+        <mark key="[" line="37" column="55" />
+        <mark key="]" line="37" column="77" />
+        <mark key="." line="37" column="77" />
+        <mark key="^" line="37" column="77" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/CountUpTimerTask.kt" timestamp="1549339807347">
         <mark key="[" line="9" column="27" />
@@ -293,7 +295,7 @@
         <mark key="^" line="84" column="58" />
         <mark key="." line="84" column="58" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_quiz_answer.xml" timestamp="1549882530229">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_quiz_answer.xml" timestamp="1549950503802">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
@@ -427,17 +429,17 @@
       <jump line="82" column="127" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/TrophyAdapter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iNWRwIgo=</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>dist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjVkcCIK</text>
+        <text encoding="base64">ICAgIHZhciB3b3JkSnBUZXh0ID0gTXV0YWJsZUxpdmVEYXRhPFN0cmluZz4oKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iNWRwIgo=</text>
