@@ -102,8 +102,8 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/TrophyAdapter.kt" timestamp="1549885505915">
-        <mark key="'" line="23" column="40" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/TrophyAdapter.kt" timestamp="1549941243063">
+        <mark key="'" line="82" column="127" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -190,7 +190,7 @@
         <mark key="." line="61" column="33" />
         <mark key="^" line="61" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/databinding/ListWordViewModel.kt" timestamp="1549884030267">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/databinding/ListWordViewModel.kt" timestamp="1549941609102">
         <mark key="'" line="38" column="24" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -281,10 +281,10 @@
         <mark key="^" line="19" column="47" />
         <mark key="." line="19" column="47" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" timestamp="1549432068681">
-        <mark key="[" line="125" column="99" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" timestamp="1549940751004">
+        <mark key="[" line="218" column="15" />
         <mark key="]" line="125" column="99" />
-        <mark key="." line="125" column="99" />
+        <mark key="." line="218" column="37" />
         <mark key="^" line="125" column="99" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/TrainingAdapter.kt" timestamp="1549884094345">
@@ -325,10 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="38" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
-      <jump line="48" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
-      <jump line="111" column="26" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
-      <jump line="126" column="16" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
       <jump line="253" column="60" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
       <jump line="273" column="60" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
       <jump line="299" column="68" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
@@ -425,6 +421,10 @@
       <jump line="188" column="40" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
       <jump line="203" column="51" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
       <jump line="385" column="8" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
+      <jump line="27" column="13" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/TrophyAdapter.kt" />
+      <jump line="70" column="17" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/TrophyAdapter.kt" />
+      <jump line="71" column="8" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/TrophyAdapter.kt" />
+      <jump line="82" column="127" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/TrophyAdapter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -434,7 +434,7 @@
         <text>I</text>
       </register>
       <register name="/" type="4">
-        <text>realmId</text>
+        <text>dist</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjVkcCIK</text>
@@ -471,17 +471,14 @@
       </register>
     </registers>
     <search>
-      <last-search>realmId</last-search>
+      <last-search>dist</last-search>
       <last-offset />
-      <last-pattern>realmId</last-pattern>
+      <last-pattern>dist</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>startActivityForResult</entry>
-        <entry>QuizActivity</entry>
-        <entry>download</entry>
         <entry>txUtilf</entry>
         <entry>txUtil</entry>
         <entry>#0CA5E6</entry>
@@ -499,6 +496,9 @@
         <entry>RxLifecycle</entry>
         <entry>rxjava</entry>
         <entry>realmId</entry>
+        <entry>distinct</entry>
+        <entry>distin</entry>
+        <entry>dist</entry>
       </history-search>
       <history-cmd>
         <entry>lw</entry>
