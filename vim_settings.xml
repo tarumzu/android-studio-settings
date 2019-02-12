@@ -190,12 +190,12 @@
         <mark key="." line="61" column="33" />
         <mark key="^" line="61" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/databinding/ListWordViewModel.kt" timestamp="1549953043773">
-        <mark key="'" line="41" column="82" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="32" column="121" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/databinding/ListWordViewModel.kt" timestamp="1549958419542">
+        <mark key="'" line="44" column="82" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="49" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="35" column="121" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/CountUpTimerTask.kt" timestamp="1549339807347">
         <mark key="[" line="9" column="27" />
@@ -428,7 +428,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSIzZHAiCg==</text>
+        <text encoding="base64">ICAgIHZhciBhbnN3ZXJJbWFnZSA9IE11dGFibGVMaXZlRGF0YTxEcmF3YWJsZT4oKQo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -437,7 +437,7 @@
         <text>dist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSIzZHAiCg==</text>
+        <text encoding="base64">ICAgIHZhciBhbnN3ZXJJbWFnZSA9IE11dGFibGVMaXZlRGF0YTxEcmF3YWJsZT4oKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
