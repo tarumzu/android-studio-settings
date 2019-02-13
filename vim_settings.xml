@@ -133,11 +133,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="36" column="57" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_word_layout.xml" timestamp="1550031353101">
-        <mark key="[" line="124" column="57" />
-        <mark key="]" line="124" column="63" />
-        <mark key="." line="124" column="63" />
-        <mark key="^" line="124" column="63" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_word_layout.xml" timestamp="1550033595363">
+        <mark key="[" line="208" column="67" />
+        <mark key="]" line="208" column="67" />
+        <mark key="." line="208" column="67" />
+        <mark key="^" line="208" column="67" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/strings.xml" timestamp="1549245961183">
         <mark key="[" line="62" column="36" />
@@ -158,12 +158,12 @@
         <mark key="." line="19" column="47" />
         <mark key="^" line="19" column="47" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" timestamp="1549966860137">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" timestamp="1550033616214">
         <mark key="'" line="10" column="36" />
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="26" />
-        <mark key="." line="20" column="26" />
-        <mark key="^" line="20" column="26" />
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="46" />
+        <mark key="^" line="12" column="46" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/BaseFragment.kt" timestamp="1549103927228">
         <mark key="[" line="9" column="0" />
@@ -257,7 +257,7 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="27" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550029175682">
+      <file name="/Dummy.txt" timestamp="1550033765759">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -452,16 +452,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>training_id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2VJbWFnZS52YWx1ZSA9IFJlc291cmNlc0NvbXBhdC5nZXREcmF3YWJsZShyZXF1aXJlTm90TnVsbChhY3Rpdml0eSkucmVzb3VyY2VzLCBSLmRyYXdhYmxlLmljX2Nhc2VfZ3JheSwgbnVsbCkK</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJza2VsZXRvbl90ZXBwYW5fYmx1ZV9mb250Ij4jNjAxOTMwNjY8L2NvbG9yPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
