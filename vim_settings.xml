@@ -113,11 +113,11 @@
         <mark key="." line="82" column="62" />
         <mark key="^" line="37" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" timestamp="1550216609193">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" timestamp="1550219111488">
         <mark key="'" line="86" column="24" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="125" column="57" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/models/Training.kt" timestamp="1550131176142" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/dialog_download.xml" timestamp="1550212662032">
@@ -514,8 +514,8 @@
       <jump line="7" column="44" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>C</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5pc0xpc3QudmFsdWUgPSBmYWxzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLmlzRG93bmxvYWQudmFsdWUgPSB0cnVlCg==</text>
       </register>
       <register name="-" type="4">
         <text>C</text>
@@ -524,7 +524,7 @@
         <text>skeleton_blue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJza2VsZXRvbl9ibHVlIj4jQ0MwQjQxQTA8L2NvbG9yPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5pc0xpc3QudmFsdWUgPSBmYWxzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLmlzRG93bmxvYWQudmFsdWUgPSB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6b25DbGljaz0iQHtoYW5kbGVyczo6b25OZXh0Q2xpY2t9Igo=</text>
