@@ -67,12 +67,12 @@
         <mark key="." line="55" column="55" />
         <mark key="^" line="55" column="55" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" timestamp="1550206767324">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" timestamp="1550232718948">
         <mark key="'" line="30" column="42" />
-        <mark key="[" line="296" column="37" />
-        <mark key="]" line="296" column="37" />
-        <mark key="." line="296" column="37" />
-        <mark key="^" line="296" column="37" />
+        <mark key="[" line="311" column="45" />
+        <mark key="]" line="311" column="45" />
+        <mark key="." line="311" column="45" />
+        <mark key="^" line="311" column="45" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/wl_page_3.xml" timestamp="1548927041084">
         <mark key="[" line="19" column="0" />
@@ -412,9 +412,6 @@
         <mark key="." line="19" column="11" />
         <mark key="^" line="19" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1550214688243">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment_setting_record.xml" timestamp="1550061965259" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/WordActivity.kt" timestamp="1550216586639">
         <mark key="[" line="17" column="38" />
@@ -526,11 +523,11 @@
       <jump line="7" column="44" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3LnNldEVuYWJsZWQoZGlzYWJsZSkK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>skeleton_blue</text>
