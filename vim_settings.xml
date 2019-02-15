@@ -164,6 +164,12 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="58" column="58" />
       </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/ViewUtil.kt" timestamp="1550220955743">
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="24" />
+        <mark key="." line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/strings.xml" timestamp="1550053490793">
         <mark key="[" line="62" column="36" />
         <mark key="]" line="62" column="61" />
@@ -247,6 +253,11 @@
         <mark key="." line="69" column="12" />
         <mark key="^" line="69" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/accounts/ActivationFragment.kt" timestamp="1550220821278">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/CountUpTimerTask.kt" timestamp="1549339807347">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="10" column="16" />
@@ -301,11 +312,12 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="27" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550215142582">
+      <file name="/Dummy.txt" timestamp="1550221020459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/drawable/corner_round_border.xml" timestamp="1550220849547" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_account_success.xml" timestamp="1550217266956">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="46" column="18" />
@@ -515,43 +527,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5pc0xpc3QudmFsdWUgPSBmYWxzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLmlzRG93bmxvYWQudmFsdWUgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICB2aWV3LnNldEVuYWJsZWQoZGlzYWJsZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>skeleton_blue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5pc0xpc3QudmFsdWUgPSBmYWxzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLmlzRG93bmxvYWQudmFsdWUgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICB2aWV3LnNldEVuYWJsZWQoZGlzYWJsZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6b25DbGljaz0iQHtoYW5kbGVyczo6b25OZXh0Q2xpY2t9Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVsbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iMjBkcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uLmlzRW5hYmxlZCA9IGZhbHNlCiAgICAgICAgICAgIGJ1dHRvbl9iYWNrZ3JvdW5kLmlzRW5hYmxlZCA9IGZhbHNlCiAgICAgICAgICAgIGJ1dHRvbi5pc0VuYWJsZWQgPSB0cnVlCiAgICAgICAgICAgIGJ1dHRvbl9iYWNrZ3JvdW5kLmlzRW5hYmxlZCA9IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uLmlzRW5hYmxlZCA9IHRydWUKICAgICAgICAgICAgYnV0dG9uX2JhY2tncm91bmQuaXNFbmFibGVkID0gdHJ1ZQogICAgICAgICAgICBidXR0b24uaXNFbmFibGVkID0gZmFsc2UKICAgICAgICAgICAgYnV0dG9uX2JhY2tncm91bmQuaXNFbmFibGVkID0gZmFsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvcAo=</text>
+        <text encoding="base64">ICAgICAgICBidXR0b24uaXNFbmFibGVkID0gdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCiAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6b25DbGljaz0iQHtoYW5kbGVyczo6b25OZXh0Q2xpY2t9Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpiYWNrZ3JvdW5kVGludD0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iMjBkcCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50TGVmdF90b0xlZnRPZj0icGFyZW50IgogICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCiAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
