@@ -10,8 +10,6 @@
         <mark key="." line="26" column="22" />
         <mark key="^" line="149" column="37" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.21/b8815e48fb45e94821287365bd9ce8623f459ac7/kotlin-stdlib-1.3.21-sources.jar!/kotlin/Collections.kt" timestamp="1550243714633" />
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_quiz_result.xml" timestamp="1550214587579" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_trophy_layout.xml" timestamp="1550052713751">
         <mark key="[" line="44" column="21" />
         <mark key="]" line="45" column="40" />
@@ -31,7 +29,6 @@
         <mark key="." line="86" column="20" />
         <mark key="^" line="86" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/SharedPref.kt" timestamp="1550133222407" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_word.xml" timestamp="1550237455366">
         <mark key="[" line="41" column="62" />
         <mark key="]" line="41" column="62" />
@@ -52,7 +49,6 @@
         <mark key="." line="44" column="64" />
         <mark key="^" line="44" column="64" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/databinding/SettingRecordViewModel.kt" timestamp="1550212885613" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/WordsAdapter.kt" timestamp="1550240118847">
         <mark key="[" line="29" column="77" />
         <mark key="]" line="29" column="77" />
@@ -86,21 +82,17 @@
         <mark key="^" line="88" column="28" />
         <mark key="." line="88" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/models/Training.kt" timestamp="1550131176142" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/dialog_download.xml" timestamp="1550212662032">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="48" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="/fragment_quiz_end.xml" timestamp="1550148004404" />
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/handlers/NextEventHandlers.kt" timestamp="1550240481628" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/databinding/WordActivityViewModel.kt" timestamp="1550234202363">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/databinding/QuizResultViewModel.kt" timestamp="1550212858336" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" timestamp="1550239104569">
         <mark key="'" line="89" column="11" />
         <mark key="[" line="183" column="0" />
@@ -178,7 +170,6 @@
         <mark key="^" line="87" column="16" />
         <mark key="." line="87" column="16" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_setting_menu.xml" timestamp="1550137303816" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/databinding/ListWordViewModel.kt" timestamp="1550214768932">
         <mark key="'" line="35" column="12" />
         <mark key="[" line="69" column="12" />
@@ -220,12 +211,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550244047014">
+      <file name="/Dummy.txt" timestamp="1550244234052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/drawable/corner_round_border.xml" timestamp="1550220849547" />
+      <file name="/build.gradle" timestamp="1550244284956" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_account_success.xml" timestamp="1550217266956">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="46" column="18" />
@@ -250,7 +241,6 @@
         <mark key="." line="193" column="38" />
         <mark key="^" line="193" column="38" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/models/RealmTraining.kt" timestamp="1550140232877" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/databinding/QuizEndViewModel.kt" timestamp="1550148019577">
         <mark key="'" line="56" column="4" />
         <mark key="[" line="48" column="56" />
@@ -270,7 +260,6 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/WordActivity.kt" timestamp="1550215150392" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/wl_page_1.xml" timestamp="1550217105214">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="49" />
@@ -296,7 +285,6 @@
         <mark key="." line="63" column="38" />
         <mark key="^" line="63" column="38" />
       </file>
-      <file name="/fragment_setting_record.xml" timestamp="1550061965259" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/WordActivity.kt" timestamp="1550238059264">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
