@@ -29,11 +29,11 @@
         <mark key="." line="86" column="20" />
         <mark key="^" line="86" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_word.xml" timestamp="1550237455366">
-        <mark key="[" line="41" column="62" />
-        <mark key="]" line="41" column="62" />
-        <mark key="." line="41" column="62" />
-        <mark key="^" line="38" column="44" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_word.xml" timestamp="1550291933484">
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="22" column="51" />
+        <mark key="^" line="22" column="51" />
+        <mark key="." line="22" column="51" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" timestamp="1550232718948">
         <mark key="'" line="30" column="42" />
@@ -42,12 +42,12 @@
         <mark key="." line="311" column="45" />
         <mark key="^" line="311" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/BaseAdapter.kt" timestamp="1550243826975">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/BaseAdapter.kt" timestamp="1550292523929">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="44" column="61" />
-        <mark key="]" line="44" column="64" />
-        <mark key="." line="44" column="64" />
-        <mark key="^" line="44" column="64" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="37" column="67" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/WordsAdapter.kt" timestamp="1550240118847">
         <mark key="[" line="29" column="77" />
@@ -75,12 +75,12 @@
         <mark key="." line="82" column="62" />
         <mark key="^" line="37" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" timestamp="1550243959644">
-        <mark key="'" line="47" column="30" />
-        <mark key="[" line="88" column="28" />
-        <mark key="]" line="88" column="28" />
-        <mark key="^" line="88" column="28" />
-        <mark key="." line="88" column="28" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" timestamp="1550292229614">
+        <mark key="'" line="10" column="36" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="^" line="162" column="17" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/dialog_download.xml" timestamp="1550212662032">
         <mark key="[" line="134" column="0" />
@@ -211,7 +211,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550244234052">
+      <file name="/Dummy.txt" timestamp="1550292534199">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -292,11 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="51" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
-      <jump line="193" column="43" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
-      <jump line="5" column="33" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" />
-      <jump line="3" column="43" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" />
       <jump line="984" column="9" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a12f166231f6f4c1fcd952127d43467/res/values/values.xml" />
       <jump line="985" column="36" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a12f166231f6f4c1fcd952127d43467/res/values/values.xml" />
       <jump line="35" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/QuizActivity.kt" />
@@ -392,62 +387,65 @@
       <jump line="1" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/BaseAdapter.kt" />
       <jump line="38" column="14" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
       <jump line="46" column="30" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
+      <jump line="129" column="37" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
+      <jump line="82" column="33" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
+      <jump line="89" column="33" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
+      <jump line="94" column="35" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
+      <jump line="10" column="36" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodmlzaWJsZUl0ZW1Db3VudCA9PSAxMCkgdmlzaWJsZUl0ZW1Db3VudCA9IDcK</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>trainingList</text>
+        <text>LinearLayoutManager</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5pc0Rvd25sb2FkLnZhbHVlID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aXNpYmxlSXRlbUNvdW50ID0gbGluZWFyTGF5b3V0TWFuYWdlci5jaGlsZENvdW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRJdGVtKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodmlzaWJsZUl0ZW1Db3VudCA9PSAxMCkgdmlzaWJsZUl0ZW1Db3VudCA9IDcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvbkxvYWRNb3JlKCkK</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZCgiZGRkZGRkZGRkZGRkZGRkZGRkZCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWJlci5sb2cuVGltYmVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBsYXlvdXQgPSBMaW5lYXJMYXlvdXRNYW5hZ2VyKGJhc2VBY3Rpdml0eS5nZXRBcHBsaWNhdGlvbkNvbnRleHQoKSkKICAgICAgICAgICAgICAgIGJpbmRpbmcucm9vdC5saXN0LmxheW91dE1hbmFnZXIgPSBsYXlvdXQKICAgICAgICAgICAgICAgIGJpbmRpbmcucm9vdC5saXN0Lml0ZW1BbmltYXRvciA9IERlZmF1bHRJdGVtQW5pbWF0b3IoKQogICAgICAgICAgICAgICAgd29yZHNBZGFwdGVyID0gV29yZHNBZGFwdGVyKGJpbmRpbmcucm9vdC5saXN0LAogICAgICAgICAgICAgICAgICAgICAgICBtdXRhYmxlTGlzdE9mPFJlYWxtVHJhaW5pbmc+KCksCiAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVOb3ROdWxsKHRyYWluaW5nTGlzdCksCiAgICAgICAgICAgICAgICAgICAgICAgIHN0YWdlSWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2aXR5IGFzIEZyYWdtZW50QWN0aXZpdHksCiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXNAV29yZEZyYWdtZW50LAogICAgICAgICAgICAgICAgICAgICAgICB0aGlzQFdvcmRGcmFnbWVudCkKICAgICAgICAgICAgICAgIGJpbmRpbmcucm9vdC5saXN0LmFkYXB0ZXIgPSB3b3Jkc0FkYXB0ZXIK</text>
+        <text encoding="base64">ICAgICAgICBtRmluaXNoID0gdHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd29yZHNBZGFwdGVyPSBXb3Jkc0FkYXB0ZXIoYmluZGluZy5yb290Lmxpc3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbXV0YWJsZUxpc3RPZjxSZWFsbVRyYWluaW5nPigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVOb3ROdWxsKHRyYWluaW5nTGlzdCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhZ2VJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eSBhcyBGcmFnbWVudEFjdGl2aXR5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXNAV29yZEZyYWdtZW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXNAV29yZEZyYWdtZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICBtRmluaXNoID0gdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGxheW91dCA9IExpbmVhckxheW91dE1hbmFnZXIoYmFzZUFjdGl2aXR5LmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBtRmluaXNoID0gdHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1GaW5pc2ggPSB0cnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH1jYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgdmFsIGZpbGUgPSBGaWxlKGZpbGVQYXRoLCAid29yZF8ke3N0YWdlSWR9Lmpzb24iKQogICAgICAgICAgICAgICAgICAgIGlmIChmaWxlLmV4aXN0cygpKSBmaWxlLmRlbGV0ZSgpCiAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLmlzRG93bmxvYWQudmFsdWUgPSB0cnVlCgogICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKGUpCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9tRmluaXNoID0gZmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>trainingList</last-search>
+      <last-search>LinearLayoutManager</last-search>
       <last-offset />
-      <last-pattern>trainingList</last-pattern>
+      <last-pattern>LinearLayoutManager</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tabIndicatorColor</entry>
-        <entry>trainingId</entry>
         <entry>LottieAnimationView</entry>
         <entry>lotti</entry>
         <entry>isCheck</entry>
@@ -466,6 +464,8 @@
         <entry>list</entry>
         <entry>onLoadMore</entry>
         <entry>trainingList</entry>
+        <entry>linearLayoutManager</entry>
+        <entry>LinearLayoutManager</entry>
       </history-search>
       <history-cmd>
         <entry>lw</entry>
