@@ -42,7 +42,7 @@
         <mark key="^" line="6" column="91" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/accounts/SuccessFragment.kt" timestamp="1550475454982" />
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ListWordViewModel.kt" timestamp="1550549691333" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ListWordViewModel.kt" timestamp="1550554555121" />
       <file name="$USER_HOME$/Develop/teppanandroid/build.gradle" timestamp="1550319708519">
         <mark key="'" line="15" column="28" />
         <mark key="[" line="15" column="52" />
@@ -94,11 +94,10 @@
         <mark key="." line="39" column="33" />
         <mark key="^" line="39" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/StartFragment.kt" timestamp="1550553322958">
-        <mark key="[" line="78" column="59" />
-        <mark key="]" line="78" column="59" />
-        <mark key="." line="78" column="59" />
-        <mark key="^" line="78" column="84" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/StartFragment.kt" timestamp="1550556100357">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/TopFragment.kt" timestamp="1550475490801">
         <mark key="[" line="34" column="3" />
@@ -334,11 +333,11 @@
         <mark key="." line="118" column="0" />
         <mark key="^" line="115" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" timestamp="1550553232169">
-        <mark key="[" line="172" column="33" />
-        <mark key="]" line="172" column="49" />
-        <mark key="." line="172" column="49" />
-        <mark key="^" line="172" column="49" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" timestamp="1550556586647">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+        <mark key="^" line="137" column="71" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_quiz_answer.xml" timestamp="1550472318988">
         <mark key="[" line="58" column="34" />
@@ -458,44 +457,44 @@
       <jump line="38" column="7" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/EndFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoInNzc3Nzc3Nzc3Nzc3NzOiR7cmV2aWV3QWN0aXZpdHkudmlld01vZGVsLnRyYWluaW5nSWRzW3N1YnNjcmlwdDJdLnRyYWluaW5nSWR9IikKICAgICAgICAgICAgVGltYmVyLmQoInNzc3Nzc3Nzc3Nzc3NzOiR7cmV2aWV3QWN0aXZpdHkudmlld01vZGVsLnRyYWluaW5nSWRzW3N1YnNjcmlwdDJdLmlkICUgMTB9IikK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciB0cmFpbmluZ0xpc3QgPSBtdXRhYmxlTGlzdE9mPFJlYWxtVHJhaW5pbmc+KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmQoImxsbGxsbGxsbGxsbGxsbGxsbGxsJHtyZXZpZXdBY3Rpdml0eS52aWV3TW9kZWwudHJhaW5pbmdMaXN0LnNpemV9IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVhbG1UcmFpbmluZy5hbnN3ZXIgPSBhbnN3ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoInNzc3Nzc3Nzc3Nzc3NzOiR7cmV2aWV3QWN0aXZpdHkudmlld01vZGVsLnRyYWluaW5nSWRzW3N1YnNjcmlwdDJdLnRyYWluaW5nSWR9IikKICAgICAgICAgICAgVGltYmVyLmQoInNzc3Nzc3Nzc3Nzc3NzOiR7cmV2aWV3QWN0aXZpdHkudmlld01vZGVsLnRyYWluaW5nSWRzW3N1YnNjcmlwdDJdLmlkICUgMTB9IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVhbG1UcmFpbmluZyA9IFJlYWxtVHJhaW5pbmcocmVhbG1JZCwgcmV2aWV3QWN0aXZpdHkudmlld01vZGVsLnRyYWluaW5nSWQsIGFuc3dlciwgYW5zd2VyICE9IENvbnN0LlJlc3VsdFR5cGUuQ09SUkVDVC5pbnQpCiAgICAgICAgICAgICAgICAgICAgICAgIHJlYWxtU3RhZ2UudHJhaW5pbmdMaXN0Py5hZGQocmVhbG1UcmFpbmluZykKICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0LmV4ZWN1dGVUcmFuc2FjdGlvbkFzeW5jIHsgcmVhbG0gLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlYWxtLmluc2VydE9yVXBkYXRlKHJlYWxtU3RhZ2UpCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9ZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoImdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2ciKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5kKCJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjJHtpdFtxdWVzdGlvbkluZGV4ICsgY29udGVudEluZGV4ICsgc3Vic2NyaXB0XS50cmFpbmluZ0lkfSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocXVlc3Rpb25JbmRleCArIGNvbnRlbnRJbmRleCArIHN1YnNjcmlwdCA+PSBpdC5zaXplIHx8CiAgICAgICAgICAgICAgICAgICAgaXRbcXVlc3Rpb25JbmRleCArIGNvbnRlbnRJbmRleCArIHN1YnNjcmlwdF0udHJhaW5pbmdJZCA+IHF1aXpBY3Rpdml0eS52aWV3TW9kZWwudHJhaW5pbmdJZCkgewogICAgICAgICAgICAgICAgcmV0dXJuQGxldAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmQoImxsbGxsbGxsbGxsbGxsbGxsbGxsJHtyZXZpZXdBY3Rpdml0eS52aWV3TW9kZWwudHJhaW5pbmdMaXN0LnNpemV9IikKICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmQoImxsbGxsbGxsbGxsbGxsbGxsbGxsJHtyZXZpZXdBY3Rpdml0eS52aWV3TW9kZWwudHJhaW5pbmdJZHMuc2l6ZX0iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmluaXNoKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5kKCJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjJHtpdFtxdWVzdGlvbkluZGV4ICsgY29udGVudEluZGV4ICsgc3Vic2NyaXB0XS50cmFpbmluZ0lkfSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5pc2goKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5kKCJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXRSZXN1bHQoQ29uc3QuUkVTVUxUX05HX1FVSVpfRE9XTkxPQUQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmQoImNjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zdC5Db250ZW50VHlwZS5PVkVSVklFVy5zdHIgLT4gewogICAgICAgICAgICAgICAgICAgICAgICBvdmVydmlld0luZGV4ID0gcXVlc3Rpb25JbmRleCArIGNvbnRlbnRJbmRleCArIHN1YnNjcmlwdAoKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciB0cmFpbmluZ0lkcyA9IG11dGFibGVMaXN0T2Y8U3RyaW5nPigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXRbcXVpekxpc3RbcXVlc3Rpb25JbmRleF0gKyBjb250ZW50SW5kZXhdLnRyYWluaW5nSWQgPiBxdWl6QWN0aXZpdHkudmlld01vZGVsLnRyYWluaW5nSWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -533,7 +532,6 @@
       </history-search>
       <history-cmd>
         <entry>lw</entry>
-        <entry>'w</entry>
         <entry>ew</entry>
         <entry>ws</entry>
         <entry>q!</entry>
@@ -547,6 +545,7 @@
         <entry>326</entry>
         <entry>2</entry>
         <entry>q</entry>
+        <entry>'w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
