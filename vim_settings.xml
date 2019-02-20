@@ -130,9 +130,6 @@
         <mark key="^" line="53" column="62" />
         <mark key="." line="53" column="62" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/DownloadDialogFragment.kt" timestamp="1550549465178">
-        <mark key="'" line="20" column="33" />
-      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/ReviewFragment.kt" timestamp="1550547921999">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -176,7 +173,7 @@
         <mark key="." line="30" column="24" />
         <mark key="^" line="30" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/strings.xml" timestamp="1550053490793">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/strings.xml" timestamp="1550623683420">
         <mark key="[" line="62" column="36" />
         <mark key="]" line="62" column="61" />
         <mark key="." line="62" column="61" />
