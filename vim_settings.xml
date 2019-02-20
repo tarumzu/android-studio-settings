@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1550319654726">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1550622925150">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="26" column="22" />
-        <mark key="." line="26" column="22" />
-        <mark key="^" line="149" column="37" />
+        <mark key="[" line="223" column="59" />
+        <mark key="]" line="223" column="59" />
+        <mark key="." line="223" column="59" />
+        <mark key="^" line="223" column="59" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_trophy_layout.xml" timestamp="1550052713751">
         <mark key="[" line="44" column="21" />
@@ -481,11 +481,11 @@
       <jump line="23" column="8" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewEndViewModel.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlbih2YWx1ZS50b0ludCgpKSB7CiAgICAgICAgICAgICAgICBDb25zdC5UUkFJTklOR19NQVggLT4gewogICAgICAgICAgICAgICAgICAgIG1lc3NhZ2UudmFsdWUgPSBpdC5nZXRTdHJpbmcoUi5zdHJpbmcubXNnX2NvcnJlY3QpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpbiA4Li45IC0+IHsKICAgICAgICAgICAgICAgICAgICBtZXNzYWdlLnZhbHVlID0gaXQuZ2V0U3RyaW5nKFIuc3RyaW5nLm1zZ19pbmNvcnJlY3Q5KQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaW4gNS4uNyAtPiB7CiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZS52YWx1ZSA9IGl0LmdldFN0cmluZyhSLnN0cmluZy5tc2dfaW5jb3JyZWN0NykKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UgLT4gewogICAgICAgICAgICAgICAgICAgIG1lc3NhZ2UudmFsdWUgPSBpdC5nZXRTdHJpbmcoUi5zdHJpbmcubXNnX2luY29ycmVjdDQpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>last</text>
