@@ -10,6 +10,17 @@
         <mark key="." line="227" column="75" />
         <mark key="^" line="227" column="75" />
       </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/layout_thanks.xml" timestamp="1550649034019">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="110" />
+        <mark key="^" line="73" column="110" />
+        <mark key="." line="73" column="110" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/ReviewActivity.kt" timestamp="1550547857261">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/TutorialActivity.kt" timestamp="1550629727512">
         <mark key="[" line="55" column="91" />
         <mark key="]" line="55" column="92" />
@@ -73,6 +84,11 @@
         <mark key="." line="311" column="45" />
         <mark key="^" line="311" column="45" />
       </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/wl_page_3.xml" timestamp="1550648128111">
+        <mark key="[" line="29" column="48" />
+        <mark key="]" line="29" column="48" />
+        <mark key="." line="29" column="48" />
+      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/BaseAdapter.kt" timestamp="1550292523929">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="35" column="0" />
@@ -135,6 +151,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/drawable/corner_round_border_red.xml" timestamp="1550324531181">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="38" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/OneMessageActivity.kt" timestamp="1550625390222">
         <mark key="[" line="21" column="43" />
@@ -234,6 +255,11 @@
         <mark key="." line="212" column="0" />
         <mark key="^" line="71" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/accounts/ActivationFragment.kt" timestamp="1550626006867">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="45" column="5" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_review_end.xml" timestamp="1550640468477">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />
@@ -277,7 +303,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="87" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550645841328">
+      <file name="/Dummy.txt" timestamp="1550649396618">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -345,6 +371,16 @@
         <mark key="]" line="58" column="35" />
         <mark key="." line="58" column="35" />
         <mark key="^" line="58" column="35" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/accounts/AccountFragment.kt" timestamp="1550625789314">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/WordActivity.kt" timestamp="1550549126267">
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -450,11 +486,11 @@
       <jump line="67" column="6" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/styles.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJNeU9zc0xpY2Vuc2VzIiBwYXJlbnQ9IlRoZW1lLkFwcENvbXBhdC5MaWdodC5EYXJrQWN0aW9uQmFyIj4KICAgICAgICA8aXRlbSBuYW1lPSJjb2xvckFjY2VudCI+QGNvbG9yL2JsYWNrPC9pdGVtPgogICAgPC9zdHlsZT4K</text>
+      <register name="&quot;" type="4">
+        <text>。</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>。</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHlsZVw+</text>
