@@ -140,6 +140,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="20" column="8" />
       </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/dev/res/values/strings.xml" timestamp="1551054404044">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="39" />
+      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/databinding/WordActivityViewModel.kt" timestamp="1550394179003">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -475,8 +479,8 @@
       <jump line="51" column="16" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_review_top.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBpX2Jhc2VfdXJsIj5odHRwczovL3RlcHBhbi1hcGktc3RhZ2luZy5zaWttaS5jb208L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0icmVhbG1faW5zdGFuY2VfYWRkcmVzcyI+dGVwcGFuLnVzMWEuY2xvdWQucmVhbG0uaW88L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iZW52Ij5zdGFnaW5nPC9zdHJpbmc+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
@@ -485,7 +489,7 @@
         <text encoding="base64">XDxzdHlsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpdml0eT8ubGV0IHtmYSAtPgo=</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBpX2Jhc2VfdXJsIj5odHRwczovL3RlcHBhbi1hcGktc3RhZ2luZy5zaWttaS5jb208L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0icmVhbG1faW5zdGFuY2VfYWRkcmVzcyI+dGVwcGFuLnVzMWEuY2xvdWQucmVhbG0uaW88L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iZW52Ij5zdGFnaW5nPC9zdHJpbmc+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
