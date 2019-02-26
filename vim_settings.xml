@@ -189,12 +189,12 @@
         <mark key="." line="0" column="38" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/strings.xml" timestamp="1551062529431">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/strings.xml" timestamp="1551141868514">
         <mark key="'" line="32" column="76" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="4" column="3" />
+        <mark key="[" line="39" column="47" />
+        <mark key="]" line="39" column="47" />
+        <mark key="." line="39" column="47" />
+        <mark key="^" line="39" column="47" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/WordActivityViewModel.kt" timestamp="1550538430077">
         <mark key="[" line="16" column="16" />
@@ -494,11 +494,11 @@
       <jump line="202" column="8" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>、</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>、</text>
       </register>
       <register name="/" type="4">
         <text>animatorSet</text>
