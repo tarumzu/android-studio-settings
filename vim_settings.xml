@@ -202,12 +202,12 @@
         <mark key="." line="0" column="38" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/strings.xml" timestamp="1551158591468">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/strings.xml" timestamp="1551238213610">
         <mark key="'" line="32" column="76" />
-        <mark key="[" line="42" column="38" />
-        <mark key="]" line="42" column="38" />
-        <mark key="." line="42" column="38" />
-        <mark key="^" line="42" column="38" />
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/WordActivityViewModel.kt" timestamp="1550538430077">
         <mark key="[" line="16" column="16" />
@@ -330,7 +330,7 @@
         <mark key="^" line="79" column="16" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551159847926">
+      <file name="/Dummy.txt" timestamp="1551238239335">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -358,10 +358,10 @@
         <mark key="." line="22" column="42" />
         <mark key="^" line="22" column="42" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/MenuFragment.kt" timestamp="1551157031859">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/MenuFragment.kt" timestamp="1551239234742">
         <mark key="'" line="206" column="0" />
         <mark key="[" line="312" column="0" />
-        <mark key="]" line="312" column="0" />
+        <mark key="]" line="314" column="29" />
         <mark key="." line="312" column="0" />
         <mark key="^" line="310" column="12" />
       </file>
@@ -528,17 +528,17 @@
       <jump line="91" column="27" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCByZWFsbVN0dWR5ID0gcmVzdWx0LndoZXJlKFJlYWxtU3R1ZHk6OmNsYXNzLmphdmEpLmVxdWFsVG8oImlkIixJbnRlZ2VyLnZhbHVlT2YoMCkpLmZpbmRGaXJzdCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWFsbVN0dWR5Py5sZXQgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdC5iZWdpblRyYW5zYWN0aW9uKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdC5sZWFybmluZ1RpbWUgKz0gcmV2aWV3QWN0aXZpdHkudmlld01vZGVsLmNvdW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV2aWV3QWN0aXZpdHkudmlld01vZGVsLmNvdW50ID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdC5jb21taXRUcmFuc2FjdGlvbigpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0LmV4ZWN1dGVUcmFuc2FjdGlvbkFzeW5jIHsgcmVhbG0gLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVhbG0uaW5zZXJ0T3JVcGRhdGUoaXQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>progress_bar_horizontal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmltYXRvci5wYXVzZSgpCg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iaW5xdWlyeV91cmwiPmh0dHBzOi8vZWlnb3NhcHVyaS5qcC9oZWxwL2VpZ29zYXB1cmkvPC9zdHJpbmc+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCByZWFsbVN0dWR5ID0gcmVzdWx0LndoZXJlKFJlYWxtU3R1ZHk6OmNsYXNzLmphdmEpLmVxdWFsVG8oImlkIixJbnRlZ2VyLnZhbHVlT2YoMCkpLmZpbmRGaXJzdCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWFsbVN0dWR5Py5sZXQgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdC5iZWdpblRyYW5zYWN0aW9uKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdC5sZWFybmluZ1RpbWUgKz0gcmV2aWV3QWN0aXZpdHkudmlld01vZGVsLmNvdW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV2aWV3QWN0aXZpdHkudmlld01vZGVsLmNvdW50ID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdC5jb21taXRUcmFuc2FjdGlvbigpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0LmV4ZWN1dGVUcmFuc2FjdGlvbkFzeW5jIHsgcmVhbG0gLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVhbG0uaW5zZXJ0T3JVcGRhdGUoaXQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
