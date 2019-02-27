@@ -146,7 +146,7 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="189" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/EndFragment.kt" timestamp="1551243114169">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/EndFragment.kt" timestamp="1551244233264">
         <mark key="'" line="41" column="24" />
         <mark key="[" line="174" column="0" />
         <mark key="]" line="174" column="0" />
@@ -227,12 +227,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="47" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/EndFragment.kt" timestamp="1551243108377">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/EndFragment.kt" timestamp="1551244222340">
         <mark key="'" line="106" column="4" />
         <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="37" />
-        <mark key="^" line="99" column="22" />
-        <mark key="." line="99" column="22" />
+        <mark key="]" line="99" column="48" />
+        <mark key="^" line="99" column="37" />
+        <mark key="." line="99" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewActivityViewModel.kt" timestamp="1550551284680">
         <mark key="[" line="12" column="37" />
@@ -265,7 +265,7 @@
         <mark key="^" line="79" column="16" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551243487451">
+      <file name="/Dummy.txt" timestamp="1551244580526">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -455,7 +455,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNFbmQgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXZpZXdNb2RlbC5pc0VuZCkgcGF1c2UoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>`</text>
@@ -464,34 +464,34 @@
         <text>viewModel.handler</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNFbmQgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISh2aWV3TW9kZWwuaXNFbmQgfHwgaXNFbmQpKSBwYXVzZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNFbmQgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXZpZXdNb2RlbC5pc0VuZCkgcGF1c2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocCFpc0VuZCkgcGF1c2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNFbmQgPSB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRW5kRnJhZ21lbnQK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocCFpc0VuZCkgcGF1c2UoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXVzZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRW5kRnJhZ21lbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblJlc3VtZSgpIHsKICAgICAgICBzdXBlci5vblJlc3VtZSgpCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXVzZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblJlc3VtZSgpIHsKICAgICAgICBzdXBlci5vblJlc3VtZSgpCiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblJlc3VtZSgpIHsKICAgICAgICBzdXBlci5vblJlc3VtZSgpCiAgICAgICAgcXVpekFjdGl2aXR5LnZpZXdNb2RlbC5oYW5kbGVyLnBvc3REZWxheWVkKHF1aXpBY3Rpdml0eS52aWV3TW9kZWwucnVubmFibGUsIDBMKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXZpZXdBY3Rpdml0eS52aWV3TW9kZWwuaGFuZGxlci5wb3N0RGVsYXllZChyZXZpZXdBY3Rpdml0eS52aWV3TW9kZWwucnVubmFibGUsIDBMKQo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblJlc3VtZSgpIHsKICAgICAgICBzdXBlci5vblJlc3VtZSgpCiAgICAgICAgcXVpekFjdGl2aXR5LnZpZXdNb2RlbC5oYW5kbGVyLnBvc3REZWxheWVkKHF1aXpBY3Rpdml0eS52aWV3TW9kZWwucnVubmFibGUsIDBMKQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
