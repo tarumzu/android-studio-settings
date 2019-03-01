@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" timestamp="1551359432817">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" timestamp="1551403851159">
         <mark key="'" line="199" column="39" />
-        <mark key="[" line="199" column="36" />
-        <mark key="]" line="199" column="36" />
-        <mark key="." line="199" column="36" />
-        <mark key="^" line="199" column="35" />
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
+        <mark key="^" line="213" column="82" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1551343750529">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1551404335237">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="28" column="20" />
         <mark key="]" line="28" column="22" />
@@ -108,7 +108,7 @@
         <mark key="." line="32" column="21" />
         <mark key="^" line="32" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551401072101">
+      <file name="/Dummy.txt" timestamp="1551403968512">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -157,10 +157,10 @@
         <mark key="." line="252" column="0" />
         <mark key="^" line="194" column="79" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" timestamp="1551340800577">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" timestamp="1551402171884">
         <mark key="'" line="467" column="4" />
-        <mark key="[" line="392" column="29" />
-        <mark key="]" line="392" column="32" />
+        <mark key="[" line="420" column="0" />
+        <mark key="]" line="432" column="46" />
         <mark key="." line="392" column="32" />
         <mark key="^" line="392" column="32" />
       </file>
@@ -294,43 +294,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy92YXIgcmVhbG1UcmFpbmluZyA9IGl0LnRyYWluaW5nTGlzdD8uZmlsdGVyIHsgaXQuaWQgPT0gd29yZElkIH0/LmZpcnN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>learningTime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZWFsbVRyYWluaW5nID0gcmVzdWx0LndoZXJlKFJlYWxtVHJhaW5pbmc6OmNsYXNzLmphdmEpLmVxdWFsVG8oImlkIiwgd29yZElkKS5maW5kRmlyc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFpbmluZ1Jlc3VsdC5hbnN3ZXIgPSB0cmFpbmluZy5hbnN3ZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy92YXIgcmVhbG1UcmFpbmluZyA9IGl0LnRyYWluaW5nTGlzdD8uZmlsdGVyIHsgaXQuaWQgPT0gd29yZElkIH0/LmZpcnN0KCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXQudHJhaW5pbmdMaXN0Py5hZGQocmVhbG1UcmFpbmluZykK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0LnRyYWluaW5nTGlzdD8uYWRkKHJlYWxtVHJhaW5pbmcpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWFsbS5pbnNlcnRPclVwZGF0ZShyZWFsbVRyYWluaW5nTGlzdCkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgaXQudHJhaW5pbmdMaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgcmVhbG1UcmFpbmluZyA9IHJlc3VsdC53aGVyZShSZWFsbVRyYWluaW5nOjpjbGFzcy5qYXZhKS5lcXVhbFRvKCJpZCIsICByZWFsbUlkKS5maW5kRmlyc3QoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWFsbS5pbnNlcnRPclVwZGF0ZShyZWFsbVRyYWluaW5nTGlzdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQuY29tbWl0VHJhbnNhY3Rpb24oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuZXhlY3V0ZVRyYW5zYWN0aW9uQXN5bmMgeyByZWFsbSAtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQuYmVnaW5UcmFuc2FjdGlvbigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5iZWdpblRyYW5zYWN0aW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAocmVhbG1UcmFpbmluZyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlYWxtVHJhaW5pbmcucmV2aWV3ID0gYW5zd2VyICE9IENvbnN0LlJlc3VsdFR5cGUuQ09SUkVDVC5pbnQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0LmV4ZWN1dGVUcmFuc2FjdGlvbkFzeW5jIHsgcmVhbG0gLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlYWxtLmluc2VydE9yVXBkYXRlKHJlYWxtVHJhaW5pbmcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
