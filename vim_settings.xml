@@ -3,28 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" timestamp="1551414752181">
-        <mark key="'" line="340" column="16" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="182" column="13" />
-        <mark key="." line="179" column="0" />
-        <mark key="^" line="213" column="82" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1551427119173">
+        <mark key="'" line="112" column="16" />
+        <mark key="[" line="96" column="12" />
+        <mark key="]" line="96" column="12" />
+        <mark key="." line="96" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1551404335237">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="28" column="20" />
-        <mark key="]" line="28" column="22" />
-        <mark key="." line="28" column="22" />
-        <mark key="^" line="164" column="66" />
-      </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/drawable/button_center_round.xml" timestamp="1551342579929">
-        <mark key="'" line="7" column="24" />
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="7" column="24" />
-      </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" timestamp="1551343327824" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/QuizFragment.kt" timestamp="1551408620108">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="42" />
@@ -43,25 +27,84 @@
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="30" />
       </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ListWordViewModel.kt" timestamp="1551401016765">
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="." line="253" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_quiz_start.xml" timestamp="1551254612099">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="87" column="52" />
+        <mark key="^" line="78" column="56" />
+        <mark key="." line="78" column="56" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" timestamp="1551422840621">
+        <mark key="'" line="115" column="40" />
+        <mark key="[" line="115" column="69" />
+        <mark key="]" line="115" column="69" />
+        <mark key="^" line="115" column="37" />
+        <mark key="." line="115" column="69" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/ResultFragment.kt" timestamp="1551425956628">
+        <mark key="[" line="64" column="73" />
+        <mark key="]" line="64" column="76" />
+        <mark key="^" line="64" column="76" />
+        <mark key="." line="64" column="76" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/ReviewFragment.kt" timestamp="1551409075193">
+        <mark key="[" line="49" column="17" />
+        <mark key="]" line="50" column="19" />
+        <mark key="." line="50" column="19" />
+        <mark key="^" line="50" column="19" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/OneMessageActivity.kt" timestamp="1551257386911">
+        <mark key="[" line="63" column="88" />
+        <mark key="]" line="63" column="88" />
+        <mark key="^" line="59" column="88" />
+        <mark key="." line="63" column="88" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" timestamp="1551425758647">
+        <mark key="'" line="395" column="16" />
+        <mark key="[" line="396" column="0" />
+        <mark key="]" line="397" column="138" />
+        <mark key="." line="165" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/EndFragment.kt" timestamp="1551415796401">
+        <mark key="'" line="41" column="24" />
+        <mark key="[" line="117" column="43" />
+        <mark key="]" line="118" column="23" />
+        <mark key="." line="118" column="23" />
+        <mark key="^" line="118" column="23" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/drawable/button_once_round.xml" timestamp="1551343523377">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/TrophyAdapter.kt" timestamp="1551425904799">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="92" column="140" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/strings.xml" timestamp="1551340193154">
+        <mark key="'" line="32" column="76" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="57" />
+        <mark key="." line="70" column="57" />
+        <mark key="^" line="70" column="57" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" timestamp="1551425733269">
+        <mark key="'" line="211" column="77" />
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_quiz_end.xml" timestamp="1551415146882">
         <mark key="[" line="88" column="54" />
         <mark key="]" line="88" column="59" />
         <mark key="^" line="88" column="59" />
         <mark key="." line="88" column="59" />
-      </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_review_top.xml" timestamp="1551159328915">
-        <mark key="'" line="98" column="16" />
-        <mark key="[" line="612" column="47" />
-        <mark key="]" line="612" column="47" />
-        <mark key="^" line="612" column="47" />
-        <mark key="." line="612" column="47" />
-      </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_setting_menu.xml" timestamp="1551254472107">
-        <mark key="'" line="245" column="31" />
-        <mark key="[" line="316" column="0" />
-        <mark key="]" line="322" column="58" />
-        <mark key="." line="229" column="50" />
-        <mark key="^" line="229" column="50" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/TeppanAndroidApplication.kt" timestamp="1551256937962">
         <mark key="[" line="33" column="18" />
@@ -69,31 +112,18 @@
         <mark key="^" line="33" column="22" />
         <mark key="." line="33" column="22" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ListWordViewModel.kt" timestamp="1551401016765">
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
-        <mark key="." line="253" column="0" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/models/Stage.kt" timestamp="1551421859252">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="6" />
+        <mark key="." line="18" column="6" />
+        <mark key="^" line="18" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_account_activation.xml" timestamp="1551340190228" />
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_quiz_start.xml" timestamp="1551254612099">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="87" column="52" />
-        <mark key="^" line="78" column="56" />
-        <mark key="." line="78" column="56" />
-      </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/RecordFragment.kt" timestamp="1551339208123">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/RecordFragment.kt" timestamp="1551425841712">
         <mark key="'" line="61" column="21" />
-        <mark key="[" line="85" column="36" />
-        <mark key="]" line="85" column="37" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="30" column="33" />
         <mark key="." line="85" column="37" />
         <mark key="^" line="85" column="37" />
-      </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/EndFragment.kt" timestamp="1551244222340">
-        <mark key="'" line="106" column="4" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="48" />
-        <mark key="^" line="99" column="37" />
-        <mark key="." line="99" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/MyApplication2/app/src/main/java/jp/sample/myapplication/MainActivity.kt" timestamp="1551100040912">
         <mark key="[" line="35" column="39" />
@@ -101,12 +131,12 @@
         <mark key="^" line="36" column="15" />
         <mark key="." line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewTopViewModel.kt" timestamp="1551154686326">
-        <mark key="'" line="782" column="8" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="79" column="16" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" timestamp="1551422963441">
+        <mark key="'" line="217" column="46" />
+        <mark key="[" line="215" column="45" />
+        <mark key="]" line="215" column="45" />
+        <mark key="." line="215" column="45" />
+        <mark key="^" line="215" column="45" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/activity_one_message.xml" timestamp="1551256630307">
         <mark key="[" line="31" column="45" />
@@ -114,36 +144,16 @@
         <mark key="." line="32" column="21" />
         <mark key="^" line="32" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551408750405">
+      <file name="/Dummy.txt" timestamp="1551426160307">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewEndViewModel.kt" timestamp="1551250323718">
-        <mark key="'" line="95" column="28" />
-        <mark key="[" line="86" column="20" />
-        <mark key="]" line="86" column="21" />
-        <mark key="." line="86" column="21" />
-        <mark key="^" line="86" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/QuizEndViewModel.kt" timestamp="1551416161855">
         <mark key="[" line="50" column="20" />
         <mark key="]" line="50" column="20" />
         <mark key="." line="50" column="20" />
         <mark key="^" line="50" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/MenuFragment.kt" timestamp="1551239234742">
-        <mark key="'" line="206" column="0" />
-        <mark key="[" line="312" column="0" />
-        <mark key="]" line="314" column="29" />
-        <mark key="." line="312" column="0" />
-        <mark key="^" line="310" column="12" />
-      </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/ReviewFragment.kt" timestamp="1551409075193">
-        <mark key="[" line="49" column="17" />
-        <mark key="]" line="50" column="19" />
-        <mark key="." line="50" column="19" />
-        <mark key="^" line="50" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/drawable/button_top_round.xml" timestamp="1551343056037">
         <mark key="[" line="9" column="0" />
@@ -155,37 +165,17 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/OneMessageActivity.kt" timestamp="1551257386911">
-        <mark key="[" line="63" column="88" />
-        <mark key="]" line="63" column="88" />
-        <mark key="^" line="59" column="88" />
-        <mark key="." line="63" column="88" />
-      </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/models/RealmStage.kt" timestamp="1551399754301" />
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" timestamp="1551418701880">
-        <mark key="'" line="191" column="39" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/EndFragment.kt" timestamp="1551415796401">
-        <mark key="'" line="41" column="24" />
-        <mark key="[" line="117" column="43" />
-        <mark key="]" line="118" column="23" />
-        <mark key="." line="118" column="23" />
-        <mark key="^" line="118" column="23" />
-      </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" timestamp="1551414672158">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" timestamp="1551423446348">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="326" column="0" />
         <mark key="]" line="326" column="79" />
         <mark key="." line="326" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" timestamp="1551327038688" />
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/drawable/button_once_round.xml" timestamp="1551343523377">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" timestamp="1551424533447">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="91" column="76" />
+        <mark key="^" line="91" column="76" />
+        <mark key="." line="91" column="76" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/TrainingAdapter.kt" timestamp="1551416510742">
         <mark key="[" line="115" column="25" />
@@ -199,61 +189,8 @@
         <mark key="." line="335" column="0" />
         <mark key="^" line="271" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/TrophyAdapter.kt" timestamp="1551327110704">
-        <mark key="[" line="87" column="86" />
-        <mark key="]" line="87" column="86" />
-        <mark key="^" line="84" column="38" />
-        <mark key="." line="87" column="86" />
-      </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/strings.xml" timestamp="1551340193154">
-        <mark key="'" line="32" column="76" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="57" />
-        <mark key="." line="70" column="57" />
-        <mark key="^" line="70" column="57" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="7" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/EndFragment.kt" />
-      <jump line="120" column="13" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
-      <jump line="317" column="177" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
-      <jump line="86" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/EndFragment.kt" />
-      <jump line="23" column="28" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/EndFragment.kt" />
-      <jump line="24" column="29" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/EndFragment.kt" />
-      <jump line="102" column="4" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/EndFragment.kt" />
-      <jump line="100" column="25" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewTopViewModel.kt" />
-      <jump line="103" column="33" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewTopViewModel.kt" />
-      <jump line="104" column="24" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewTopViewModel.kt" />
-      <jump line="109" column="54" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewTopViewModel.kt" />
-      <jump line="110" column="36" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewTopViewModel.kt" />
-      <jump line="19" column="11" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewEndViewModel.kt" />
-      <jump line="24" column="8" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewEndViewModel.kt" />
-      <jump line="23" column="8" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewEndViewModel.kt" />
-      <jump line="191" column="8" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/MenuFragment.kt" />
-      <jump line="193" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/MenuFragment.kt" />
-      <jump line="2" column="39" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/strings.xml" />
-      <jump line="30" column="76" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/strings.xml" />
-      <jump line="16" column="11" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/styles.xml" />
-      <jump line="67" column="6" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/styles.xml" />
-      <jump line="51" column="16" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_review_top.xml" />
-      <jump line="223" column="24" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
-      <jump line="20" column="25" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
-      <jump line="21" column="25" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
-      <jump line="22" column="25" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
-      <jump line="23" column="25" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
-      <jump line="159" column="50" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
-      <jump line="162" column="29" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
-      <jump line="163" column="20" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
-      <jump line="164" column="20" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
-      <jump line="165" column="20" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
-      <jump line="166" column="24" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
-      <jump line="371" column="16" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
-      <jump line="26" column="38" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
-      <jump line="190" column="26" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" />
-      <jump line="187" column="26" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" />
-      <jump line="194" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" />
-      <jump line="119" column="28" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" />
       <jump line="195" column="16" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" />
       <jump line="244" column="16" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" />
       <jump line="204" column="28" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" />
@@ -314,68 +251,102 @@
       <jump line="337" column="16" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
       <jump line="339" column="16" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
       <jump line="340" column="16" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
+      <jump line="103" column="27" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
+      <jump line="165" column="38" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
+      <jump line="229" column="50" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
+      <jump line="231" column="51" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
+      <jump line="230" column="69" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
+      <jump line="169" column="38" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
+      <jump line="196" column="42" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
+      <jump line="201" column="42" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
+      <jump line="207" column="70" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
+      <jump line="208" column="50" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
+      <jump line="215" column="46" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
+      <jump line="8" column="15" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" />
+      <jump line="156" column="24" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" />
+      <jump line="147" column="22" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" />
+      <jump line="157" column="24" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" />
+      <jump line="110" column="49" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" />
+      <jump line="114" column="40" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" />
+      <jump line="115" column="40" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" />
+      <jump line="6" column="24" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="177" column="20" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="176" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="160" column="20" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="159" column="20" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="90" column="32" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
+      <jump line="345" column="118" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
+      <jump line="441" column="118" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
+      <jump line="99" column="8" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
+      <jump line="113" column="21" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
+      <jump line="193" column="42" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
+      <jump line="196" column="42" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
+      <jump line="197" column="98" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
+      <jump line="206" column="66" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
+      <jump line="207" column="74" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
+      <jump line="209" column="74" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
+      <jump line="211" column="77" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
+      <jump line="395" column="16" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
+      <jump line="97" column="11" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="113" column="16" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>parent</text>
+        <text>Stage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG51bWJlck9mQ29ycmVjdCA9IHJlc3VsdFRyYWluaW5nTGlzdC5maWx0ZXIgeyAoaXQgYXMgUmVhbG1UcmFpbmluZykuYW5zd2VyID09IDEgJiYgKGl0IGFzIFJlYWxtVHJhaW5pbmcpLnRyYWluaW5nSWQudG9TdHJpbmcoKSA9PSB0cmFpbmluZ0lkfS5zaXplCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0LmJldGFEaXN0cmlidXRpb25SZWxlYXNlTm90ZXM9Z2V0Q3VycmVudENvbW1pdE1lc3NhZ2UoJ3JlbGVhc2UnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguc2VyaWFsaXphdGlvbi5JbXBsaWNpdFJlZmxlY3Rpb25TZXJpYWxpemVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlYWxtU3R1ZHkgPSBSZWFsbVN0dWR5KCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlYWxtLmluc2VydE9yVXBkYXRlKHJlYWxtU3R1ZHkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKCJra2tra2tra2tra2tra2trazoke3RyYWluaW5nLmlkfSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAocmVxdWlyZU5vdE51bGwocmVhbG1TdGFnZS50cmFpbmluZ0xpc3QpLnNpemUgPiAwKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0LmV4ZWN1dGVUcmFuc2FjdGlvbkFzeW5jIHsgcmVhbG0gLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAocmVxdWlyZU5vdE51bGwocmVhbG1TdGFnZS50cmFpbmluZ0xpc3QpLnNpemUgPiAwKSB7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0LmNvbW1pdFRyYW5zYWN0aW9uKCkK</text>
+      <register name="7" type="8">
+        <text>//
+//
+//</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0LmJlZ2luVHJhbnNhY3Rpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmQoInJycnJycnJycnJycnJycnJyciR7dmFsdWUuc3RhZ2VJZH0iKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgicnJycnJycnJycnJycnJycnJyJHt2YWx1ZS5zdGFnZU5hbWV9IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgc3RhZ2VzID0gIGl0LndoZXJlKFJlYWxtU3RhZ2U6OmNsYXNzLmphdmEpLmZpbmRBbGwoKS50b011dGFibGVMaXN0KCkKCiAgICAgICAgICAgICAgICAgICAgaWYgKHN0YWdlcy5zaXplIDwgMTYpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaXQuYmVnaW5UcmFuc2FjdGlvbigpCiAgICAgICAgICAgICAgICAgICAgICAgIGZvciAoaSBpbiAxLi4xNikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHN0YWdlcy5maWx0ZXIgeyBpdC5zdGFnZUlkID09IGkgfS5pc051bGxPckVtcHR5KCkpIHN0YWdlcyArPSBSZWFsbVN0YWdlKGkpCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgaXQuY29tbWl0VHJhbnNhY3Rpb24oKQogICAgICAgICAgICAgICAgICAgICAgICBpdC5leGVjdXRlVHJhbnNhY3Rpb25Bc3luYyB7IHJlYWxtIC0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWFsbS5pbnNlcnRPclVwZGF0ZShzdGFnZXMpCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXQuc3Q9IHZhbHVlLnVwZGF0ZVRpbWVzdGFtcAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>parent</last-search>
+      <last-search>Stage</last-search>
       <last-offset />
-      <last-pattern>parent</last-pattern>
+      <last-pattern>Stage</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>startFragment</entry>
-        <entry>resultTrainingListn</entry>
-        <entry>resultTrainingList</entry>
-        <entry>last</entry>
-        <entry>com.google.gms:google-services</entry>
-        <entry encoding="base64">XDxzdHlsZVw+</entry>
-        <entry>list</entry>
-        <entry>dispRealm</entry>
         <entry>scrollToPosition</entry>
         <entry>reverseCard</entry>
         <entry>isReversed</entry>
@@ -388,6 +359,14 @@
         <entry>ToPo</entry>
         <entry>learningTime</entry>
         <entry>parent</entry>
+        <entry>updateFlg</entry>
+        <entry>addFontWeightStyle</entry>
+        <entry>style</entry>
+        <entry>String</entry>
+        <entry>androidx.core:core</entry>
+        <entry>androidx.appcompat</entry>
+        <entry>stage</entry>
+        <entry>Stage</entry>
       </history-search>
       <history-cmd>
         <entry>lw</entry>
