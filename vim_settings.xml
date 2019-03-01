@@ -144,16 +144,16 @@
         <mark key="." line="32" column="21" />
         <mark key="^" line="32" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551426160307">
+      <file name="/Dummy.txt" timestamp="1551429494756">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/QuizEndViewModel.kt" timestamp="1551416161855">
-        <mark key="[" line="50" column="20" />
-        <mark key="]" line="50" column="20" />
-        <mark key="." line="50" column="20" />
-        <mark key="^" line="50" column="20" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/QuizEndViewModel.kt" timestamp="1551429355638">
+        <mark key="[" line="50" column="19" />
+        <mark key="]" line="50" column="19" />
+        <mark key="." line="50" column="19" />
+        <mark key="^" line="50" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/drawable/button_top_round.xml" timestamp="1551343056037">
         <mark key="[" line="9" column="0" />
@@ -177,11 +177,11 @@
         <mark key="^" line="91" column="76" />
         <mark key="." line="91" column="76" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/TrainingAdapter.kt" timestamp="1551416510742">
-        <mark key="[" line="115" column="25" />
-        <mark key="]" line="115" column="26" />
-        <mark key="^" line="115" column="26" />
-        <mark key="." line="115" column="26" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/TrainingAdapter.kt" timestamp="1551429424168">
+        <mark key="[" line="115" column="19" />
+        <mark key="]" line="115" column="19" />
+        <mark key="^" line="115" column="19" />
+        <mark key="." line="115" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_quiz_answer.xml" timestamp="1551414582933">
         <mark key="[" line="335" column="0" />
@@ -294,10 +294,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>Stage</text>
