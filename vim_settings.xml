@@ -45,6 +45,12 @@
         <mark key="." line="88" column="59" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/BaseActivity.kt" timestamp="1551544215498" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_setting_menu.xml" timestamp="1551680005276">
+        <mark key="[" line="200" column="38" />
+        <mark key="]" line="200" column="48" />
+        <mark key="." line="200" column="48" />
+        <mark key="^" line="200" column="48" />
+      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/TeppanAndroidApplication.kt" timestamp="1551256937962">
         <mark key="[" line="33" column="18" />
         <mark key="]" line="33" column="22" />
@@ -332,10 +338,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>D</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text>setStatusBar</text>
