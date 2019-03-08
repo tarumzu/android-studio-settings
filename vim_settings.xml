@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1551931595794">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1552008858266">
         <mark key="'" line="112" column="16" />
-        <mark key="[" line="154" column="28" />
-        <mark key="]" line="154" column="28" />
-        <mark key="." line="154" column="28" />
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="22" />
+        <mark key="." line="28" column="22" />
         <mark key="^" line="154" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_review_answer.xml" timestamp="1551343727874">
