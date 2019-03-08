@@ -44,6 +44,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="46" column="31" />
       </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/build.gradle" timestamp="1552036122317" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/wl_page_3.xml" timestamp="1548927041084">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="49" />
@@ -63,7 +64,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="30" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/Const.kt" timestamp="1549882084941" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/databinding/QuizViewModel.kt" timestamp="1549342786289">
         <mark key="[" line="25" column="22" />
         <mark key="]" line="21" column="20" />
@@ -232,7 +232,7 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="27" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549885460536">
+      <file name="/Dummy.txt" timestamp="1552036129241">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_account_success.xml" timestamp="1549348154673">
