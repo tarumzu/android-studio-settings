@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.moshi/moshi/1.8.0/b6fe06b040c94e2453022197f74b5776f2867ced/moshi-1.8.0-sources.jar!/com/squareup/moshi/Json.java" timestamp="1552116876884" />
-      <file name="/Dummy.txt" timestamp="1552120108278">
+      <file name="/Dummy.txt" timestamp="1552138379259">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1552115680352">
