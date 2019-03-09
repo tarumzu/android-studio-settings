@@ -28,11 +28,11 @@
         <mark key="." line="28" column="93" />
         <mark key="^" line="28" column="93" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/gradle.properties" timestamp="1552106762837">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="18" column="0" />
+      <file name="$USER_HOME$/Develop/teppanandroid/gradle.properties" timestamp="1552136860650">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
         <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8956ff61fd0b6ab756f8268a3e6eb2f/META-INF/proguard/moshi.pro" timestamp="1552102921376" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/MenuFragment.kt" timestamp="1552108594832">
@@ -162,11 +162,11 @@
       <jump line="107" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBDbGFzcyBuYW1lcyBhcmUgbmVlZGVkIGluIHJlZmxlY3Rpb24KLWtlZXBuYW1lcyBjbGFzcyBjb20uYW1hem9uYXdzLioqCi1rZWVwbmFtZXMgY2xhc3MgY29tLmFtYXpvbi4qKgojIFJlcXVlc3QgaGFuZGxlcnMgZGVmaW5lZCBpbiByZXF1ZXN0LmhhbmRsZXJzCi1rZWVwIGNsYXNzIGNvbS5hbWF6b25hd3Muc2VydmljZXMuKiouKkhhbmRsZXIKIyBUaGUgZm9sbG93aW5nIGFyZSByZWZlcmVuY2VkIGJ1dCBhcmVuJ3QgcmVxdWlyZWQgdG8gcnVuCi1kb250d2FybiBjb20uZmFzdGVyeG1sLmphY2tzb24uKioKLWRvbnR3YXJuIG9yZy5hcGFjaGUuY29tbW9ucy5sb2dnaW5nLioqCiMgQW5kcm9pZCA2LjAgcmVsZWFzZSByZW1vdmVzIHN1cHBvcnQgZm9yIHRoZSBBcGFjaGUgSFRUUCBjbGllbnQKLWRvbnR3YXJuIG9yZy5hcGFjaGUuaHR0cC4qKgojIFRoZSBTREsgaGFzIHNldmVyYWwgcmVmZXJlbmNlcyBvZiBBcGFjaGUgSFRUUCBjbGllbnQKLWRvbnR3YXJuIGNvbS5hbWF6b25hd3MuaHR0cC4qKgotZG9udHdhcm4gY29tLmFtYXpvbmF3cy5tZXRyaWNzLioqCg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>ddddd</text>
