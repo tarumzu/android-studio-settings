@@ -96,11 +96,17 @@
         <mark key="]" line="83" column="40" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" timestamp="1552391599161">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_word.xml" timestamp="1552392715024">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="80" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" timestamp="1552392759570">
         <mark key="'" line="192" column="38" />
-        <mark key="[" line="325" column="0" />
-        <mark key="]" line="325" column="0" />
-        <mark key="." line="325" column="0" />
+        <mark key="[" line="325" column="86" />
+        <mark key="]" line="325" column="44" />
+        <mark key="." line="325" column="44" />
+        <mark key="^" line="325" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" timestamp="1552352729058">
         <mark key="'" line="15" column="24" />
@@ -129,7 +135,7 @@
         <mark key="^" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.moshi/moshi/1.8.0/b6fe06b040c94e2453022197f74b5776f2867ced/moshi-1.8.0-sources.jar!/com/squareup/moshi/Json.java" timestamp="1552116876884" />
-      <file name="/Dummy.txt" timestamp="1552370668145">
+      <file name="/Dummy.txt" timestamp="1552393053169">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/TopFragment.kt" timestamp="1552300562378">
@@ -149,12 +155,11 @@
         <mark key="." line="29" column="8" />
         <mark key="^" line="26" column="8" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" timestamp="1552391185665">
-        <mark key="'" line="63" column="64" />
-        <mark key="[" line="68" column="20" />
-        <mark key="]" line="68" column="20" />
-        <mark key="." line="68" column="20" />
-        <mark key="^" line="68" column="20" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" timestamp="1552394103106">
+        <mark key="'" line="6" column="25" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/models/Training.kt" timestamp="1552117594350" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/SplashActivity.kt" timestamp="1552110425176">
@@ -202,11 +207,12 @@
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" timestamp="1552290037285">
         <mark key="'" line="158" column="174" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" timestamp="1552365447095">
-        <mark key="[" line="257" column="31" />
-        <mark key="]" line="257" column="32" />
-        <mark key="." line="257" column="32" />
-        <mark key="^" line="257" column="32" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" timestamp="1552393015705">
+        <mark key="'" line="222" column="54" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="254" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -277,61 +283,63 @@
       <jump line="52" column="27" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
       <jump line="58" column="59" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
       <jump line="63" column="64" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
+      <jump line="224" column="54" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" />
+      <jump line="5" column="25" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
+      <jump line="6" column="25" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0TWFuYWdlcj0iYW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5MaW5lYXJMYXlvdXRNYW5hZ2VyIgo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LnJlY3ljbGVydmlldy53aWRnZXQuTGluZWFyTGF5b3V0TWFuYWdlcgo=</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text>OnBackPressedCallback</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5kZWJ1Zwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dE1hbmFnZXI9ImFuZHJvaWR4LnJlY3ljbGVydmlldy53aWRnZXQuTGluZWFyTGF5b3V0TWFuYWdlciIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0TWFuYWdlcj0iYW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5MaW5lYXJMYXlvdXRNYW5hZ2VyIgo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LnJlY3ljbGVydmlldy53aWRnZXQuTGluZWFyTGF5b3V0TWFuYWdlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgbGF5b3V0ID0gTGluZWFyTGF5b3V0TWFuYWdlcihiYXNlQWN0aXZpdHkuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkpCiAgICAgICAgICAgICAgICAgICAgYmluZGluZy5yb290Lmxpc3QubGF5b3V0TWFuYWdlciA9IGxheW91dAo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmFjdGl2aXR5Lk9uQmFja1ByZXNzZWRDYWxsYmFjawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0TWFuYWdlcj0iYW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5MaW5lYXJMYXlvdXRNYW5hZ2VyIgo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LnJlY3ljbGVydmlldy53aWRnZXQuR3JpZExheW91dE1hbmFnZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0b3BfdG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdC50cmFpbmluZ19saXN0LmxheW91dE1hbmFnZXIgPSBsYXlvdXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgbGF5b3V0ID0gR3JpZExheW91dE1hbmFnZXIoYWN0aXZpdHkuZ2V0QXBwbGljYXRpb25Db250ZXh0KCksIDMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNYXRlcmlhbFNob3djYXNlVmlldy5CdWlsZGVyKGFjdGl2aXR5KQogICAgICAgICAgICAgICAgLnNldFRhcmdldCh0dXRvcmlhbCkKICAgICAgICAgICAgICAgIC5zZXREaXNtaXNzT25UYXJnZXRUb3VjaCh0cnVlKQogICAgICAgICAgICAgICAgLnNldERpc21pc3NPblRvdWNoKHRydWUpCiAgICAgICAgICAgICAgICAuc2V0Q29udGVudFRleHQoIuaoquOCueODr+OCpOODl+OBp+OCueODhuODvOOCuOenu+WLleOBp+OBjeOBvuOBmSIpCiAgICAgICAgICAgICAgICAuc2luZ2xlVXNlKCJzd2lwZXR1dG9yaWFsIikKICAgICAgICAgICAgICAgIC5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgbGF5b3V0ID0gTGluZWFyTGF5b3V0TWFuYWdlcihiYXNlQWN0aXZpdHkuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkpCiAgICAgICAgICAgICAgICAgICAgYmluZGluZy5yb290Lmxpc3QubGF5b3V0TWFuYWdlciA9IGxheW91dAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXNrQ29sb3VyKFIuY29sb3IudGVwcGFuX2RhcmtfYmx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0TWFuYWdlcj0iYW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5MaW5lYXJMYXlvdXRNYW5hZ2VyIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vLnNpbmdsZVVzZSgic3dpcGV0dXRvcmlhbCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0TWFuYWdlcj0iYW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5MaW5lYXJMYXlvdXRNYW5hZ2VyIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgbGF5b3V0ID0gTGluZWFyTGF5b3V0TWFuYWdlcihiYXNlQWN0aXZpdHkuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkpCiAgICAgICAgICAgICAgICAgICAgYmluZGluZy5yb290Lmxpc3QubGF5b3V0TWFuYWdlciA9IGxheW91dAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search>OnBackPressedCallback</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern>OnBackPressedCallback</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>com.squareup.moshi</entry>
         <entry>VERSION_1_8</entry>
         <entry>TutorialActivity</entry>
         <entry>facebook</entry>
@@ -351,6 +359,7 @@
         <entry>debug</entry>
         <entry>release</entry>
         <entry>list</entry>
+        <entry>OnBackPressedCallback</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
