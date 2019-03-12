@@ -62,12 +62,12 @@
         <mark key="]" line="83" column="40" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" timestamp="1552119982978">
-        <mark key="'" line="89" column="10" />
-        <mark key="[" line="40" column="34" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="40" column="33" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" timestamp="1552352729058">
+        <mark key="'" line="15" column="24" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="99" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/utils/DownloadUtil.kt" timestamp="1552119819812">
         <mark key="'" line="107" column="0" />
@@ -211,55 +211,56 @@
       <jump line="144" column="104" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
       <jump line="145" column="174" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
       <jump line="158" column="174" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
+      <jump line="15" column="24" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhc2VBY3Rpdml0eS5zZXRSZXN1bHQoQ29uc3QuUkVTVUxUX09LX1JFVklFVykK</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmNyYXNobHl0aWNzLioqIHsgKjsgfQota2VlcCBjbGFzcyBjb20uY3Jhc2hseXRpY3MuYW5kcm9pZC4qKgo=</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>trainingIds</text>
+        <text>mapping</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhc2VBY3Rpdml0eS5zZXRSZXN1bHQoQ29uc3QuUkVTVUxUX09LX1JFVklFVykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLmluaXQoKQo=</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmNyYXNobHl0aWNzLioqIHsgKjsgfQota2VlcCBjbGFzcyBjb20uY3Jhc2hseXRpY3MuYW5kcm9pZC4qKgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwuaW5pdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLmluaXQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXNrQ29sb3VyKFIuY29sb3Iuc2tlbGV0b25fYmx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwuaW5pdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXNrQ29sb3VyKFIuY29sb3Iuc2tlbGV0b25fYmx1ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfWVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfWVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVOb3ROdWxsKHJlYWxtU3RhZ2UudHJhaW5pbmdMaXN0KSArPSB0cmFpbmluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVOb3ROdWxsKHJlYWxtU3RhZ2UudHJhaW5pbmdMaXN0KSArPSB0cmFpbmluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyYWluaW5nUmVzdWx0LnJldmlldyA9IHRyYWluaW5nLnJldmlldwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>trainingIds</last-search>
+      <last-search>mapping</last-search>
       <last-offset />
-      <last-pattern>trainingIds</last-pattern>
+      <last-pattern>mapping</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -280,6 +281,8 @@
         <entry>ddddd</entry>
         <entry>trainingId</entry>
         <entry>trainingIds</entry>
+        <entry>crashlytics</entry>
+        <entry>mapping</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
