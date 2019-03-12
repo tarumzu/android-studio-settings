@@ -9,18 +9,18 @@
         <mark key="." line="219" column="0" />
         <mark key="^" line="215" column="40" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1552279568401">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="77" column="12" />
-        <mark key="]" line="77" column="13" />
-        <mark key="^" line="77" column="13" />
-        <mark key="." line="77" column="13" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1552366319443">
+        <mark key="'" line="59" column="12" />
+        <mark key="[" line="80" column="12" />
+        <mark key="]" line="80" column="12" />
+        <mark key="^" line="81" column="13" />
+        <mark key="." line="80" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/signingConfigs/release.gradle" timestamp="1552365882318">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/signingConfigs/release.gradle" timestamp="1552366490997">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+        <mark key="^" line="5" column="29" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" timestamp="1552354569370">
         <mark key="'" line="0" column="0" />
@@ -226,19 +226,29 @@
       <jump line="15" column="24" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
       <jump line="20" column="35" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" />
+      <jump line="53" column="19" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="45" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="50" column="4" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="54" column="36" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="48" column="4" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="55" column="87" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="56" column="12" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="57" column="24" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="59" column="12" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>0B41A0</text>
+        <text>release</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0ZXBwYW5fZGFya19ibHVlMiI+IzBCNDFBMDwvY29sb3I+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5kZWJ1Zwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -272,9 +282,9 @@
       </register>
     </registers>
     <search>
-      <last-search>0B41A0</last-search>
+      <last-search>release</last-search>
       <last-offset />
-      <last-pattern>0B41A0</last-pattern>
+      <last-pattern>release</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -298,6 +308,8 @@
         <entry>crashlytics</entry>
         <entry>mapping</entry>
         <entry>0B41A0</entry>
+        <entry>debug</entry>
+        <entry>release</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
