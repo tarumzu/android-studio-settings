@@ -22,6 +22,12 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/gradle/wrapper/gradle-wrapper.properties" timestamp="1552387349154">
+        <mark key="[" line="5" column="68" />
+        <mark key="]" line="5" column="68" />
+        <mark key="." line="5" column="68" />
+        <mark key="^" line="5" column="68" />
+      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" timestamp="1552354569370">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="0" />
@@ -41,6 +47,12 @@
         <mark key="." line="94" column="0" />
       </file>
       <file name="/AnswerFragment.kt" timestamp="1552287313691" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/TeppanAndroidApplication.kt" timestamp="1552108698811">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="18" column="9" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/build.gradle" timestamp="1552114157340">
         <mark key="[" line="15" column="52" />
         <mark key="]" line="15" column="53" />
@@ -239,10 +251,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>release</text>
