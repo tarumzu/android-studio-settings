@@ -28,6 +28,11 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="68" />
       </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/activity_main.xml" timestamp="1552389614230">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" timestamp="1552354569370">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="0" />
@@ -52,6 +57,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="18" column="9" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/accounts/ActivationFragment.kt" timestamp="1552109229288">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/build.gradle" timestamp="1552114157340">
         <mark key="[" line="15" column="52" />
@@ -84,6 +95,12 @@
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="40" />
         <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" timestamp="1552391599161">
+        <mark key="'" line="192" column="38" />
+        <mark key="[" line="325" column="0" />
+        <mark key="]" line="325" column="0" />
+        <mark key="." line="325" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" timestamp="1552352729058">
         <mark key="'" line="15" column="24" />
@@ -131,6 +148,13 @@
         <mark key="]" line="29" column="8" />
         <mark key="." line="29" column="8" />
         <mark key="^" line="26" column="8" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" timestamp="1552391185665">
+        <mark key="'" line="63" column="64" />
+        <mark key="[" line="68" column="20" />
+        <mark key="]" line="68" column="20" />
+        <mark key="." line="68" column="20" />
+        <mark key="^" line="68" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/models/Training.kt" timestamp="1552117594350" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/SplashActivity.kt" timestamp="1552110425176">
@@ -248,61 +272,65 @@
       <jump line="56" column="12" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
       <jump line="57" column="24" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
       <jump line="59" column="12" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="192" column="38" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" />
+      <jump line="31" column="35" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
+      <jump line="52" column="27" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
+      <jump line="58" column="59" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
+      <jump line="63" column="64" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0TWFuYWdlcj0iYW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5MaW5lYXJMYXlvdXRNYW5hZ2VyIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>release</text>
+        <text>list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5kZWJ1Zwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0TWFuYWdlcj0iYW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5MaW5lYXJMYXlvdXRNYW5hZ2VyIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYXRlcmlhbFNob3djYXNlVmlldy5CdWlsZGVyKGFjdGl2aXR5KQogICAgICAgICAgICAgICAgLnNldFRhcmdldCh0dXRvcmlhbCkKICAgICAgICAgICAgICAgIC5zZXREaXNtaXNzT25UYXJnZXRUb3VjaCh0cnVlKQogICAgICAgICAgICAgICAgLnNldERpc21pc3NPblRvdWNoKHRydWUpCiAgICAgICAgICAgICAgICAuc2V0Q29udGVudFRleHQoIuaoquOCueODr+OCpOODl+OBp+OCueODhuODvOOCuOenu+WLleOBp+OBjeOBvuOBmSIpCiAgICAgICAgICAgICAgICAuc2luZ2xlVXNlKCJzd2lwZXR1dG9yaWFsIikKICAgICAgICAgICAgICAgIC5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgbGF5b3V0ID0gTGluZWFyTGF5b3V0TWFuYWdlcihiYXNlQWN0aXZpdHkuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkpCiAgICAgICAgICAgICAgICAgICAgYmluZGluZy5yb290Lmxpc3QubGF5b3V0TWFuYWdlciA9IGxheW91dAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXNrQ29sb3VyKFIuY29sb3IudGVwcGFuX2RhcmtfYmx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0TWFuYWdlcj0iYW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5MaW5lYXJMYXlvdXRNYW5hZ2VyIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vLnNpbmdsZVVzZSgic3dpcGV0dXRvcmlhbCIpCg==</text>
+        <text encoding="base64">ICAgICAgICB0b3BfdG8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQK</text>
+        <text encoding="base64">ICAgICAgICBNYXRlcmlhbFNob3djYXNlVmlldy5CdWlsZGVyKGFjdGl2aXR5KQogICAgICAgICAgICAgICAgLnNldFRhcmdldCh0dXRvcmlhbCkKICAgICAgICAgICAgICAgIC5zZXREaXNtaXNzT25UYXJnZXRUb3VjaCh0cnVlKQogICAgICAgICAgICAgICAgLnNldERpc21pc3NPblRvdWNoKHRydWUpCiAgICAgICAgICAgICAgICAuc2V0Q29udGVudFRleHQoIuaoquOCueODr+OCpOODl+OBp+OCueODhuODvOOCuOenu+WLleOBp+OBjeOBvuOBmSIpCiAgICAgICAgICAgICAgICAuc2luZ2xlVXNlKCJzd2lwZXR1dG9yaWFsIikKICAgICAgICAgICAgICAgIC5zaG93KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0ZXBwYW5fZGFya19ibHVlMyI+IzBCNDFBMDwvY29sb3I+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXNrQ29sb3VyKFIuY29sb3IudGVwcGFuX2RhcmtfYmx1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXNrQ29sb3VyKFIuY29sb3IuYmxhY2spCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vLnNpbmdsZVVzZSgic3dpcGV0dXRvcmlhbCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXNrQ29sb3VyKFIuY29sb3IudGVwcGFuX2RhcmtfYmx1ZTMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>release</last-search>
+      <last-search>list</last-search>
       <last-offset />
-      <last-pattern>release</last-pattern>
+      <last-pattern>list</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>annotation</entry>
         <entry>com.squareup.moshi</entry>
         <entry>VERSION_1_8</entry>
         <entry>TutorialActivity</entry>
@@ -322,6 +350,7 @@
         <entry>0B41A0</entry>
         <entry>debug</entry>
         <entry>release</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
