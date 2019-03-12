@@ -16,7 +16,12 @@
         <mark key="^" line="77" column="13" />
         <mark key="." line="77" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" timestamp="1552289207426" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" timestamp="1552354569370">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/TutorialActivity.kt" timestamp="1552107083794" />
       <file name="$USER_HOME$/Develop/teppanandroid/gradle.properties" timestamp="1552136860650">
         <mark key="[" line="17" column="0" />
@@ -155,10 +160,10 @@
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" timestamp="1552290037285">
         <mark key="'" line="158" column="174" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" timestamp="1552289213188">
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="262" column="0" />
-        <mark key="." line="262" column="0" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" timestamp="1552354628830">
+        <mark key="[" line="261" column="39" />
+        <mark key="]" line="261" column="39" />
+        <mark key="." line="261" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -212,55 +217,57 @@
       <jump line="145" column="174" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
       <jump line="158" column="174" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
       <jump line="15" column="24" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
+      <jump line="20" column="35" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmNyYXNobHl0aWNzLioqIHsgKjsgfQota2VlcCBjbGFzcyBjb20uY3Jhc2hseXRpY3MuYW5kcm9pZC4qKgo=</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>mapping</text>
+        <text>0B41A0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhc2VBY3Rpdml0eS5zZXRSZXN1bHQoQ29uc3QuUkVTVUxUX09LX1JFVklFVykK</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0ZXBwYW5fZGFya19ibHVlMiI+IzBCNDFBMDwvY29sb3I+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmNyYXNobHl0aWNzLioqIHsgKjsgfQota2VlcCBjbGFzcyBjb20uY3Jhc2hseXRpY3MuYW5kcm9pZC4qKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLmluaXQoKQo=</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0ZXBwYW5fZGFya19ibHVlMyI+IzBCNDFBMDwvY29sb3I+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwuaW5pdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXNrQ29sb3VyKFIuY29sb3IuYmxhY2spCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXNrQ29sb3VyKFIuY29sb3Iuc2tlbGV0b25fYmx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXNrQ29sb3VyKFIuY29sb3IudGVwcGFuX2RhcmtfYmx1ZTMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0ZXBwYW5fZGFya19ibHVlMyI+I0ZGMDAwMjU5PC9jb2xvcj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfWVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmNyYXNobHl0aWNzLioqIHsgKjsgfQota2VlcCBjbGFzcyBjb20uY3Jhc2hseXRpY3MuYW5kcm9pZC4qKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVOb3ROdWxsKHJlYWxtU3RhZ2UudHJhaW5pbmdMaXN0KSArPSB0cmFpbmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLmluaXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwuaW5pdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mapping</last-search>
+      <last-search>0B41A0</last-search>
       <last-offset />
-      <last-pattern>mapping</last-pattern>
+      <last-pattern>0B41A0</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -283,6 +290,7 @@
         <entry>trainingIds</entry>
         <entry>crashlytics</entry>
         <entry>mapping</entry>
+        <entry>0B41A0</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
