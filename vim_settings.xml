@@ -38,12 +38,6 @@
         <mark key="]" line="129" column="37" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" timestamp="1552354569370">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/TutorialActivity.kt" timestamp="1552107083794" />
       <file name="$USER_HOME$/Develop/teppanandroid/gradle.properties" timestamp="1552136860650">
         <mark key="[" line="17" column="0" />
@@ -218,11 +212,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="76" column="8" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" timestamp="1552118569568">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" timestamp="1552626997910">
+        <mark key="[" line="102" column="13" />
+        <mark key="]" line="102" column="15" />
+        <mark key="^" line="102" column="15" />
+        <mark key="." line="102" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/EndFragment.kt" timestamp="1552617111521">
         <mark key="[" line="12" column="0" />
@@ -313,61 +307,61 @@
       <jump line="25" column="40" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/RecordFragment.kt" />
       <jump line="14" column="28" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/RecordFragment.kt" />
       <jump line="60" column="32" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/RecordFragment.kt" />
+      <jump line="104" column="30" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LnJlY3ljbGVydmlldy53aWRnZXQuTGluZWFyTGF5b3V0TWFuYWdlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>Spann</text>
+        <text>fa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0TWFuYWdlcj0iYW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5MaW5lYXJMYXlvdXRNYW5hZ2VyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LnJlY3ljbGVydmlldy53aWRnZXQuTGluZWFyTGF5b3V0TWFuYWdlcgo=</text>
+        <text encoding="base64">ICAgICAgICB9ZWxzZSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LnJlY3ljbGVydmlldy53aWRnZXQuTGluZWFyTGF5b3V0TWFuYWdlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LnJlY3ljbGVydmlldy53aWRnZXQuR3JpZExheW91dE1hbmFnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVwcGFuU2VydmljZS5nZXRKc29uV2ViVG9rZW4oKQogICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCiAgICAgICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCiAgICAgICAgICAgICAgICAgICAgLmBhc2AoYXV0b0Rpc3Bvc2FibGUoc2NvcGUpKQogICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAoe3N1Y2Nlc3MgLT4gcnVuIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoYmFzZUFjdGl2aXR5LmlzRGVzdHJveWVkKSByZXR1cm5AcnVuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFzdWNjZXNzLmlzU3VjY2Vzc2Z1bCgpKSByZXR1cm5AcnVuCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBjcmVkZW50aWFscyA9IFN5bmNDcmVkZW50aWFscy5qd3QocmVxdWlyZU5vdE51bGwoc3VjY2Vzcy5ib2R5KCkpLmF1dGhUb2tlbikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTeW5jVXNlci5sb2dJbkFzeW5jKGNyZWRlbnRpYWxzLCAiaHR0cHM6Ly8ke2dldFN0cmluZyhSLnN0cmluZy5yZWFsbV9pbnN0YW5jZV9hZGRyZXNzKX0vYXV0aCIsIG9iamVjdCA6IFN5bmNVc2VyLkNhbGxiYWNrPFN5bmNVc2VyPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvblN1Y2Nlc3MocmVzdWx0OiBTeW5jVXNlcikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5pdFJlYWxtKHVpZCwgYmluZGluZy5yb290KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25FcnJvcihlcnJvcjogT2JqZWN0U2VydmVyRXJyb3IpIHt9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH19KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICh7ZXJyb3IgLT4gcnVuIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoYmFzZUFjdGl2aXR5LmlzRGVzdHJveWVkKSByZXR1cm5AcnVuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fSkKICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBsYXlvdXQgPSBHcmlkTGF5b3V0TWFuYWdlcihxdWl6QWN0aXZpdHkuZ2V0QXBwbGljYXRpb25Db250ZXh0KCksIDMpCiAgICAgICAgICAgICAgICB0cmFpbmluZ19saXN0LmxheW91dE1hbmFnZXIgPSBsYXlvdXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5pdFJlYWxtKHVpZCwgYmluZGluZy5yb290KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsaXN0LmxheW91dE1hbmFnZXIgPSBsYXlvdXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBsYXlvdXQgPSBMaW5lYXJMYXlvdXRNYW5hZ2VyKHF1aXpBY3Rpdml0eS5nZXRBcHBsaWNhdGlvbkNvbnRleHQoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdGl2aXR5Py5sZXQge2ZhIC0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpc3QubGF5b3V0TWFuYWdlciA9IGxheW91dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpbnRlbnQ6IEludGVudD8gPSBudWxsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGxheW91dCA9IExpbmVhckxheW91dE1hbmFnZXIoaXQuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0TWFuYWdlcj0iYW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5HcmlkTGF5b3V0TWFuYWdlciIKICAgICAgICAgICAgICAgICAgICBhcHA6c3BhbkNvdW50PSIzIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsaXN0ICE9IG51bGwpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Spann</last-search>
+      <last-search>fa</last-search>
       <last-offset />
-      <last-pattern>Spann</last-pattern>
+      <last-pattern>fa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>facebook</entry>
         <entry>firebase</entry>
         <entry>okhttp</entry>
         <entry>dexter</entry>
@@ -387,6 +381,7 @@
         <entry>OnBackPressedCallback</entry>
         <entry>Grid</entry>
         <entry>Spann</entry>
+        <entry>fa</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
