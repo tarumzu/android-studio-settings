@@ -92,13 +92,19 @@
         <mark key="'" line="45" column="16" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8956ff61fd0b6ab756f8268a3e6eb2f/META-INF/proguard/moshi.pro" timestamp="1552102921376" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/dev/res/values/strings.xml" timestamp="1552834799660">
+        <mark key="[" line="3" column="52" />
+        <mark key="]" line="3" column="52" />
+        <mark key="^" line="3" column="52" />
+        <mark key="." line="3" column="52" />
+      </file>
       <file name="/gradle-wrapper.properties" timestamp="1552534697091" />
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" timestamp="1552659340568">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" timestamp="1552835568612">
         <mark key="'" line="122" column="69" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="140" column="15" />
-        <mark key="." line="140" column="0" />
+        <mark key="[" line="132" column="59" />
+        <mark key="]" line="132" column="77" />
+        <mark key="^" line="132" column="77" />
+        <mark key="." line="132" column="77" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/EndFragment.kt" timestamp="1552617111521">
         <mark key="[" line="12" column="0" />
@@ -157,6 +163,9 @@
         <mark key="]" line="110" column="88" />
         <mark key="^" line="110" column="64" />
         <mark key="." line="111" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" timestamp="1552835423040">
+        <mark key="'" line="474" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_account_activation.xml" timestamp="1552108826908">
         <mark key="[" line="13" column="0" />
@@ -248,25 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
-      <jump line="23" column="16" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
-      <jump line="35" column="10" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
-      <jump line="36" column="16" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
-      <jump line="95" column="10" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
-      <jump line="63" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
-      <jump line="213" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
-      <jump line="91" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
-      <jump line="115" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
-      <jump line="159" column="31" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
-      <jump line="197" column="15" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
-      <jump line="77" column="9" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_account_activation.xml" />
-      <jump line="14" column="8" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_account_activation.xml" />
-      <jump line="19" column="8" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_account_activation.xml" />
-      <jump line="172" column="27" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
-      <jump line="69" column="8" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/accounts/ActivationFragment.kt" />
-      <jump line="65" column="16" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/accounts/ActivationFragment.kt" />
-      <jump line="29" column="27" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/accounts/ActivationFragment.kt" />
-      <jump line="63" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/accounts/ActivationFragment.kt" />
       <jump line="163" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
       <jump line="127" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
       <jump line="171" column="27" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
@@ -344,61 +334,83 @@
       <jump line="5726" column="25" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
       <jump line="2104" column="23" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
       <jump line="3410" column="37" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="540" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="113" column="41" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="319" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="59" column="52" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="75" column="46" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="320" column="48" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="321" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="322" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="323" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="324" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="325" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="326" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="327" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="328" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="329" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="330" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="331" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="418" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="455" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="457" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="472" column="7" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
+      <jump line="474" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTeW5jQ29uZmlndXJhdGlvbi5CdWlsZGVyCg==</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>onStop</text>
+        <text>Builder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UmVhbG0uZ2V0SW5zdGFuY2VBc3luYyhyZXF1aXJlTm90TnVsbChSZWFsbS5nZXREZWZhdWx0Q29uZmlndXJhdGlvbigpKSwgb2JqZWN0IDogUmVhbG0uQ2FsbGJhY2soKSB7CiAgICBvdmVycmlkZSBmdW4gb25TdWNjZXNzKHJlc3VsdDogUmVhbG0pIHsKICAgICAgICByZXN1bHQubGV0IHsKICAgICAgICAgICAgaXQuZXhlY3V0ZVRyYW5zYWN0aW9uQXN5bmMgeyByZWFsbSAtPgogICAgICAgICAgICAgICAgdmFyIHJlYWxtU3R1ZHkgPSByZWFsbS53aGVyZShSZWFsbVN0dWR5OjpjbGFzcy5qYXZhKS5lcXVhbFRvKCJpZCIsSW50ZWdlci52YWx1ZU9mKDApKS5maW5kRmlyc3QoKQogICAgICAgICAgICAgICAgaWYgKHJlYWxtU3R1ZHkgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHJlYWxtU3R1ZHkgPSBSZWFsbVN0dWR5KCkKICAgICAgICAgICAgICAgICAgICByZWFsbS5pbnNlcnRPclVwZGF0ZShyZWFsbVN0dWR5KQogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHZhbCBzdGFnZXMgPSAgcmVhbG0ud2hlcmUoUmVhbG1TdGFnZTo6Y2xhc3MuamF2YSkuZmluZEFsbCgpLnRvTXV0YWJsZUxpc3QoKQogICAgICAgICAgICAgICAgaWYgKHN0YWdlcy5zaXplIDwgMTYpIHsKICAgICAgICAgICAgICAgICAgICBmb3IgKGkgaW4gMS4uMTYpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHN0YWdlcy5maWx0ZXIgeyBpdC5zdGFnZUlkID09IGkgfS5pc051bGxPckVtcHR5KCkpIHN0YWdlcyArPSBSZWFsbVN0YWdlKGkpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHJlYWxtLmluc2VydE9yVXBkYXRlKHN0YWdlcykKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgc3RhZ2VzQWRhcHRlciA9IFN0YWdlc0FkYXB0ZXIobGlzdCwgbXV0YWJsZUxpc3RPZigpLCBiYXNlQWN0aXZpdHksIHN3aXBlX3R1dG9yaWFsKQogICAgICAgICAgICB2YWwgbGF5b3V0ID0gTGluZWFyTGF5b3V0TWFuYWdlcihhY3Rpdml0eSwgTGluZWFyTGF5b3V0TWFuYWdlci5IT1JJWk9OVEFMLCBmYWxzZSkKICAgICAgICAgICAgbGlzdC5sYXlvdXRNYW5hZ2VyID0gbGF5b3V0CiAgICAgICAgICAgIGxpc3QuaXRlbUFuaW1hdG9yID0gRGVmYXVsdEl0ZW1BbmltYXRvcigpCiAgICAgICAgICAgIGxpc3QuYWRhcHRlciA9IHN0YWdlc0FkYXB0ZXIKICAgICAgICAgICAgbGlzdC5zZXRIYXNGaXhlZFNpemUodHJ1ZSkKICAgICAgICAgICAgbGlzdC5hZGRPblBhZ2VDaGFuZ2VkTGlzdGVuZXIgeyBpLCBqIC0+CiAgICAgICAgICAgICAgICBsaXN0LnBvc3QgewogICAgICAgICAgICAgICAgICAgIHZhbCBoZGwgPSBIYW5kbGVyKCkKICAgICAgICAgICAgICAgICAgICBoZGwucG9zdERlbGF5ZWQoewogICAgICAgICAgICAgICAgICAgICAgICBzdGFnZXNBZGFwdGVyPy5ub3RpZnlJdGVtQ2hhbmdlZChpLCBmYWxzZSkKICAgICAgICAgICAgICAgICAgICB9LCA1MDApCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGRpc3BSZWFsbShpdCwgc3RhZ2VzQWRhcHRlcikKCiAgICAgICAgICAgIERvd25sb2FkVXRpbC5nZXRTM1Rva2VuKAogICAgICAgICAgICAgICAgICAgIHRlcHBhblNlcnZpY2UsCiAgICAgICAgICAgICAgICAgICAgc2NvcGUsCiAgICAgICAgICAgICAgICAgICAgdGhpc0BTbGVsZWN0U3RhZ2VGcmFnbWVudCwKICAgICAgICAgICAgICAgICAgICBiYXNlQWN0aXZpdHksCiAgICAgICAgICAgICAgICAgICAgdmlldywKICAgICAgICAgICAgICAgICAgICAwLAogICAgICAgICAgICAgICAgICAgIENvbnN0LkZpbGVUeXBlLkpTT04uaW50LAogICAgICAgICAgICAgICAgICAgIHR4VXRpbCwKICAgICAgICAgICAgICAgICAgICBzdGFnZXNBZGFwdGVyCiAgICAgICAgICAgICkKICAgICAgICAgICAgc3RhZ2VzQWRhcHRlcj8uZmluaXNoKCkKCiAgICAgICAgICAgIHZhbCBjdXJyZW50U3RhZ2VTdHIgPSBTaGFyZWRQcmVmLmdldEN1cnJlbnRTdGFnZShyZXF1aXJlTm90TnVsbChiYXNlQWN0aXZpdHkuYXBwbGljYXRpb25Db250ZXh0KSkKICAgICAgICAgICAgaWYgKCFjdXJyZW50U3RhZ2VTdHIuaXNOdWxsT3JFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICB2YWwgY3VycmVudFN0YWdlID0gSnNvbi5wYXJzZTxDdXJyZW50U3RhZ2U+KHJlcXVpcmVOb3ROdWxsKGN1cnJlbnRTdGFnZVN0cikpCiAgICAgICAgICAgICAgICBpZiAobGlzdCAhPSBudWxsICYmCiAgICAgICAgICAgICAgICAgICAgICAgIHN0YWdlc0FkYXB0ZXIgIT0gbnVsbCAmJgogICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlTm90TnVsbChzdGFnZXNBZGFwdGVyKS5nZXREYXRhU2V0KCkuc2l6ZSA+IDAgJiYKICAgICAgICAgICAgICAgICAgICAgICAgbGlzdC5jdXJyZW50UG9zaXRpb24gIT0gY3VycmVudFN0YWdlLnN0YWdlSWQgLSAxCiAgICAgICAgICAgICAgICApIHsKICAgICAgICAgICAgICAgICAgICBsaXN0LnNjcm9sbFRvUG9zaXRpb24oY3VycmVudFN0YWdlLnN0YWdlSWQgLSAxKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluaXRSZWFsbSh1aWQsIGJpbmRpbmcucm9vdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTeW5jQ29uZmlndXJhdGlvbi5CdWlsZGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBWaWV3VXRpbC5kaXNhYmxlRG91YmxlQ2xpY2sodmlldykK</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh2b2ljZSAhPSBudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1wID0gTWVkaWFQbGF5ZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1wLnNldE9uQ29tcGxldGlvbkxpc3RlbmVyIHttZWRpYVBsYXllciAtPgogICAgICAgICAgICAgICAgICAgIGlmICh2b2ljZSAhPSBudWxsKQogICAgICAgICAgICAgICAgICAgICAgICB2b2ljZS5iYWNrZ3JvdW5kID0gUmVzb3VyY2VzQ29tcGF0LmdldERyYXdhYmxlKHJldmlld0FjdGl2aXR5LnJlc291cmNlcywgUi5kcmF3YWJsZS5pY192b2ljZV9ncmF5LCBudWxsKQogICAgICAgICAgICAgICAgICAgIG1lZGlhUGxheWVyLnJlbGVhc2UoKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgbXAuc2V0T25FcnJvckxpc3RlbmVyIHsgbWVkaWFQbGF5ZXI6IE1lZGlhUGxheWVyLCBpOiBJbnQsIGkxOiBJbnQgLT4KICAgICAgICAgICAgICAgICAgICBtZWRpYVBsYXllci5yZXNldCgpCiAgICAgICAgICAgICAgICAgICAgbWVkaWFQbGF5ZXIucHJlcGFyZSgpCiAgICAgICAgICAgICAgICAgICAgbWVkaWFQbGF5ZXIuc3RhcnQoKQogICAgICAgICAgICAgICAgICAgIHJldHVybkBzZXRPbkVycm9yTGlzdGVuZXIgZmFsc2UKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBWaWV3VXRpbC5kaXNhYmxlRG91YmxlQ2xpY2sodmlldykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh2b2ljZSAhPSBudWxsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2b2ljZS5pc0VuYWJsZWQgPSB0cnVlCiAgICAgICAgICAgICAgICAgICAgdm9pY2UuYmFja2dyb3VuZCA9IFJlc291cmNlc0NvbXBhdC5nZXREcmF3YWJsZShxdWl6QWN0aXZpdHkucmVzb3VyY2VzLCBSLmRyYXdhYmxlLmljX3ZvaWNlX2dyYXksIG51bGwpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIG1wID0gTWVkaWFQbGF5ZXIoKQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1wLnNldE9uQ29tcGxldGlvbkxpc3RlbmVyIHttZWRpYVBsYXllciAtPgogICAgICAgICAgICAgICAgICAgIGlmICh2b2ljZSAhPSBudWxsKQogICAgICAgICAgICAgICAgICAgICAgICB2b2ljZS5iYWNrZ3JvdW5kID0gUmVzb3VyY2VzQ29tcGF0LmdldERyYXdhYmxlKHJldmlld0FjdGl2aXR5LnJlc291cmNlcywgUi5kcmF3YWJsZS5pY192b2ljZV9ncmF5LCBudWxsKQogICAgICAgICAgICAgICAgICAgIG1lZGlhUGxheWVyLnJlbGVhc2UoKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgbXAuc2V0T25FcnJvckxpc3RlbmVyIHsgbWVkaWFQbGF5ZXI6IE1lZGlhUGxheWVyLCBpOiBJbnQsIGkxOiBJbnQgLT4KICAgICAgICAgICAgICAgICAgICBtZWRpYVBsYXllci5yZXNldCgpCiAgICAgICAgICAgICAgICAgICAgbWVkaWFQbGF5ZXIucHJlcGFyZSgpCiAgICAgICAgICAgICAgICAgICAgbWVkaWFQbGF5ZXIuc3RhcnQoKQogICAgICAgICAgICAgICAgICAgIHJldHVybkBzZXRPbkVycm9yTGlzdGVuZXIgZmFsc2UKICAgICAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onStop</last-search>
+      <last-search>Builder</last-search>
       <last-offset />
-      <last-pattern>onStop</last-pattern>
+      <last-pattern>Builder</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>realm</entry>
         <entry>amazon</entry>
         <entry>moshi</entry>
         <entry>member</entry>
@@ -418,6 +430,7 @@
         <entry>run</entry>
         <entry>stop</entry>
         <entry>onStop</entry>
+        <entry>Builder</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
