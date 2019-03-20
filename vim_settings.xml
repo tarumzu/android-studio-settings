@@ -116,11 +116,11 @@
         <mark key="^" line="446" column="39" />
         <mark key="." line="475" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/gradle/wrapper/gradle-wrapper.properties" timestamp="1553064567882">
-        <mark key="[" line="5" column="68" />
-        <mark key="]" line="5" column="68" />
-        <mark key="." line="5" column="68" />
-        <mark key="^" line="5" column="68" />
+      <file name="$USER_HOME$/Develop/teppanandroid/gradle/wrapper/gradle-wrapper.properties" timestamp="1553085170165">
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="5" column="70" />
+        <mark key="." line="5" column="70" />
+        <mark key="^" line="5" column="70" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/activity_main.xml" timestamp="1552389614230">
         <mark key="[" line="12" column="0" />
@@ -357,11 +357,11 @@
       <jump line="7" column="15" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcmRzQWRhcHRlcj8uYnV0dG9uID0gdmlldyBhcyBCdXR0b24K</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>realm</text>
