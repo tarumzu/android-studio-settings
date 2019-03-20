@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1552633184824">
-        <mark key="'" line="59" column="12" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1553064587376">
+        <mark key="'" line="7" column="15" />
         <mark key="[" line="163" column="59" />
         <mark key="]" line="163" column="59" />
         <mark key="^" line="163" column="59" />
@@ -27,7 +27,8 @@
         <mark key="^" line="199" column="52" />
         <mark key="." line="169" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/build.gradle" timestamp="1552114157340">
+      <file name="$USER_HOME$/Develop/teppanandroid/build.gradle" timestamp="1553064661016">
+        <mark key="'" line="15" column="28" />
         <mark key="[" line="15" column="52" />
         <mark key="]" line="15" column="53" />
         <mark key="." line="15" column="53" />
@@ -115,7 +116,7 @@
         <mark key="^" line="446" column="39" />
         <mark key="." line="475" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/gradle/wrapper/gradle-wrapper.properties" timestamp="1552534704947">
+      <file name="$USER_HOME$/Develop/teppanandroid/gradle/wrapper/gradle-wrapper.properties" timestamp="1553064567882">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="68" />
         <mark key="." line="5" column="68" />
@@ -254,11 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
-      <jump line="112" column="26" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
-      <jump line="12" column="1" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
-      <jump line="100" column="11" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
       <jump line="10" column="11" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
       <jump line="22" column="10" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
       <jump line="51" column="10" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
@@ -354,6 +350,11 @@
       <jump line="52" column="74" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/EndFragment.kt" />
       <jump line="146" column="41" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/EndFragment.kt" />
       <jump line="170" column="17" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/QuizEndViewModel.kt" />
+      <jump line="12" column="46" filename="$USER_HOME$/Develop/teppanandroid/build.gradle" />
+      <jump line="15" column="28" filename="$USER_HOME$/Develop/teppanandroid/build.gradle" />
+      <jump line="157" column="19" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="202" column="23" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="7" column="15" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -363,7 +364,7 @@
         <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>word</text>
+        <text>realm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcmRzQWRhcHRlcj8uYnV0dG9uID0gdmlldyBhcyBCdXR0b24K</text>
@@ -400,15 +401,14 @@
       </register>
     </registers>
     <search>
-      <last-search>word</last-search>
+      <last-search>realm</last-search>
       <last-offset />
-      <last-pattern>word</last-pattern>
+      <last-pattern>realm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>moshi</entry>
         <entry>member</entry>
         <entry>ddddd</entry>
         <entry>trainingId</entry>
@@ -428,6 +428,7 @@
         <entry>Builder</entry>
         <entry>run</entry>
         <entry>word</entry>
+        <entry>realm</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
