@@ -65,9 +65,9 @@
         <mark key="^" line="79" column="77" />
         <mark key="." line="79" column="77" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/StartFragment.kt" timestamp="1553228189641">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/StartFragment.kt" timestamp="1553228831128">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="26" />
         <mark key="." line="135" column="0" />
         <mark key="^" line="113" column="30" />
       </file>
@@ -99,11 +99,11 @@
         <mark key="^" line="132" column="77" />
         <mark key="." line="132" column="77" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/EndFragment.kt" timestamp="1552973280667">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/EndFragment.kt" timestamp="1553229089965">
         <mark key="'" line="146" column="41" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="165" column="17" />
+        <mark key="]" line="165" column="17" />
+        <mark key="." line="165" column="17" />
         <mark key="^" line="100" column="56" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" timestamp="1553227859008">
@@ -325,17 +325,17 @@
       <jump line="7" column="15" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>realm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBtcC5yZXNldCgpCiAgICAgICAgICAgIG1wLnNldERhdGFTb3VyY2UoYmFzZUFjdGl2aXR5LCBVcmkucGFyc2UoImFuZHJvaWQucmVzb3VyY2U6Ly8iICsgYmFzZUFjdGl2aXR5LnBhY2thZ2VOYW1lICsgIi8iICsgUi5yYXcuc2VfMDJfc3RhcnRfdHJhaW5pbmcpKQogICAgICAgICAgICBtcC5wcmVwYXJlKCkKICAgICAgICAgICAgbXAuc3RhcnQoKQogICAgICAgIH1jYXRjaCAoZTogSU9FeGNlcHRpb24pIHsKICAgICAgICAgICAgVGltYmVyLmUoZSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBtcCA9IE1lZGlhUGxheWVyKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
