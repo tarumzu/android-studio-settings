@@ -14,13 +14,13 @@
         <mark key="]" line="129" column="37" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/StartFragment.kt" timestamp="1553236841742">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="122" column="9" />
-        <mark key="." line="100" column="22" />
-        <mark key="^" line="100" column="22" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/StartFragment.kt" timestamp="1553244344757">
+        <mark key="[" line="121" column="89" />
+        <mark key="]" line="123" column="21" />
+        <mark key="." line="123" column="21" />
+        <mark key="^" line="123" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ListWordViewModel.kt" timestamp="1553239024815">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ListWordViewModel.kt" timestamp="1553240653259">
         <mark key="[" line="288" column="0" />
         <mark key="]" line="293" column="9" />
         <mark key="^" line="229" column="12" />
@@ -110,12 +110,12 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" timestamp="1553238743362">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" timestamp="1553242431329">
         <mark key="'" line="124" column="74" />
-        <mark key="[" line="446" column="0" />
-        <mark key="]" line="449" column="42" />
-        <mark key="." line="445" column="0" />
-        <mark key="^" line="391" column="148" />
+        <mark key="[" line="391" column="129" />
+        <mark key="]" line="391" column="129" />
+        <mark key="." line="391" column="129" />
+        <mark key="^" line="391" column="129" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/gradle/wrapper/gradle-wrapper.properties" timestamp="1553085170165">
         <mark key="[" line="5" column="70" />
@@ -247,6 +247,9 @@
         <mark key="^" line="125" column="38" />
         <mark key="." line="125" column="38" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" timestamp="1553240692613">
+        <mark key="'" line="1081" column="16" />
+      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/WordActivity.kt" timestamp="1553238335935">
         <mark key="[" line="90" column="25" />
         <mark key="]" line="91" column="37" />
@@ -255,29 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="58" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
-      <jump line="144" column="104" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
-      <jump line="145" column="174" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
-      <jump line="158" column="174" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
-      <jump line="15" column="24" filename="$USER_HOME$/Develop/teppanandroid/app/proguard-rules.pro" />
-      <jump line="20" column="35" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/colors.xml" />
-      <jump line="53" column="19" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
-      <jump line="45" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
-      <jump line="50" column="4" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
-      <jump line="54" column="36" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
-      <jump line="48" column="4" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
-      <jump line="55" column="87" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
-      <jump line="56" column="12" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
-      <jump line="57" column="24" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
-      <jump line="59" column="12" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
-      <jump line="192" column="38" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/list_stages_layout.xml" />
-      <jump line="31" column="35" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
-      <jump line="52" column="27" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
-      <jump line="58" column="59" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
-      <jump line="63" column="64" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
-      <jump line="224" column="54" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/adapters/StagesAdapter.kt" />
       <jump line="5" column="25" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
       <jump line="6" column="25" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
       <jump line="293" column="40" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/MenuFragment.kt" />
@@ -355,67 +335,93 @@
       <jump line="62" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/MenuFragment.kt" />
       <jump line="40" column="2" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewTopViewModel.kt" />
       <jump line="96" column="32" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewTopViewModel.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="198" column="67" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="203" column="19" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="204" column="19" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="205" column="19" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="206" column="19" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="207" column="19" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="212" column="11" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="216" column="17" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="343" column="44" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="429" column="19" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="441" column="11" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="722" column="28" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="913" column="15" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="980" column="15" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="1003" column="6" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="1004" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="1006" column="8" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="1023" column="5" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="1037" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="1060" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="1074" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
+      <jump line="1081" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtcD8ubGV0IHsKICAgICAgICAgICAgaXQucmVzZXQoKQogICAgICAgICAgICBpdC5zZXREYXRhU291cmNlKHJlcXVpcmVOb3ROdWxsKGFjdGl2aXR5KSwgVXJpLnBhcnNlKCJhbmRyb2lkLnJlc291cmNlOi8vIiArIHJlcXVpcmVOb3ROdWxsKGFjdGl2aXR5KS5wYWNrYWdlTmFtZSArICIvIiArIFIucmF3LnNlXzAxX2J1dHRvbl90YXApKQogICAgICAgICAgICBpdC5wcmVwYXJlKCkKICAgICAgICAgICAgaXQuc3RhcnQoKQogICAgICAgIH0K</text>
+      <register name="&quot;" type="8">
+        <text>//
+//
+//
+//</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>DownloadDialogFragment</text>
+        <text>setDataSource</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtcD8ubGV0IHsKICAgICAgICAgICAgaXQucmVzZXQoKQogICAgICAgICAgICBpdC5zZXREYXRhU291cmNlKHJlcXVpcmVOb3ROdWxsKGFjdGl2aXR5KSwgVXJpLnBhcnNlKCJhbmRyb2lkLnJlc291cmNlOi8vIiArIHJlcXVpcmVOb3ROdWxsKGFjdGl2aXR5KS5wYWNrYWdlTmFtZSArICIvIiArIFIucmF3LnNlXzAxX2J1dHRvbl90YXApKQogICAgICAgICAgICBpdC5wcmVwYXJlKCkKICAgICAgICAgICAgaXQuc3RhcnQoKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXAuc2V0RGF0YVNvdXJjZSgKICAgICAgICAgICAgICAgICAgICBiYXNlQWN0aXZpdHkuYXBwbGljYXRpb25Db250ZXh0LAogICAgICAgICAgICAgICAgICAgIFVyaS5wYXJzZSgiJHtDb250ZW50UmVzb2x2ZXIuU0NIRU1FX0FORFJPSURfUkVTT1VSQ0V9Oi8vIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiJHtiYXNlQWN0aXZpdHkucGFja2FnZU5hbWV9LyIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgIiR7Ui5yYXcuc2VfMDJfc3RhcnRfdHJhaW5pbmd9LyIpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbXAuc2V0RGF0YVNvdXJjZShhZmRlc2NyaXB0ZXIuZ2V0RmlsZURlc2NyaXB0b3IoKSwKICAgICAgICAgICAgICAgICAgICBhZmRlc2NyaXB0ZXIuZ2V0U3RhcnRPZmZzZXQoKSxhZmRlc2NyaXB0ZXIuZ2V0TGVuZ3RoKCkpCiAgICAgICAgICAgIG1wLnByZXBhcmUoKQogICAgICAgICAgICBtcC5zdGFydCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtcC5yZXNldCgpCiAgICAgICAgLnNldERhdGFTb3VyY2UocmVxdWlyZU5vdE51bGwoYWN0aXZpdHkpLCBVcmkucGFyc2UoImFuZHJvaWQucmVzb3VyY2U6Ly8iICsgcmVxdWlyZU5vdE51bGwoYWN0aXZpdHkpLnBhY2thZ2VOYW1lICsgIi8iICsgUi5yYXcuc2VfMDFfYnV0dG9uX3RhcCkpCiAgICAgICAgLnByZXBhcmUoKQogICAgICAgIC5zdGFydCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGFmZGVzY3JpcHRlciA9IGJhc2VBY3Rpdml0eS5nZXRBc3NldHMoKS5vcGVuRmQoInNlXzAyX3N0YXJ0X3RyYWluaW5nLm1wNCIpCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>it
-it
-it
-it</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbXAuaXNMb29waW5nID0gZmFsc2UKICAgICAgICAgICAgbXAuc2Vla1RvKDApCg==</text>
       </register>
-      <register name="5" type="8">
-        <text>mp
-mp
-mp
-mp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbXAuc2Vla1RvKDApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXAuaXNMb29waW5nID0gZmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoImN4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCIpCiAgICAgICAgICAgIFRpbWJlci5kKFVyaS5wYXJzZSgiJHtDb250ZW50UmVzb2x2ZXIuU0NIRU1FX0FORFJPSURfUkVTT1VSQ0V9Oi8vIiArCiAgICAgICAgICAgICAgICAgICAgIiR7YmFzZUFjdGl2aXR5LnBhY2thZ2VOYW1lfS8iICsgUi5yYXcuc2VfMDJfc3RhcnRfdHJhaW5pbmcpLnRvU3RyaW5nKCkpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtcC5yZXNldCgpCiAgICAgICAgbXAuc2V0RGF0YVNvdXJjZShhY3Rpdml0eSwgVXJpLnBhcnNlKCJhbmRyb2lkLnJlc291cmNlOi8vIiArIGFjdGl2aXR5LnBhY2thZ2VOYW1lICsgIi8iICsgUi5yYXcuc2VfMDFfYnV0dG9uX3RhcCkpCiAgICAgICAgbXAucHJlcGFyZSgpCiAgICAgICAgbXAuc3RhcnQoKQogICAgICAgIGFjdGl2aXR5Py5zZXRSZXN1bHQoQ29uc3QuUkVTVUxUX09LX1dPUkQpCiAgICAgICAgYWN0aXZpdHk/LmZpbmlzaCgpCg==</text>
+      <register name="8" type="8">
+        <text>//
+//
+//
+//
+//</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubWVkaWEuTWVkaWFQbGF5ZXIKaW1wb3J0IGFuZHJvaWQubmV0LlVyaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGFmZGVzY3JpcHRlciA9IGJhc2VBY3Rpdml0eS5nZXRBc3NldHMoKS5vcGVuRmQoInNlXzAyX3N0YXJ0X3RyYWluaW5nLm00YSIpCiAgICAgICAgICAgIG1wLnNldERhdGFTb3VyY2UoYWZkZXNjcmlwdGVyLmdldEZpbGVEZXNjcmlwdG9yKCksCiAgICAgICAgICAgICAgICAgICAgYWZkZXNjcmlwdGVyLmdldFN0YXJ0T2Zmc2V0KCksCiAgICAgICAgICAgICAgICAgICAgYWZkZXNjcmlwdGVyLmdldExlbmd0aCgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>DownloadDialogFragment</last-search>
+      <last-search>setDataSource</last-search>
       <last-offset />
-      <last-pattern>DownloadDialogFragment</last-pattern>
+      <last-pattern>setDataSource</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>crashlytics</entry>
         <entry>mapping</entry>
         <entry>0B41A0</entry>
         <entry>debug</entry>
@@ -435,6 +441,7 @@ mp</text>
         <entry>stagesAdapter</entry>
         <entry>Download</entry>
         <entry>DownloadDialogFragment</entry>
+        <entry>setDataSource</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
