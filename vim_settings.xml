@@ -28,6 +28,7 @@
         <mark key="^" line="230" column="12" />
         <mark key="." line="289" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.10.0/d1d7a4755a9dd7c1086b63f1725e7aa8bfad531f/realm-android-library-object-server-5.10.0-sources.jar!/io/realm/SyncConfiguration.java" timestamp="1553515979696" />
       <file name="$USER_HOME$/Develop/teppanandroid/build.gradle" timestamp="1553485223000">
         <mark key="'" line="15" column="28" />
         <mark key="[" line="30" column="58" />
@@ -96,12 +97,12 @@
         <mark key="^" line="6" column="66" />
         <mark key="." line="6" column="66" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" timestamp="1553499516545">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" timestamp="1553516100318">
         <mark key="'" line="181" column="20" />
-        <mark key="[" line="218" column="35" />
-        <mark key="]" line="218" column="42" />
-        <mark key="^" line="218" column="42" />
-        <mark key="." line="218" column="42" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="142" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/SettingFragment.kt" timestamp="1553235436581">
         <mark key="[" line="39" column="0" />
@@ -359,11 +360,11 @@
       <jump line="92" column="38" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgY29uZmlnID0gU3luY0NvbmZpZ3VyYXRpb24uQnVpbGRlcihTeW5jVXNlci5jdXJyZW50KCksICkK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>repro_channel_name</text>
@@ -372,31 +373,31 @@
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icmVwcm9fY2hhbm5lbF9uYW1lIj5URVBQQU7oi7HljZjoqp48L3N0cmluZz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZmlyZWJhc2UubWVzc2FnaW5nLlJlbW90ZU1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY29uZmlnID0gU3luY0NvbmZpZ3VyYXRpb24uQnVpbGRlcihTeW5jVXNlci5jdXJyZW50KCksICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25NZXNzYWdlUmVjZWl2ZWQocDA6IFJlbW90ZU1lc3NhZ2U/KSB7CiAgICAgICAgc3VwZXIub25NZXNzYWdlUmVjZWl2ZWQocDApCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeW5jVXNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZmlyZWJhc2UubWVzc2FnaW5nLlJlbW90ZU1lc3NhZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwZXJtaXNzaW9uPSJhYSIK</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25NZXNzYWdlUmVjZWl2ZWQocDA6IFJlbW90ZU1lc3NhZ2U/KSB7CiAgICAgICAgc3VwZXIub25NZXNzYWdlUmVjZWl2ZWQocDApCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbk5ld1Rva2VuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwZXJtaXNzaW9uPSJhYSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSZXByby5zZXRQdXNoUmVnaXN0cmF0aW9uSUQodG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbk5ld1Rva2VuKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC4uLgo=</text>
+        <text encoding="base64">ICAgICAgICBSZXByby5zZXRQdXNoUmVnaXN0cmF0aW9uSUQodG9rZW4pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
