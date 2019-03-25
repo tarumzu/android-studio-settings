@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1553485272135">
-        <mark key="'" line="171" column="0" />
-        <mark key="[" line="229" column="59" />
-        <mark key="]" line="229" column="60" />
-        <mark key="^" line="235" column="52" />
-        <mark key="." line="229" column="60" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1553492382857">
+        <mark key="'" line="229" column="31" />
+        <mark key="[" line="230" column="64" />
+        <mark key="]" line="230" column="64" />
+        <mark key="^" line="230" column="64" />
+        <mark key="." line="230" column="64" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/signingConfigs/release.gradle" timestamp="1552463038354">
         <mark key="[" line="5" column="29" />
@@ -64,11 +64,6 @@
         <mark key="]" line="130" column="120" />
         <mark key="." line="130" column="120" />
         <mark key="^" line="130" column="120" />
-      </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/TopFragment.kt" timestamp="1553237086578">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewEndViewModel.kt" timestamp="1553246530701">
         <mark key="[" line="97" column="97" />
@@ -133,6 +128,12 @@
         <mark key="]" line="43" column="104" />
         <mark key="." line="43" column="104" />
         <mark key="^" line="43" column="104" />
+      </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/AndroidManifest.xml" timestamp="1553493041583">
+        <mark key="[" line="84" column="19" />
+        <mark key="]" line="93" column="19" />
+        <mark key="^" line="93" column="19" />
+        <mark key="." line="93" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/gradle.properties" timestamp="1552136860650">
         <mark key="[" line="17" column="0" />
@@ -225,8 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="25" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/words/WordFragment.kt" />
-      <jump line="293" column="40" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/MenuFragment.kt" />
       <jump line="25" column="40" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/RecordFragment.kt" />
       <jump line="14" column="28" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/RecordFragment.kt" />
       <jump line="60" column="32" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/RecordFragment.kt" />
@@ -325,16 +324,18 @@
       <jump line="1074" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
       <jump line="1081" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
       <jump line="171" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="220" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="229" column="31" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>maven</text>
+        <text>firebase:firebase</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbXAuc2V0RGF0YVNvdXJjZSgKICAgICAgICAgICAgICAgICAgICBiYXNlQWN0aXZpdHkuYXBwbGljYXRpb25Db250ZXh0LAogICAgICAgICAgICAgICAgICAgIFVyaS5wYXJzZSgiJHtDb250ZW50UmVzb2x2ZXIuU0NIRU1FX0FORFJPSURfUkVTT1VSQ0V9Oi8vIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiJHtiYXNlQWN0aXZpdHkucGFja2FnZU5hbWV9LyIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgIiR7Ui5yYXcuc2VfMDJfc3RhcnRfdHJhaW5pbmd9LyIpKQo=</text>
@@ -378,15 +379,14 @@
       </register>
     </registers>
     <search>
-      <last-search>maven</last-search>
+      <last-search>firebase:firebase</last-search>
       <last-offset />
-      <last-pattern>maven</last-pattern>
+      <last-pattern>firebase:firebase</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>0B41A0</entry>
         <entry>debug</entry>
         <entry>release</entry>
         <entry>list</entry>
@@ -406,6 +406,7 @@
         <entry>setDataSource</entry>
         <entry>realm</entry>
         <entry>maven</entry>
+        <entry>firebase:firebase</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
