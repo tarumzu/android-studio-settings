@@ -67,7 +67,7 @@
         <mark key="^" line="230" column="12" />
         <mark key="." line="289" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.10.0/d1d7a4755a9dd7c1086b63f1725e7aa8bfad531f/realm-android-library-object-server-5.10.0-sources.jar!/io/realm/SyncConfiguration.java" timestamp="1553699357533" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.10.0/d1d7a4755a9dd7c1086b63f1725e7aa8bfad531f/realm-android-library-object-server-5.10.0-sources.jar!/io/realm/SyncConfiguration.java" timestamp="1553700133510" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_review_end.xml" timestamp="1552617038414">
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="88" />
@@ -143,7 +143,7 @@
         <mark key="." line="6" column="66" />
         <mark key="^" line="6" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553698985682">
+      <file name="/Dummy.txt" timestamp="1553700621690">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewEndViewModel.kt" timestamp="1553246530701">
@@ -209,12 +209,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" timestamp="1553699126256">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" timestamp="1553700612397">
         <mark key="'" line="181" column="20" />
-        <mark key="[" line="143" column="16" />
-        <mark key="]" line="142" column="131" />
-        <mark key="." line="142" column="131" />
-        <mark key="^" line="142" column="131" />
+        <mark key="[" line="108" column="58" />
+        <mark key="]" line="108" column="58" />
+        <mark key="." line="108" column="58" />
+        <mark key="^" line="108" column="59" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/SettingFragment.kt" timestamp="1553235436581">
         <mark key="[" line="39" column="0" />
@@ -359,10 +359,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>IOE</text>
