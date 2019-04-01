@@ -10,7 +10,7 @@
         <mark key="^" line="414" column="123" />
         <mark key="." line="444" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1553498075631">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1554102600460">
         <mark key="'" line="229" column="31" />
         <mark key="[" line="230" column="64" />
         <mark key="]" line="230" column="64" />
@@ -67,7 +67,6 @@
         <mark key="^" line="230" column="12" />
         <mark key="." line="289" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.10.0/d1d7a4755a9dd7c1086b63f1725e7aa8bfad531f/realm-android-library-object-server-5.10.0-sources.jar!/io/realm/SyncConfiguration.java" timestamp="1553700133510" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_review_end.xml" timestamp="1552617038414">
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="88" />
@@ -209,7 +208,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" timestamp="1553700612397">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" timestamp="1554102555721">
         <mark key="'" line="181" column="20" />
         <mark key="[" line="108" column="58" />
         <mark key="]" line="108" column="58" />
