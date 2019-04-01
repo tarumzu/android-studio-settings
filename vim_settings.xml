@@ -10,8 +10,8 @@
         <mark key="^" line="414" column="123" />
         <mark key="." line="444" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1554102600460">
-        <mark key="'" line="229" column="31" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1554103998570">
+        <mark key="'" line="4" column="15" />
         <mark key="[" line="230" column="64" />
         <mark key="]" line="230" column="64" />
         <mark key="^" line="230" column="64" />
@@ -73,8 +73,8 @@
         <mark key="^" line="110" column="64" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/build.gradle" timestamp="1553485223000">
-        <mark key="'" line="15" column="28" />
+      <file name="$USER_HOME$/Develop/teppanandroid/build.gradle" timestamp="1554104004601">
+        <mark key="'" line="30" column="48" />
         <mark key="[" line="30" column="58" />
         <mark key="]" line="31" column="54" />
         <mark key="." line="31" column="54" />
@@ -255,12 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
-      <jump line="328" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
-      <jump line="329" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
-      <jump line="330" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
-      <jump line="331" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
-      <jump line="418" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
       <jump line="455" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
       <jump line="457" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
       <jump line="472" column="7" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
@@ -320,7 +314,6 @@
       <jump line="1074" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
       <jump line="1081" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaPlayer.java" />
       <jump line="171" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
-      <jump line="220" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
       <jump line="229" column="31" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
       <jump line="91" column="55" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/AndroidManifest.xml" />
@@ -355,6 +348,13 @@
       <jump line="360" column="23" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
       <jump line="388" column="39" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
       <jump line="416" column="39" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
+      <jump line="211" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="219" column="42" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="220" column="42" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="223" column="42" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="4" column="15" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
+      <jump line="11" column="35" filename="$USER_HOME$/Develop/teppanandroid/build.gradle" />
+      <jump line="30" column="48" filename="$USER_HOME$/Develop/teppanandroid/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -364,7 +364,7 @@
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>IOE</text>
+        <text>kotlinx</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icmVwcm9fY2hhbm5lbF9uYW1lIj5URVBQQU7oi7HljZjoqp48L3N0cmluZz4K</text>
@@ -401,15 +401,14 @@
       </register>
     </registers>
     <search>
-      <last-search>IOE</last-search>
+      <last-search>kotlinx</last-search>
       <last-offset />
-      <last-pattern>IOE</last-pattern>
+      <last-pattern>kotlinx</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>OnBackPressedCallback</entry>
         <entry>Grid</entry>
         <entry>Spann</entry>
         <entry>fa</entry>
@@ -429,6 +428,7 @@
         <entry>repro_channel_name</entry>
         <entry>prepare</entry>
         <entry>IOE</entry>
+        <entry>kotlinx</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
