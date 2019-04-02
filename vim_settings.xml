@@ -23,7 +23,7 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/gradle/wrapper/gradle-wrapper.properties" timestamp="1553085170165">
+      <file name="$USER_HOME$/Develop/teppanandroid/gradle/wrapper/gradle-wrapper.properties" timestamp="1554193136463">
         <mark key="[" line="5" column="70" />
         <mark key="]" line="5" column="70" />
         <mark key="." line="5" column="70" />
@@ -73,7 +73,7 @@
         <mark key="^" line="110" column="64" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/build.gradle" timestamp="1554104004601">
+      <file name="$USER_HOME$/Develop/teppanandroid/build.gradle" timestamp="1554193200663">
         <mark key="'" line="30" column="48" />
         <mark key="[" line="30" column="58" />
         <mark key="]" line="31" column="54" />
@@ -142,7 +142,7 @@
         <mark key="." line="6" column="66" />
         <mark key="^" line="6" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553700621690">
+      <file name="/Dummy.txt" timestamp="1554193183005">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewEndViewModel.kt" timestamp="1553246530701">
@@ -358,10 +358,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>kotlinx</text>
