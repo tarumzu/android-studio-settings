@@ -99,6 +99,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="19" />
       </file>
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/LogoutDialogFragment.kt" timestamp="1554261872884">
+        <mark key="'" line="66" column="8" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/models/Credentials.kt" timestamp="1552118963207">
         <mark key="[" line="5" column="46" />
         <mark key="]" line="5" column="28" />
@@ -170,12 +176,12 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/DownloadDialogFragment.kt" timestamp="1553237849728">
-        <mark key="'" line="48" column="16" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="31" />
-        <mark key="^" line="34" column="30" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/DownloadDialogFragment.kt" timestamp="1554261586481">
+        <mark key="'" line="47" column="16" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="70" column="28" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/SplashActivity.kt" timestamp="1552110425176">
         <mark key="[" line="28" column="47" />
@@ -235,6 +241,9 @@
         <mark key="^" line="125" column="38" />
         <mark key="." line="125" column="38" />
       </file>
+      <file name="/fragment.java" timestamp="1554261894891">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/WordActivityViewModel.kt" timestamp="1553246545192">
         <mark key="[" line="23" column="91" />
         <mark key="]" line="23" column="92" />
@@ -255,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="455" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
       <jump line="457" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
       <jump line="472" column="7" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
       <jump line="474" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.9.1/40884f52e39c4dd479f9e22cf325003b1ae82b69/realm-android-library-object-server-5.9.1-sources.jar!/io/realm/SyncConfiguration.java" />
@@ -355,13 +363,14 @@
       <jump line="4" column="15" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
       <jump line="11" column="35" filename="$USER_HOME$/Develop/teppanandroid/build.gradle" />
       <jump line="30" column="48" filename="$USER_HOME$/Develop/teppanandroid/build.gradle" />
+      <jump line="66" column="8" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/LogoutDialogFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkaWFsb2dDdXN0b20gPSBudWxsCiAgICAgICAgdHhVdGlsID0gbnVsbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>kotlinx</text>
@@ -370,31 +379,31 @@
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icmVwcm9fY2hhbm5lbF9uYW1lIj5URVBQQU7oi7HljZjoqp48L3N0cmluZz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICBkaWFsb2dDdXN0b20gPSBudWxsCiAgICAgICAgdHhVdGlsID0gbnVsbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgIGZ1biBzZXRUeFV0aWwodHhVdGlsOiBUcmFuc2ZlclV0aWxpdHkpIHsKICAgICAgICB0aGlzLnR4VXRpbCA9IHR4VXRpbAogICAgfQoKICAgIGZ1biBzZXRMb2FkZXJQcm9ncmVzcyhwcm9ncmVzczogRmxvYXQpIHsKICAgICAgICBkaWFsb2dDdXN0b20/LmxvYWRlcj8ucHJvZ3Jlc3MgPSBwcm9ncmVzcwogICAgfQogICAgZnVuIHNldFBlcmNlbnQoc3RyOiBTdHJpbmcpIHsKICAgICAgICBkaWFsb2dDdXN0b20/LmRvd25sb2FkX3BlcmNlbnQ/LnRleHQgPSBzdHIKICAgIH0KICAgIGZ1biBzZXRGcmFjdGlvbihzdHI6IFN0cmluZykgewogICAgICAgIGRpYWxvZ0N1c3RvbT8uZG93bmxvYWRfZnJhY3Rpb24/LnRleHQgPSBzdHIKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1wLnNldE9uRXJyb3JMaXN0ZW5lciB7IG1lZGlhUGxheWVyOiBNZWRpYVBsYXllciwgaTogSW50LCBpMTogSW50IC0+CiAgICAgICAgICAgICAgICAgICAgbWVkaWFQbGF5ZXIucmVzZXQoKQogICAgICAgICAgICAgICAgICAgIG1lZGlhUGxheWVyLnByZXBhcmUoKQogICAgICAgICAgICAgICAgICAgIG1lZGlhUGxheWVyLnN0YXJ0KCkKICAgICAgICAgICAgICAgICAgICByZXR1cm5Ac2V0T25FcnJvckxpc3RlbmVyIGZhbHNlCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpwLmVpZ29zYXB1cmkudGVwcGFuLnRlcHBhbl9hbmRyb2lkLnV0aWxzLkNvbnN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXAuc2V0T25FcnJvckxpc3RlbmVyIHsgbWVkaWFQbGF5ZXI6IE1lZGlhUGxheWVyLCBpOiBJbnQsIGkxOiBJbnQgLT4KICAgICAgICAgICAgICAgIHJldHVybkBzZXRPbkVycm9yTGlzdGVuZXIgZmFsc2UKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lZGlhUGxheWVyLnJlc2V0KCkKICAgICAgICAgICAgICAgIG1lZGlhUGxheWVyLnByZXBhcmUoKQogICAgICAgICAgICAgICAgbWVkaWFQbGF5ZXIuc3RhcnQoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRXhjZXB0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY29uZmlnID0gU3luY0NvbmZpZ3VyYXRpb24uQnVpbGRlcihTeW5jVXNlci5jdXJyZW50KCksICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1wLnNldE9uRXJyb3JMaXN0ZW5lciB7IG1lZGlhUGxheWVyOiBNZWRpYVBsYXllciwgaTogSW50LCBpMTogSW50IC0+CiAgICAgICAgICAgICAgICAgICAgbWVkaWFQbGF5ZXIucmVzZXQoKQogICAgICAgICAgICAgICAgICAgIG1lZGlhUGxheWVyLnByZXBhcmUoKQogICAgICAgICAgICAgICAgICAgIG1lZGlhUGxheWVyLnN0YXJ0KCkKICAgICAgICAgICAgICAgICAgICByZXR1cm5Ac2V0T25FcnJvckxpc3RlbmVyIGZhbHNlCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeW5jVXNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXAuc2V0T25FcnJvckxpc3RlbmVyIHsgbWVkaWFQbGF5ZXI6IE1lZGlhUGxheWVyLCBpOiBJbnQsIGkxOiBJbnQgLT4KICAgICAgICAgICAgICAgIHJldHVybkBzZXRPbkVycm9yTGlzdGVuZXIgZmFsc2UKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZmlyZWJhc2UubWVzc2FnaW5nLlJlbW90ZU1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lZGlhUGxheWVyLnJlc2V0KCkKICAgICAgICAgICAgICAgIG1lZGlhUGxheWVyLnByZXBhcmUoKQogICAgICAgICAgICAgICAgbWVkaWFQbGF5ZXIuc3RhcnQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25NZXNzYWdlUmVjZWl2ZWQocDA6IFJlbW90ZU1lc3NhZ2U/KSB7CiAgICAgICAgc3VwZXIub25NZXNzYWdlUmVjZWl2ZWQocDApCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY29uZmlnID0gU3luY0NvbmZpZ3VyYXRpb24uQnVpbGRlcihTeW5jVXNlci5jdXJyZW50KCksICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
