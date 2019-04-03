@@ -23,11 +23,11 @@
         <mark key="." line="31" column="54" />
         <mark key="^" line="31" column="54" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/StartFragment.kt" timestamp="1554281606278">
-        <mark key="[" line="92" column="24" />
-        <mark key="]" line="92" column="24" />
-        <mark key="." line="92" column="24" />
-        <mark key="^" line="92" column="23" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/StartFragment.kt" timestamp="1554298554160">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="92" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/dialog_pause.xml" timestamp="1554268838228">
         <mark key="[" line="93" column="30" />
@@ -74,12 +74,12 @@
         <mark key="." line="282" column="75" />
         <mark key="^" line="282" column="75" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" timestamp="1554277228909">
-        <mark key="'" line="416" column="39" />
-        <mark key="[" line="444" column="39" />
-        <mark key="]" line="444" column="39" />
-        <mark key="^" line="414" column="123" />
-        <mark key="." line="444" column="39" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" timestamp="1554298570611">
+        <mark key="'" line="155" column="0" />
+        <mark key="[" line="166" column="30" />
+        <mark key="]" line="166" column="33" />
+        <mark key="^" line="166" column="33" />
+        <mark key="." line="166" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/BaseFragment.kt" timestamp="1554269862973">
         <mark key="[" line="23" column="34" />
@@ -143,7 +143,7 @@
         <mark key="^" line="836" column="75" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/QuizActivityViewModel.kt" timestamp="1554269539863" />
-      <file name="/Dummy.txt" timestamp="1554278845663">
+      <file name="/Dummy.txt" timestamp="1554298701867">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/QuizEndViewModel.kt" timestamp="1553246218127">
@@ -189,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="50" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/QuizEndViewModel.kt" />
       <jump line="51" column="50" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/QuizEndViewModel.kt" />
       <jump line="55" column="50" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/QuizEndViewModel.kt" />
       <jump line="59" column="50" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/QuizEndViewModel.kt" />
@@ -289,61 +288,61 @@
       <jump line="375" column="51" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
       <jump line="194" column="31" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
       <jump line="196" column="31" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
+      <jump line="155" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>A</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>exe</text>
+        <text>shuffle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5kKCJjY2NjY2NjY2NjY2NjY2NjY2NjYyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV2aWV3QWN0aXZpdHkudmlld01vZGVsLnRyYWluaW5nQWxsSWRzLnNodWZmbGUoamF2YS51dGlsLlJhbmRvbSgwKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldmlld0FjdGl2aXR5LnZpZXdNb2RlbC50cmFpbmluZ0FsbElkcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGltYmVyLmQoImNjY2NjY2NjY2NjY2NjY2NjY2NjYyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguc2VyaWFsaXphdGlvbi5saXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9yZXZpZXdBY3Rpdml0eS52aWV3TW9kZWwudHJhaW5pbmdBbGxJZHMuc2h1ZmZsZShqYXZhLnV0aWwuUmFuZG9tKDApKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguc2VyaWFsaXphdGlvbi5qc29uLkpzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9yZXZpZXdBY3Rpdml0eS52aWV3TW9kZWwudHJhaW5pbmdBbGxJZHMuc2h1ZmZsZShqYXZhLnV0aWwuUmFuZG9tKDApKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmVpZ29zYXB1cmkudGVwcGFuLnRlcHBhbl9hbmRyb2lkLnV0aWxzLlNoYXJlZFByZWYK</text>
+        <text encoding="base64">ICAgIHJldmlld0FjdGl2aXR5LnZpZXdNb2RlbC50cmFpbmluZ0FsbElkcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmVpZ29zYXB1cmkudGVwcGFuLnRlcHBhbl9hbmRyb2lkLm1vZGVscy5TdGFnZQo=</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguc2VyaWFsaXphdGlvbi5saXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmVpZ29zYXB1cmkudGVwcGFuLnRlcHBhbl9hbmRyb2lkLm1vZGVscy5SZWFsbVRyYWluaW5nCg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguc2VyaWFsaXphdGlvbi5qc29uLkpzb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWJlci5sb2cuVGltYmVyCg==</text>
+        <text encoding="base64">aW1wb3J0IGpwLmVpZ29zYXB1cmkudGVwcGFuLnRlcHBhbl9hbmRyb2lkLnV0aWxzLlNoYXJlZFByZWYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXN0aW9uSW5kZXggPSAwCg==</text>
+        <text encoding="base64">aW1wb3J0IGpwLmVpZ29zYXB1cmkudGVwcGFuLnRlcHBhbl9hbmRyb2lkLm1vZGVscy5TdGFnZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQocXVpekxpc3QudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">aW1wb3J0IGpwLmVpZ29zYXB1cmkudGVwcGFuLnRlcHBhbl9hbmRyb2lkLm1vZGVscy5SZWFsbVRyYWluaW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>exe</last-search>
+      <last-search>shuffle</last-search>
       <last-offset />
-      <last-pattern>exe</last-pattern>
+      <last-pattern>shuffle</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onStop</entry>
         <entry>Builder</entry>
         <entry>run</entry>
         <entry>word</entry>
@@ -363,6 +362,7 @@
         <entry>downloadDialogFragment</entry>
         <entry>isEnd</entry>
         <entry>exe</entry>
+        <entry>shuffle</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
