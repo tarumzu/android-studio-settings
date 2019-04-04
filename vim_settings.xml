@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1554103998570">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1554339757642">
         <mark key="'" line="4" column="15" />
-        <mark key="[" line="230" column="64" />
-        <mark key="]" line="230" column="64" />
-        <mark key="^" line="230" column="64" />
-        <mark key="." line="230" column="64" />
+        <mark key="[" line="162" column="61" />
+        <mark key="]" line="162" column="61" />
+        <mark key="^" line="162" column="61" />
+        <mark key="." line="162" column="61" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/QuizFragment.kt" timestamp="1554271370928">
         <mark key="[" line="21" column="0" />
@@ -292,10 +292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>shuffle</text>
