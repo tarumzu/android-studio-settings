@@ -129,9 +129,9 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="37" column="49" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" timestamp="1554708702248">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" timestamp="1554709761262">
         <mark key="'" line="59" column="20" />
-        <mark key="[" line="43" column="0" />
+        <mark key="[" line="148" column="60" />
         <mark key="]" line="148" column="60" />
         <mark key="." line="148" column="60" />
         <mark key="^" line="148" column="60" />
@@ -272,11 +272,11 @@
         <mark key="^" line="162" column="87" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_main_select_stage.xml" timestamp="1554707790834">
-        <mark key="[" line="106" column="47" />
-        <mark key="]" line="107" column="39" />
-        <mark key="." line="107" column="39" />
-        <mark key="^" line="107" column="39" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_main_select_stage.xml" timestamp="1554709833129">
+        <mark key="[" line="108" column="45" />
+        <mark key="]" line="108" column="46" />
+        <mark key="." line="108" column="46" />
+        <mark key="^" line="108" column="46" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/services/TeppanFirebaseMessagingService.kt" timestamp="1553500445796">
         <mark key="[" line="3" column="0" />
@@ -419,17 +419,17 @@
       <jump line="59" column="20" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5mcmFnbWVudF93b3JkLnZpZXcuKgo=</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>teppanService</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdTdGFydD0iMjBkcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iNWRwIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5mcmFnbWVudF93b3JkLnZpZXcuKgo=</text>
