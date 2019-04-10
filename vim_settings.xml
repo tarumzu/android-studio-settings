@@ -222,11 +222,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/Develop/MyApplication2/app/src/main/java/jp/sample/myapplication/MainActivity.kt" timestamp="1554905436530">
-        <mark key="[" line="82" column="1" />
-        <mark key="]" line="84" column="29" />
-        <mark key="." line="84" column="29" />
-        <mark key="^" line="84" column="29" />
+      <file name="$USER_HOME$/Develop/MyApplication2/app/src/main/java/jp/sample/myapplication/MainActivity.kt" timestamp="1554906444406">
+        <mark key="[" line="84" column="30" />
+        <mark key="]" line="84" column="30" />
+        <mark key="." line="84" column="30" />
+        <mark key="^" line="84" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/PauseDialogFragment.kt" timestamp="1554271186092">
         <mark key="'" line="54" column="28" />
@@ -428,11 +428,11 @@
       <jump line="237" column="30" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9AVGFyZ2V0QXBpKEJ1aWxkLlZFUlNJT05fQ09ERVMuTE9MTElQT1ApCg==</text>
+      <register name="&quot;" type="4">
+        <text>V</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>V</text>
       </register>
       <register name="/" type="4">
         <text>firebaseAnalytics</text>
