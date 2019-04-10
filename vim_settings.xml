@@ -222,10 +222,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/Develop/MyApplication2/app/src/main/java/jp/sample/myapplication/MainActivity.kt" timestamp="1554902986247">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Develop/MyApplication2/app/src/main/java/jp/sample/myapplication/MainActivity.kt" timestamp="1554905436530">
+        <mark key="[" line="82" column="1" />
+        <mark key="]" line="84" column="29" />
+        <mark key="." line="84" column="29" />
+        <mark key="^" line="84" column="29" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/PauseDialogFragment.kt" timestamp="1554271186092">
         <mark key="'" line="54" column="28" />
