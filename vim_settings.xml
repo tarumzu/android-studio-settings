@@ -33,12 +33,12 @@
         <mark key="^" line="230" column="12" />
         <mark key="." line="289" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/build.gradle" timestamp="1554193200663">
+      <file name="$USER_HOME$/Develop/teppanandroid/build.gradle" timestamp="1555857657996">
         <mark key="'" line="30" column="48" />
-        <mark key="[" line="30" column="58" />
-        <mark key="]" line="31" column="54" />
-        <mark key="." line="31" column="54" />
-        <mark key="^" line="31" column="54" />
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+        <mark key="^" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/models/JsonWebToken.kt" timestamp="1552118019004">
         <mark key="[" line="8" column="22" />
@@ -447,10 +447,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>firebaseAnalytics</text>
