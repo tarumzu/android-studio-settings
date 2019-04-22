@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1555916800758">
+      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1555918520479">
         <mark key="[" line="28" column="20" />
         <mark key="]" line="28" column="22" />
         <mark key="^" line="29" column="25" />
@@ -227,7 +227,7 @@
         <mark key="^" line="110" column="64" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/build.gradle.kts" timestamp="1555912648296">
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/build.gradle.kts" timestamp="1555918687151">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="22" column="0" />
