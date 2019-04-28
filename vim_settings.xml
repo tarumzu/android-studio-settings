@@ -8,11 +8,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1555918520479">
-        <mark key="[" line="28" column="20" />
-        <mark key="]" line="28" column="22" />
-        <mark key="^" line="29" column="25" />
-        <mark key="." line="28" column="22" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1556450759303">
+        <mark key="[" line="162" column="61" />
+        <mark key="]" line="162" column="61" />
+        <mark key="^" line="162" column="61" />
+        <mark key="." line="162" column="61" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/signingConfigs/release.gradle" timestamp="1552463038354">
         <mark key="[" line="5" column="29" />
@@ -469,22 +469,11 @@
       <jump line="390" column="34" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/mains/SlelectStageFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>binding</text>
