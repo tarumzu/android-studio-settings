@@ -9,11 +9,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="20" column="102" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1556455243217">
-        <mark key="[" line="163" column="58" />
-        <mark key="]" line="163" column="60" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/build.gradle" timestamp="1557264104225">
+        <mark key="[" line="163" column="59" />
+        <mark key="]" line="163" column="59" />
         <mark key="^" line="163" column="59" />
-        <mark key="." line="163" column="60" />
+        <mark key="." line="163" column="59" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/signingConfigs/release.gradle" timestamp="1552463038354">
         <mark key="[" line="5" column="29" />
@@ -89,6 +89,7 @@
         <mark key="." line="93" column="31" />
         <mark key="^" line="93" column="31" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity/1.0.0-alpha08/e297b3f25672761530063bc5992a4a60eb4ded79/activity-1.0.0-alpha08-sources.jar!/androidx/activity/OnBackPressedCallback.java" timestamp="1557264370739" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/pro/res/values/strings.xml" timestamp="1554365787049">
         <mark key="[" line="3" column="78" />
         <mark key="]" line="3" column="78" />
@@ -172,11 +173,11 @@
         <mark key="." line="42" column="97" />
         <mark key="^" line="42" column="97" />
       </file>
-      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/SettingFragment.kt" timestamp="1556453273947">
-        <mark key="[" line="22" column="94" />
-        <mark key="]" line="22" column="97" />
-        <mark key="." line="22" column="97" />
-        <mark key="^" line="22" column="97" />
+      <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/settings/SettingFragment.kt" timestamp="1557264484602">
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="18" />
+        <mark key="^" line="37" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/build.gradle.kts" timestamp="1556452430542">
         <mark key="[" line="2" column="39" />
@@ -501,10 +502,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>binding</text>
@@ -513,31 +514,31 @@
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJjb20uYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQ6Y29uc3RyYWludC1sYXlvdXQ6MS4xLjMiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20ucm10aGVpczp0ZXNzLXR3bzo5LjAuMCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGlzRW5hYmxlZCgpOiBCb29sZWFuIHsKICAgICAgICAgICAgICAgIHZhbCBmbSA9IGJhc2VBY3Rpdml0eS5zdXBwb3J0RnJhZ21lbnRNYW5hZ2VyCiAgICAgICAgICAgICAgICB2YWwgYmFja1N0YWNrQ250ID0gZm0uYmFja1N0YWNrRW50cnlDb3VudAoKICAgICAgICAgICAgICAgIC8vIOODleODqeOCsOODoeODs+ODiOOBruaIu+OCiuWFiOOBguOCi+WgtOWQiOOBr+aIu+OCi+OAggogICAgICAgICAgICAgICAgaWYgKGJhY2tTdGFja0NudCA+IDEpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gaXNOb3RCYWNrCiAgICAgICAgICAgICAgICB9ZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWUKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzdXBlci5pc0VuYWJsZWQoKQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20ucm10aGVpczp0ZXNzLXR3bzo5LjAuMCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBmbSA9IGJhc2VBY3Rpdml0eS5zdXBwb3J0RnJhZ21lbnRNYW5hZ2VyCiAgICAgICAgICAgICAgICB2YWwgYmFja1N0YWNrQ250ID0gZm0uYmFja1N0YWNrRW50cnlDb3VudAoKICAgICAgICAgICAgICAgIC8vIOODleODqeOCsOODoeODs+ODiOOBruaIu+OCiuWFiOOBguOCi+WgtOWQiOOBr+aIu+OCi+OAggogICAgICAgICAgICAgICAgaWYgKGJhY2tTdGFja0NudCA+IDEpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gaXNOb3RCYWNrCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBpc05vdEJhY2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzdXBlci5pc0VuYWJsZWQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBpc05vdEJhY2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBmbSA9IGJhc2VBY3Rpdml0eS5zdXBwb3J0RnJhZ21lbnRNYW5hZ2VyCiAgICAgICAgICAgICAgICB2YWwgYmFja1N0YWNrQ250ID0gZm0uYmFja1N0YWNrRW50cnlDb3VudAoKICAgICAgICAgICAgICAgIC8vIOODleODqeOCsOODoeODs+ODiOOBruaIu+OCiuWFiOOBguOCi+WgtOWQiOOBr+aIu+OCi+OAggogICAgICAgICAgICAgICAgaWYgKGJhY2tTdGFja0NudCA+IDEpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gaXNOb3RCYWNrCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlQWN0aXZpdHkub25CYWNrUHJlc3NlZERpc3BhdGNoZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBpc05vdEJhY2sK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBpc05vdEJhY2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBiYXNlQWN0aXZpdHkub25CYWNrUHJlc3NlZERpc3BhdGNoZXIuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
