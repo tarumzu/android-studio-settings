@@ -89,7 +89,6 @@
         <mark key="." line="93" column="31" />
         <mark key="^" line="93" column="31" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity/1.0.0-alpha08/e297b3f25672761530063bc5992a4a60eb4ded79/activity-1.0.0-alpha08-sources.jar!/androidx/activity/OnBackPressedCallback.java" timestamp="1557264370739" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/pro/res/values/strings.xml" timestamp="1554365787049">
         <mark key="[" line="3" column="78" />
         <mark key="]" line="3" column="78" />
@@ -160,11 +159,11 @@
         <mark key="." line="478" column="25" />
         <mark key="^" line="478" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/MainActivity.kt" timestamp="1557257282177">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="18" />
-        <mark key="^" line="11" column="18" />
-        <mark key="." line="11" column="18" />
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/MainActivity.kt" timestamp="1557338767646">
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="20" column="50" />
+        <mark key="^" line="20" column="10" />
+        <mark key="." line="20" column="50" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/EndFragment.kt" timestamp="1556450928442">
         <mark key="'" line="130" column="40" />
@@ -500,11 +499,11 @@
       <jump line="18" column="24" filename="$USER_HOME$/Develop/OCRSampleAndroid/app/build.gradle.kts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbwo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>B</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>binding</text>
