@@ -59,11 +59,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/OCRUtil.kt" timestamp="1557742596297">
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="12" />
-        <mark key="^" line="45" column="15" />
-        <mark key="." line="44" column="12" />
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/OCRUtil.kt" timestamp="1557742841978">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="52" column="31" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/models/Credentials.kt" timestamp="1552118963207">
         <mark key="[" line="5" column="46" />
@@ -165,12 +165,12 @@
         <mark key="." line="478" column="25" />
         <mark key="^" line="478" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/MainActivity.kt" timestamp="1557742495950">
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/MainActivity.kt" timestamp="1557743375535">
         <mark key="'" line="7" column="25" />
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="21" column="43" />
-        <mark key="." line="21" column="43" />
-        <mark key="^" line="21" column="43" />
+        <mark key="[" line="53" column="20" />
+        <mark key="]" line="53" column="30" />
+        <mark key="." line="53" column="30" />
+        <mark key="^" line="53" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/EndFragment.kt" timestamp="1556450928442">
         <mark key="'" line="130" column="40" />
@@ -516,10 +516,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>binding</text>
@@ -528,31 +528,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlYWQ6IEludCA9IGlucHV0U3RyZWFtLnJlYWQoYnVmZmVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZS5zZXBhcmF0b3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYml0bWFwIGlzIG51bGwiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnN3aW5nLnRleHQuaHRtbC5IVE1MLkF0dHJpYnV0ZS5MQU5HCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIExBTkcgPSAiZW5nIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWFnZS5zZXRJbWFnZUJpdG1hcChiaXRtYXApCiAgICAgICAgICAgICAgICAgICAgb2NyVXRpbC5nZXRTdHJpbmcoYXBwbGljYXRpb25Db250ZXh0LCBiaXRtYXApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL2Jhc2VBcGkuc2V0UmVjdGFuZ2xlKDU2LCA4MSwgMjMwLCAyMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiaXRtYXAgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGltYWdlLnNldEltYWdlQml0bWFwKGJpdG1hcCkKICAgICAgICAgICAgICAgICAgICBvY3JVdGlsLmdldFN0cmluZyhhcHBsaWNhdGlvbkNvbnRleHQsIGJpdG1hcCkKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgImJpdG1hcCBpcyBudWxsIgogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHJlc3VsdDogU3RyaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgID0gcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGZpbGVEZXNjcmlwdG9yID0gcGFyY2VsRmlsZURlc2NyaXB0b3IuZmlsZURlc2NyaXB0b3IKICAgICAgICAgICAgICAgICAgICAgICAgYml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVGaWxlRGVzY3JpcHRvcihmaWxlRGVzY3JpcHRvcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuQnVpbGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXQ/LmxldCB7cGFyY2VsRmlsZURlc2NyaXB0b3IgLT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
