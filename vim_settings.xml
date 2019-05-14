@@ -166,12 +166,12 @@
         <mark key="." line="478" column="25" />
         <mark key="^" line="478" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/MainActivity.kt" timestamp="1557823997313">
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/MainActivity.kt" timestamp="1557827089116">
         <mark key="'" line="10" column="29" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="59" column="55" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="80" column="112" />
+        <mark key="]" line="80" column="119" />
+        <mark key="^" line="80" column="119" />
+        <mark key="." line="80" column="119" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/EndFragment.kt" timestamp="1556450928442">
         <mark key="'" line="130" column="40" />
@@ -301,11 +301,11 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/res/layout/activity_main.xml" timestamp="1557739991016">
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="17" column="39" />
-        <mark key="." line="17" column="39" />
-        <mark key="^" line="17" column="39" />
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/res/layout/activity_main.xml" timestamp="1557826711560">
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="30" column="44" />
+        <mark key="." line="30" column="44" />
+        <mark key="^" line="30" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/models/Advertisement.kt" timestamp="1554366592573">
         <mark key="[" line="1" column="0" />
@@ -325,7 +325,7 @@
         <mark key="^" line="105" column="51" />
         <mark key="." line="105" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557754857788">
+      <file name="/Dummy.txt" timestamp="1557827082909">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/QuizEndViewModel.kt" timestamp="1555913684664">
@@ -516,11 +516,11 @@
       <jump line="8" column="29" filename="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>binding</text>
@@ -529,36 +529,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBiaXRtYXBPcmlnaW46IEJpdG1hcD8gPSBudWxsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZGVmYXVsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBkZWdyZWVzID0gMGYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9SYWRpb0J1dHRvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJjb20uYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQ6Y29uc3RyYWludC1sYXlvdXQ6MS4xLjMiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9SYWRpb0J1dHRvbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJhZGlvQnV0dG9uIGFuZHJvaWQ6dGV4dD0iMyIKICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvUmFkaW9CdXR0b24zIgogICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4KICAgICAgICAgICAgPC9SYWRpb0J1dHRvbj4KICAgICAgICAgICAgPFJhZGlvQnV0dG9uIGFuZHJvaWQ6dGV4dD0iNCIKICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvUmFkaW9CdXR0b240IgogICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4KICAgICAgICAgICAgPC9SYWRpb0J1dHRvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIOeUu+WDj+OBruaoquOAgee4puOCteOCpOOCuuOCkuWPluW+lwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQucHJvdmlkZXIuTWVkaWFTdG9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyDnlLvlg4/jga7mqKrjgIHnuKbjgrXjgqTjgrrjgpLlj5blvpcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3BlbmdsLkVUQzEuZ2V0SGVpZ2h0CmltcG9ydCBhbmRyb2lkLm9wZW5nbC5FVEMxLmdldFdpZHRoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>//
-//
-//
-//
-//
-//</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBkZWdyZWVzID0gMGYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgaW1hZ2VXaWR0aCA9IGJpdG1hcE9yaWdpbj8uZ2V0V2lkdGgoKSA/OiAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGltYWdlSGVpZ2h0ID0gYml0bWFwT3JpZ2luPy5nZXRIZWlnaHQoKSA/OiAwCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJjb20uYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQ6Y29uc3RyYWludC1sYXlvdXQ6MS4xLjMiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
