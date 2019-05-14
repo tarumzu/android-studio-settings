@@ -59,12 +59,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/OCRUtil.kt" timestamp="1557744674915">
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/OCRUtil.kt" timestamp="1557828877870">
         <mark key="'" line="76" column="23" />
-        <mark key="[" line="74" column="19" />
-        <mark key="]" line="74" column="22" />
-        <mark key="^" line="74" column="22" />
-        <mark key="." line="74" column="22" />
+        <mark key="[" line="13" column="84" />
+        <mark key="]" line="13" column="84" />
+        <mark key="^" line="13" column="90" />
+        <mark key="." line="13" column="84" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/models/Credentials.kt" timestamp="1552118963207">
         <mark key="[" line="5" column="46" />
@@ -301,11 +301,10 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/res/layout/activity_main.xml" timestamp="1557826711560">
-        <mark key="[" line="30" column="43" />
-        <mark key="]" line="30" column="44" />
-        <mark key="." line="30" column="44" />
-        <mark key="^" line="30" column="44" />
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/res/layout/activity_main.xml" timestamp="1557828933692">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/models/Advertisement.kt" timestamp="1554366592573">
         <mark key="[" line="1" column="0" />
@@ -516,44 +515,44 @@
       <jump line="8" column="29" filename="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFJhZGlvQnV0dG9uCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJlbmcranBuIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcmFkaW9fYnV0dG9uMyIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAvPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>binding</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBiaXRtYXBPcmlnaW46IEJpdG1hcD8gPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJhZGlvQnV0dG9uCiAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0ianBuIgogICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3JhZGlvX2J1dHRvbjIiCiAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZGVmYXVsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJhZGlvQnV0dG9uCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJlbmcranBuIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcmFkaW9fYnV0dG9uMyIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9SYWRpb0J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yYWRpb19idXR0b24xIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9SYWRpb0J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yYWRpb19idXR0b24yIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJhZGlvQnV0dG9uIGFuZHJvaWQ6dGV4dD0iMyIKICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvUmFkaW9CdXR0b24zIgogICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4KICAgICAgICAgICAgPC9SYWRpb0J1dHRvbj4KICAgICAgICAgICAgPFJhZGlvQnV0dG9uIGFuZHJvaWQ6dGV4dD0iNCIKICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvUmFkaW9CdXR0b240IgogICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4KICAgICAgICAgICAgPC9SYWRpb0J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3JhZGlvX2J1dHRvbjMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIOeUu+WDj+OBruaoquOAgee4puOCteOCpOOCuuOCkuWPluW+lwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZGVmYXVsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyDnlLvlg4/jga7mqKrjgIHnuKbjgrXjgqTjgrrjgpLlj5blvpcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9SYWRpb0J1dHRvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9SYWRpb0J1dHRvbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBkZWdyZWVzID0gMGYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJhZGlvQnV0dG9uIGFuZHJvaWQ6dGV4dD0iMyIKICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvUmFkaW9CdXR0b24zIgogICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4KICAgICAgICAgICAgPC9SYWRpb0J1dHRvbj4KICAgICAgICAgICAgPFJhZGlvQnV0dG9uIGFuZHJvaWQ6dGV4dD0iNCIKICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvUmFkaW9CdXR0b240IgogICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4KICAgICAgICAgICAgPC9SYWRpb0J1dHRvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJjb20uYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQ6Y29uc3RyYWludC1sYXlvdXQ6MS4xLjMiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIOeUu+WDj+OBruaoquOAgee4puOCteOCpOOCuuOCkuWPluW+lwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
