@@ -51,12 +51,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/OCRUtil.kt" timestamp="1558239198482">
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/OCRUtil.kt" timestamp="1558250276619">
         <mark key="'" line="63" column="8" />
-        <mark key="[" line="76" column="22" />
-        <mark key="]" line="76" column="25" />
+        <mark key="[" line="13" column="71" />
+        <mark key="]" line="13" column="71" />
         <mark key="^" line="76" column="25" />
-        <mark key="." line="76" column="25" />
+        <mark key="." line="13" column="71" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/models/Credentials.kt" timestamp="1552118963207">
         <mark key="[" line="5" column="46" />
@@ -253,7 +253,7 @@
         <mark key="^" line="105" column="51" />
         <mark key="." line="105" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558240063412">
+      <file name="/Dummy.txt" timestamp="1558250418203">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/QuizEndViewModel.kt" timestamp="1555913684664">
@@ -425,10 +425,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>4.0</text>
