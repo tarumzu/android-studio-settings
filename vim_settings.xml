@@ -59,11 +59,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/OCRUtil.kt" timestamp="1557828877870">
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/OCRUtil.kt" timestamp="1558229386101">
         <mark key="'" line="76" column="23" />
         <mark key="[" line="13" column="84" />
         <mark key="]" line="13" column="84" />
-        <mark key="^" line="13" column="90" />
+        <mark key="^" line="13" column="89" />
         <mark key="." line="13" column="84" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/models/Credentials.kt" timestamp="1552118963207">
@@ -301,10 +301,10 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/res/layout/activity_main.xml" timestamp="1558228809389">
-        <mark key="[" line="42" column="37" />
-        <mark key="]" line="42" column="37" />
-        <mark key="." line="42" column="37" />
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/res/layout/activity_main.xml" timestamp="1558229397116">
+        <mark key="[" line="42" column="34" />
+        <mark key="]" line="42" column="40" />
+        <mark key="." line="42" column="40" />
         <mark key="^" line="42" column="40" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/models/Advertisement.kt" timestamp="1554366592573">
@@ -517,16 +517,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>binding</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJhZGlvQnV0dG9uCiAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iZW5nIgogICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3JhZGlvX2J1dHRvbjEiCiAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmNoZWNrZWQ9InRydWUiCiAgICAgICAgICAgIC8+Cg==</text>
+      <register name="0" type="8">
+        <text>, &quot;jpn.traineddata&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPFJhZGlvQnV0dG9uCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJlbmcranBuIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcmFkaW9fYnV0dG9uMyIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAvPgo=</text>
