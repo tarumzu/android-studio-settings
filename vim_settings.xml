@@ -325,7 +325,7 @@
         <mark key="^" line="105" column="51" />
         <mark key="." line="105" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557827082909">
+      <file name="/Dummy.txt" timestamp="1558240063412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/QuizEndViewModel.kt" timestamp="1555913684664">
@@ -370,6 +370,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="9" column="5" />
       </file>
+      <file name="/build.gradle.kts" timestamp="1558240070273" />
       <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/build.gradle.kts" timestamp="1558239464198">
         <mark key="'" line="18" column="24" />
         <mark key="[" line="38" column="0" />
