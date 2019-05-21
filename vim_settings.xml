@@ -194,10 +194,10 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRMLKitSampleAndroid/app/build.gradle.kts" timestamp="1558391615511">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Develop/OCRMLKitSampleAndroid/app/build.gradle.kts" timestamp="1558418648300">
+        <mark key="[" line="36" column="47" />
+        <mark key="]" line="36" column="48" />
+        <mark key="." line="36" column="48" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/TeppanAndroidApplication.kt" timestamp="1554367341494">
         <mark key="[" line="44" column="0" />
@@ -269,7 +269,7 @@
         <mark key="^" line="105" column="51" />
         <mark key="." line="105" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558391630354">
+      <file name="/Dummy.txt" timestamp="1558418632492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/QuizEndViewModel.kt" timestamp="1555913684664">
@@ -326,7 +326,7 @@
         <mark key="^" line="18" column="102" />
         <mark key="." line="18" column="63" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRMLKitSampleAndroid/gradle/wrapper/gradle-wrapper.properties" timestamp="1558417757008">
+      <file name="$USER_HOME$/Develop/OCRMLKitSampleAndroid/gradle/wrapper/gradle-wrapper.properties" timestamp="1558418758243">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
         <mark key="^" line="5" column="69" />
