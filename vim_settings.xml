@@ -326,6 +326,12 @@
         <mark key="^" line="18" column="102" />
         <mark key="." line="18" column="63" />
       </file>
+      <file name="$USER_HOME$/Develop/OCRMLKitSampleAndroid/gradle/wrapper/gradle-wrapper.properties" timestamp="1558417757008">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="69" />
+        <mark key="^" line="5" column="69" />
+        <mark key="." line="5" column="69" />
+      </file>
       <file name="/fragment.java" timestamp="1557735845315">
         <mark key="[" line="0" column="0" />
       </file>
@@ -439,11 +445,11 @@
       <jump line="76" column="44" filename="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/assets/tessdata/jpnnew.traineddata" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>4.0</text>
