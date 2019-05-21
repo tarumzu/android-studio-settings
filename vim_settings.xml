@@ -51,7 +51,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/OCRUtil.kt" timestamp="1558250276619">
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/OCRUtil.kt" timestamp="1558436758616">
         <mark key="'" line="63" column="8" />
         <mark key="[" line="13" column="71" />
         <mark key="]" line="13" column="71" />
@@ -327,7 +327,7 @@
         <mark key="^" line="9" column="5" />
       </file>
       <file name="/build.gradle.kts" timestamp="1558430052608" />
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/build.gradle.kts" timestamp="1558239464198">
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/build.gradle.kts" timestamp="1558436600697">
         <mark key="'" line="18" column="24" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
