@@ -33,6 +33,12 @@
         <mark key="^" line="34" column="144" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/gradle/wrapper/gradle-wrapper.properties" timestamp="1558607986532">
+        <mark key="[" line="5" column="68" />
+        <mark key="]" line="5" column="68" />
+        <mark key="." line="5" column="68" />
+        <mark key="^" line="5" column="68" />
+      </file>
       <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/assets/tessdata/jpn.traineddata" timestamp="1558237826630">
         <mark key="'" line="45" column="0" />
       </file>
@@ -216,11 +222,11 @@
         <mark key="^" line="110" column="64" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/build.gradle.kts" timestamp="1558238072182">
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/build.gradle.kts" timestamp="1558607855907">
         <mark key="[" line="8" column="54" />
-        <mark key="]" line="8" column="55" />
-        <mark key="^" line="8" column="52" />
-        <mark key="." line="8" column="55" />
+        <mark key="]" line="8" column="61" />
+        <mark key="^" line="8" column="61" />
+        <mark key="." line="8" column="61" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewActivityViewModel.kt" timestamp="1554275753758">
         <mark key="[" line="15" column="0" />
@@ -270,7 +276,7 @@
         <mark key="^" line="105" column="51" />
         <mark key="." line="105" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558444878636">
+      <file name="/Dummy.txt" timestamp="1558608029704">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/OCRMLKitSampleAndroid/app/src/androidTest/java/jp/sample/ocrmlkitsampleandroid/ExampleInstrumentedTest.kt" timestamp="1558429845961">
@@ -309,7 +315,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="/build.gradle.kts" timestamp="1558430052608" />
       <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/build.gradle.kts" timestamp="1558436600697">
         <mark key="'" line="18" column="24" />
         <mark key="[" line="38" column="0" />
@@ -323,7 +328,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="14" column="8" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rmtheis/tess-two/9.0.0/aec733d2b36905d19fa6f169985a80f9b1b6c522/tess-two-9.0.0-sources.jar!/com/googlecode/tesseract/android/TessBaseAPI.java" timestamp="1558439914458" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/accounts/AccountFragment.kt" timestamp="1556453989442">
         <mark key="[" line="18" column="63" />
         <mark key="]" line="18" column="63" />
@@ -450,10 +454,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>4.0</text>
