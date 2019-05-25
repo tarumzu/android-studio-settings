@@ -121,10 +121,11 @@
         <mark key="." line="40" column="97" />
         <mark key="^" line="40" column="97" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRMLKitSampleAndroid/app/src/main/java/jp/sample/ocrmlkitsampleandroid/MainActivity.kt" timestamp="1558429744780">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Develop/OCRMLKitSampleAndroid/app/src/main/java/jp/sample/ocrmlkitsampleandroid/MainActivity.kt" timestamp="1558798711539">
+        <mark key="[" line="80" column="24" />
+        <mark key="]" line="80" column="25" />
+        <mark key="^" line="80" column="25" />
+        <mark key="." line="80" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/AccountActivity.kt" timestamp="1554266321006">
         <mark key="[" line="29" column="8" />
@@ -155,7 +156,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="37" column="49" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/MainActivity.kt" timestamp="1558440650800">
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/MainActivity.kt" timestamp="1558798715230">
         <mark key="'" line="6" column="28" />
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="4" />
@@ -258,7 +259,7 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/res/layout/activity_main.xml" timestamp="1558239167017">
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/res/layout/activity_main.xml" timestamp="1558798545573">
         <mark key="[" line="42" column="37" />
         <mark key="]" line="42" column="37" />
         <mark key="." line="42" column="37" />
@@ -282,7 +283,7 @@
         <mark key="^" line="105" column="51" />
         <mark key="." line="105" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558794219198">
+      <file name="/Dummy.txt" timestamp="1558798854889">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/OCRMLKitSampleAndroid/app/src/androidTest/java/jp/sample/ocrmlkitsampleandroid/ExampleInstrumentedTest.kt" timestamp="1558429845961">
