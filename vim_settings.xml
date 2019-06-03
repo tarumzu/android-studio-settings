@@ -66,11 +66,11 @@
       <file name="$USER_HOME$/Develop/OCRSampleAndroid/Dangerfile" timestamp="1559560716078">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/MainActivity.kt" timestamp="1559130414567">
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/MainActivity.kt" timestamp="1559563604388">
         <mark key="'" line="5" column="28" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="41" column="23" />
+        <mark key="]" line="41" column="35" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/OCRMLKitSampleAndroid/build.gradle.kts" timestamp="1558931643971">
         <mark key="[" line="12" column="52" />
@@ -274,7 +274,7 @@
         <mark key="^" line="26" column="21" />
         <mark key="." line="26" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559562876056">
+      <file name="/Dummy.txt" timestamp="1559563623223">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewActivityViewModel.kt" timestamp="1554275753758">
@@ -462,7 +462,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0Lkluc3RydW1lbnRhdGlvblJlZ2lzdHJ5CmltcG9ydCBhbmRyb2lkLnN1cHBvcnQudGVzdC5ydW5uZXIuQW5kcm9pZEpVbml0NAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB1cmkgPSBkYXRhLmRhdGEK</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -471,7 +471,7 @@
         <text>4.0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCgiY29tLmFuZHJvaWQuYXBwbGljYXRpb24iKQogICAgaWQoImtvdGxpbi1hbmRyb2lkIikKICAgIGlkKCJrb3RsaW4tYW5kcm9pZC1leHRlbnNpb25zIikKICAgIGlkKCJvcmcuamxsZWl0c2NodWguZ3JhZGxlLmt0bGludCIpCn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB1cmkgPSBkYXRhLmRhdGEK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50ZXN0Lkluc3RydW1lbnRhdGlvblJlZ2lzdHJ5CmltcG9ydCBhbmRyb2lkLnN1cHBvcnQudGVzdC5ydW5uZXIuQW5kcm9pZEpVbml0NAo=</text>
