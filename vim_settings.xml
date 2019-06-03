@@ -63,15 +63,15 @@
         <mark key="." line="3" column="78" />
         <mark key="^" line="7" column="66" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/Dangerfile" timestamp="1559569798827">
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/Dangerfile" timestamp="1559575333591">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/MainActivity.kt" timestamp="1559571933264">
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/MainActivity.kt" timestamp="1559575543434">
         <mark key="'" line="5" column="28" />
-        <mark key="[" line="41" column="23" />
-        <mark key="]" line="41" column="23" />
-        <mark key="." line="41" column="23" />
-        <mark key="^" line="41" column="23" />
+        <mark key="[" line="42" column="80" />
+        <mark key="]" line="42" column="151" />
+        <mark key="." line="42" column="151" />
+        <mark key="^" line="42" column="151" />
       </file>
       <file name="$USER_HOME$/Develop/OCRMLKitSampleAndroid/build.gradle.kts" timestamp="1558931643971">
         <mark key="[" line="12" column="52" />
@@ -275,7 +275,7 @@
         <mark key="^" line="26" column="21" />
         <mark key="." line="26" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559573697163">
+      <file name="/Dummy.txt" timestamp="1559575555074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewActivityViewModel.kt" timestamp="1554275753758">
@@ -468,7 +468,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG91dHB1dFRvQ29uc29sZS5zZXQodHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB1cmkyID0gZGF0YS5kYXRhCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -477,7 +477,7 @@
         <text>4.0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB1cmkgPSBkYXRhLmRhdGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB1cmkyID0gZGF0YS5kYXRhCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG91dHB1dFRvQ29uc29sZS5zZXQodHJ1ZSkK</text>
