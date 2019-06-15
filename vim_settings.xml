@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/settings.gradle.kts" timestamp="1558333981990">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/settings.gradle.kts" timestamp="1560584891538">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="0" column="45" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/OCRMLKitSampleAndroid/app/src/main/AndroidManifest.xml" timestamp="1558930923045">
         <mark key="[" line="4" column="16" />
@@ -180,6 +180,12 @@
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/buildSrc/src/main/kotlin/android-library.gradle.kts" timestamp="1560585401150">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/ResultFragment.kt" timestamp="1556451068591">
         <mark key="[" line="40" column="94" />
         <mark key="]" line="40" column="97" />
@@ -210,11 +216,11 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/buildSrc/build.gradle.kts" timestamp="1560582113789">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/buildSrc/build.gradle.kts" timestamp="1560587045758">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+        <mark key="^" line="10" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/accounts/AccountFragment.kt" timestamp="1556453989442">
         <mark key="[" line="18" column="63" />
@@ -245,6 +251,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="10" column="126" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/buildSrc/src/main/kotlin/android-application.gradle.kts" timestamp="1560587015840">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/OCRUtil.kt" timestamp="1559131313102">
         <mark key="[" line="13" column="49" />
@@ -281,7 +293,7 @@
         <mark key="^" line="26" column="21" />
         <mark key="." line="26" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560337819549">
+      <file name="/Dummy.txt" timestamp="1560586570960">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewActivityViewModel.kt" timestamp="1554275753758">
@@ -296,11 +308,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="14" column="8" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/buildSrc/src/main/kotlin/Dependencies.kt" timestamp="1560583521778">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="14" column="29" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/buildSrc/src/main/kotlin/Dependencies.kt" timestamp="1560584748335">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="$USER_HOME$/Develop/OCRSampleAndroid/gradle/wrapper/gradle-wrapper.properties" timestamp="1558607986532">
         <mark key="[" line="5" column="68" />
@@ -308,9 +320,9 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/build.gradle.kts" timestamp="1560582835900">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/build.gradle.kts" timestamp="1560586440904">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="43" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="8" column="48" />
       </file>
@@ -320,6 +332,7 @@
         <mark key="^" line="67" column="34" />
         <mark key="." line="30" column="22" />
       </file>
+      <file name="/build.gradle.kts" timestamp="1560585856341" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/WordActivity.kt" timestamp="1553238335935">
         <mark key="[" line="90" column="25" />
         <mark key="]" line="91" column="37" />
@@ -366,12 +379,12 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/build.gradle.kts" timestamp="1560583402505">
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/build.gradle.kts" timestamp="1560586534334">
         <mark key="'" line="4" column="8" />
-        <mark key="[" line="49" column="19" />
-        <mark key="]" line="49" column="32" />
-        <mark key="." line="49" column="32" />
-        <mark key="^" line="49" column="32" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="17" column="40" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/gradle/wrapper/gradle-wrapper.properties" timestamp="1559029983900">
         <mark key="[" line="5" column="68" />
@@ -483,44 +496,45 @@
       <jump line="4" column="8" filename="$USER_HOME$/Develop/OCRSampleAndroid/app/build.gradle.kts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbCBidWlsZFRvb2xzID0gIjI4LjAuMyIK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>kotlin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbCBsaWZlY3ljbGUgPSAiMi4wLjAiCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGgoRGVwcy5HcmFkbGVQbHVnaW4uYW5kcm9pZEdyYWRsZSkKICAgICAgICBjbGFzc3BhdGgoRGVwcy5HcmFkbGVQbHVnaW4ua290bGluKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbCBidWlsZFRvb2xzID0gIjI4LjAuMyIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKERlcHMuR3JhZGxlUGx1Z2luLmFuZHJvaWRHcmFkbGUpCiAgICBpbXBsZW1lbnRhdGlvbihEZXBzLkdyYWRsZVBsdWdpbi5rb3RsaW4pCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIDNyZC1wYXJ0eSBsaWJyYXJpZXMKICAgIGNvbnN0IHZhbCB0aW1iZXIgPSAiNC43LjEiCg==</text>
+      <register name="3" type="8">
+        <text>//
+//</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbCBidWlsZFRvb2xzID0gIjI4LjAuMyIK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJjb20uYW5kcm9pZC50b29scy5idWlsZDpncmFkbGU6My41LjAtYmV0YTA0IikKICAgIGltcGxlbWVudGF0aW9uKCJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tZ3JhZGxlLXBsdWdpbjoxLjMuMzEiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbCBidWlsZFRvb2xzID0gIjI4LjAuMyIK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJjb20uYW5kcm9pZC50b29scy5idWlsZDpncmFkbGU6My41LjAtYmV0YTA0IikKICAgIGltcGxlbWVudGF0aW9uKCJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tZ3JhZGxlLXBsdWdpbjoxLjMuMzEiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cn0K</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIGltcGxlbWVudGF0aW9uKCJjb20uYW5kcm9pZC50b29scy5idWlsZDpncmFkbGU6My41LjAtYmV0YTA0IikKICAgIGltcGxlbWVudGF0aW9uKCJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tZ3JhZGxlLXBsdWdpbjoxLjMuMzEiKQp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIDNyZC1wYXJ0eSBsaWJyYXJpZXMKICAgIGNvbnN0IHZhbCB0aW1iZXIgPSAiNC43LjEiCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJjb20uYW5kcm9pZC50b29scy5idWlsZDpncmFkbGU6My41LjAtYmV0YTA0IikKICAgIGltcGxlbWVudGF0aW9uKCJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tZ3JhZGxlLXBsdWdpbjoxLjMuMzEiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpjZW50ZXIoKQp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9iamVjdCBEZWJ1ZyB7CiAgICAgICAgY29uc3QgdmFsIHRpbWJlciA9ICJjb20uamFrZXdoYXJ0b24udGltYmVyOnRpbWJlcjoke1ZlcnNpb25zLnRpbWJlcn0iCiAgICB9Cg==</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIGltcGxlbWVudGF0aW9uKCJjb20uYW5kcm9pZC50b29scy5idWlsZDpncmFkbGU6My41LjAtYmV0YTA0IikKICAgIGltcGxlbWVudGF0aW9uKCJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tZ3JhZGxlLXBsdWdpbjoxLjMuMzEiKQp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
