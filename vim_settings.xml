@@ -66,12 +66,12 @@
       <file name="$USER_HOME$/Develop/OCRSampleAndroid/Dangerfile" timestamp="1560392440957">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/MainActivity.kt" timestamp="1559575543434">
+      <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/MainActivity.kt" timestamp="1561644303013">
         <mark key="'" line="5" column="28" />
-        <mark key="[" line="42" column="80" />
-        <mark key="]" line="42" column="151" />
-        <mark key="." line="42" column="151" />
-        <mark key="^" line="42" column="151" />
+        <mark key="[" line="42" column="24" />
+        <mark key="]" line="42" column="24" />
+        <mark key="." line="42" column="24" />
+        <mark key="^" line="42" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/OCRMLKitSampleAndroid/build.gradle.kts" timestamp="1558931643971">
         <mark key="[" line="12" column="52" />
@@ -293,7 +293,7 @@
         <mark key="^" line="26" column="21" />
         <mark key="." line="26" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561643734298">
+      <file name="/Dummy.txt" timestamp="1561644312849">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewActivityViewModel.kt" timestamp="1554275753758">
