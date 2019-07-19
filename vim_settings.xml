@@ -39,12 +39,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/OCRMLKitSampleAndroid/app/build.gradle.kts" timestamp="1559131110884">
-        <mark key="'" line="63" column="1" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="8" column="1" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/StartFragment.kt" timestamp="1556451100095">
         <mark key="[" line="43" column="94" />
         <mark key="]" line="43" column="97" />
@@ -258,10 +252,11 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/flutter_sample_app/pubspec.yaml" timestamp="1563553868846">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="23" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Develop/flutter_sample_app/pubspec.yaml" timestamp="1563553900272">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="23" column="13" />
+        <mark key="." line="23" column="13" />
+        <mark key="^" line="23" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/java/jp/sample/ocrsampleandroid/OCRUtil.kt" timestamp="1559131313102">
         <mark key="[" line="13" column="49" />
@@ -303,7 +298,7 @@
         <mark key="^" line="26" column="21" />
         <mark key="." line="26" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562899059112">
+      <file name="/Dummy.txt" timestamp="1563553963161">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/viewmodels/ReviewActivityViewModel.kt" timestamp="1554275753758">
