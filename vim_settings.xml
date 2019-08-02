@@ -39,6 +39,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/Develop/flutter_sample_app/lib/theme/text_theme_custom.dart" timestamp="1564739618910" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/StartFragment.kt" timestamp="1556451100095">
         <mark key="[" line="43" column="94" />
         <mark key="]" line="43" column="97" />
@@ -73,6 +74,7 @@
         <mark key="." line="12" column="53" />
         <mark key="^" line="12" column="54" />
       </file>
+      <file name="$USER_HOME$/Develop/flutter_sample_app/lib/theme/color_theme_custom.dart" timestamp="1564739768083" />
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/values/strings.xml" timestamp="1553501582324">
         <mark key="[" line="4" column="57" />
         <mark key="]" line="4" column="60" />
@@ -150,6 +152,13 @@
         <mark key="]" line="28" column="73" />
         <mark key="." line="28" column="73" />
         <mark key="^" line="28" column="73" />
+      </file>
+      <file name="$USER_HOME$/Develop/flutter_sample_app/lib/theme/theme.dart" timestamp="1564740711538">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/res/layout/fragment_word.xml" timestamp="1552617030396">
         <mark key="[" line="23" column="0" />
@@ -263,10 +272,11 @@
         <mark key="]" line="13" column="49" />
         <mark key="." line="13" column="49" />
       </file>
-      <file name="$USER_HOME$/Develop/flutter_sample_app/lib/main.dart" timestamp="1563553640478">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Develop/flutter_sample_app/lib/main.dart" timestamp="1564741314000">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/activities/SplashActivity.kt" timestamp="1552110425176">
         <mark key="[" line="28" column="47" />
@@ -274,6 +284,7 @@
         <mark key="." line="28" column="93" />
         <mark key="^" line="28" column="93" />
       </file>
+      <file name="$USER_HOME$/Develop/flutter_sample_app/lib/theme/style_theme_custom.dart" timestamp="1564739924302" />
       <file name="$USER_HOME$/Develop/teppanandroid/gradle.properties" timestamp="1552136860650">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -398,7 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="31" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
       <jump line="196" column="31" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/reviews/AnswerFragment.kt" />
       <jump line="155" column="0" filename="$USER_HOME$/Develop/teppanandroid/app/src/main/java/jp/eigosapuri/teppan/teppan_android/fragments/quizzes/AnswerFragment.kt" />
       <jump line="164" column="46" filename="$USER_HOME$/Develop/teppanandroid/app/build.gradle" />
@@ -498,46 +508,47 @@
       <jump line="4" column="8" filename="$USER_HOME$/Develop/OCRSampleAndroid/app/build.gradle.kts" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/OCRSampleAndroid/buildSrc/build.gradle.kts" />
       <jump line="66" column="8" filename="$USER_HOME$/Develop/OCRSampleAndroid/app/src/main/res/layout/activity_main.xml" />
+      <jump line="7" column="0" filename="$USER_HOME$/Develop/flutter_sample_app/lib/theme/theme.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBlbmdsaXNoX3dvcmRzOiBeMy4xLjAK</text>
+        <text encoding="base64">ICAgICAgVGhlbWVEYXRhKAogICAgICAgIHByaW1hcnlDb2xvcjogQ29sb3JzLndoaXRlLAogICAgICAgIHByaW1hcnlUZXh0VGhlbWU6IFRleHRUaGVtZSgKICAgICAgICAgIGJvZHkyOiBUZXh0U3R5bGUoCiAgICAgICAgICAgIGZvbnRTaXplOiAxOC4wLAogICAgICAgICAgICBjb2xvcjogQ29sb3JzLmJsYWNrNTQKICAgICAgICAgICkKICAgICAgICApCiAgICAgICksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>kotlin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCg==</text>
+        <text encoding="base64">VGhlbWVEYXRhIGNyZWF0ZVRoZW1lKCkgewoKICByZXR1cm4gVGhlbWVEYXRhKAogICAgICBwcmltYXJ5U3dhdGNoOiBDb2xvclRoZW1lQ3VzdG9tLmN1c3RvbVN3YXRjaCwKICAgICAgcHJpbWFyeUNvbG9yOiBDb2xvclRoZW1lQ3VzdG9tLmN1c3RvbVByaW1hcnlDb2xvciwKICAgICAgYnJpZ2h0bmVzczogQnJpZ2h0bmVzcy5saWdodCwKICAgICAgcHJpbWFyeUNvbG9yQnJpZ2h0bmVzczogQnJpZ2h0bmVzcy5saWdodCwKICAgICAgYnV0dG9uVGhlbWU6IFN0eWxlVGhlbWVDdXN0b20uY3JlYXRlQnV0dG9uVGhlbWUoKS5jb3B5V2l0aChzaGFwZTogU3R5bGVUaGVtZUN1c3RvbS5yb3VuZCksCiAgICAgIHRleHRUaGVtZTogVGV4dFRoZW1lQ3VzdG9tLmNyZWF0ZVRleHRUaGVtZSgpLAogICAgICBwcmltYXJ5VGV4dFRoZW1lOiBUZXh0VGhlbWVDdXN0b20uY3JlYXRlVGV4dFRoZW1lKCksCiAgICAgIGFjY2VudFRleHRUaGVtZTogVGV4dFRoZW1lQ3VzdG9tLmNyZWF0ZVRleHRUaGVtZSgpLAoKICAgICAgaW5wdXREZWNvcmF0aW9uVGhlbWU6IElucHV0RGVjb3JhdGlvblRoZW1lKAogICAgICAgIGJvcmRlcjogT3V0bGluZUlucHV0Qm9yZGVyKAogICAgICAgICAgICBib3JkZXJTaWRlOiBCb3JkZXJTaWRlKAoKICAgICAgICAgICAgICAgIGNvbG9yOiBDb2xvcnMuYW1iZXIKICAgICAgICAgICAgKQoKICAgICAgICApLAogICAgICAgIGxhYmVsU3R5bGU6IFRleHRTdHlsZSgKICAgICAgICAgIGNvbG9yOiBDb2xvclRoZW1lQ3VzdG9tLnRoZW1lWyJibGFjayJdLAogICAgICAgICAgZm9udFNpemU6IDE2LjAsCiAgICAgICAgICBmb250V2VpZ2h0OiBGb250V2VpZ2h0Lnc0MDAsCiAgICAgICAgICBmb250U3R5bGU6IEZvbnRTdHlsZS5ub3JtYWwsCiAgICAgICAgKSwKICAgICAgICBoZWxwZXJTdHlsZTogVGV4dFN0eWxlKAogICAgICAgICAgY29sb3I6IENvbG9yVGhlbWVDdXN0b20udGhlbWVbImJsYWNrIl0sCiAgICAgICAgICBmb250U2l6ZTogMTYuMCwKICAgICAgICAgIGZvbnRXZWlnaHQ6IEZvbnRXZWlnaHQudzQwMCwKICAgICAgICAgIGZvbnRTdHlsZTogRm9udFN0eWxlLm5vcm1hbCwKICAgICAgICApLAogICAgICAgIGhpbnRTdHlsZTogVGV4dFN0eWxlKAogICAgICAgICAgY29sb3I6IENvbG9yVGhlbWVDdXN0b20udGhlbWVbImJsYWNrIl0sCiAgICAgICAgICBmb250U2l6ZTogMTYuMCwKICAgICAgICAgIGZvbnRXZWlnaHQ6IEZvbnRXZWlnaHQudzQwMCwKICAgICAgICAgIGZvbnRTdHlsZTogRm9udFN0eWxlLm5vcm1hbCwKICAgICAgICApLAogICAgICAgIGVycm9yTWF4TGluZXM6IG51bGwsCiAgICAgICAgaGFzRmxvYXRpbmdQbGFjZWhvbGRlcjogdHJ1ZSwKICAgICAgICBpc0RlbnNlOiBmYWxzZSwKICAgICAgICBjb250ZW50UGFkZGluZzoKICAgICAgICBFZGdlSW5zZXRzLm9ubHkodG9wOiAxMi4wLCBib3R0b206IDEyLjAsIGxlZnQ6IDEyLjAsIHJpZ2h0OiAxMi4wKSwKICAgICAgICBpc0NvbGxhcHNlZDogZmFsc2UsCiAgICAgICAgcHJlZml4U3R5bGU6IFRleHRTdHlsZSgKICAgICAgICAgIGNvbG9yOiBDb2xvclRoZW1lQ3VzdG9tLnRoZW1lWyJibGFjayJdLAogICAgICAgICAgZm9udFNpemU6IDE2LjAsCiAgICAgICAgICBmb250V2VpZ2h0OiBGb250V2VpZ2h0Lnc0MDAsCiAgICAgICAgICBmb250U3R5bGU6IEZvbnRTdHlsZS5ub3JtYWwsCiAgICAgICAgKSwKICAgICAgICBzdWZmaXhTdHlsZTogVGV4dFN0eWxlKAogICAgICAgICAgY29sb3I6IENvbG9yVGhlbWVDdXN0b20udGhlbWVbImJsYWNrIl0sCiAgICAgICAgICBmb250U2l6ZTogMTYuMCwKICAgICAgICAgIGZvbnRXZWlnaHQ6IEZvbnRXZWlnaHQudzQwMCwKICAgICAgICAgIGZvbnRTdHlsZTogRm9udFN0eWxlLm5vcm1hbCwKICAgICAgICApLAogICAgICAgIGNvdW50ZXJTdHlsZTogVGV4dFN0eWxlKAogICAgICAgICAgY29sb3I6IENvbG9yVGhlbWVDdXN0b20udGhlbWVbImJsYWNrIl0sCiAgICAgICAgICBmb250U2l6ZTogMTYuMCwKICAgICAgICAgIGZvbnRXZWlnaHQ6IEZvbnRXZWlnaHQudzQwMCwKICAgICAgICAgIGZvbnRTdHlsZTogRm9udFN0eWxlLm5vcm1hbCwKICAgICAgICApLAogICAgICAgIGZpbGxlZDogZmFsc2UsCiAgICAgICAgZmlsbENvbG9yOiBDb2xvcigweDAwMDAwMCksCiAgICAgICksCgoKICAgICAgaWNvblRoZW1lOiBJY29uVGhlbWVEYXRhKAogICAgICAgIGNvbG9yOiBDb2xvclRoZW1lQ3VzdG9tLnRoZW1lWyJ3aGl0ZSJdLAogICAgICAgIG9wYWNpdHk6IDEuMCwKICAgICAgICBzaXplOiAyNC4wLAogICAgICApLAoKICAgICAgcHJpbWFyeUljb25UaGVtZTogSWNvblRoZW1lRGF0YSgKICAgICAgICBjb2xvcjogQ29sb3JUaGVtZUN1c3RvbS50aGVtZVsid2hpdGUiXSwKICAgICAgICBvcGFjaXR5OiAxLjAsCiAgICAgICAgc2l6ZTogMjQuMCwKICAgICAgKSwKCiAgICAgIGFjY2VudEljb25UaGVtZTogSWNvblRoZW1lRGF0YSgKICAgICAgICBjb2xvcjogQ29sb3JUaGVtZUN1c3RvbS50aGVtZVsid2hpdGUiXSwKICAgICAgICBvcGFjaXR5OiAxLjAsCiAgICAgICAgc2l6ZTogMjQuMCwKICAgICAgKSwKCiAgICAgIHRhYkJhclRoZW1lOiBUYWJCYXJUaGVtZSgKICAgICAgICBpbmRpY2F0b3JTaXplOiBUYWJCYXJJbmRpY2F0b3JTaXplLnRhYiwKICAgICAgICBsYWJlbENvbG9yOiBDb2xvclRoZW1lQ3VzdG9tLnRoZW1lWyJ3aGl0ZSJdLAogICAgICAgIHVuc2VsZWN0ZWRMYWJlbENvbG9yOiBDb2xvcigweGIyZmZmZmZmKSwKICAgICAgKSwKICAgICAgY2hpcFRoZW1lOiBDaGlwVGhlbWVEYXRhKAogICAgICAgIGJhY2tncm91bmRDb2xvcjogQ29sb3IoMHgxZjAwMDAwMCksCiAgICAgICAgYnJpZ2h0bmVzczogQnJpZ2h0bmVzcy5saWdodCwKICAgICAgICBkZWxldGVJY29uQ29sb3I6IENvbG9yKDB4ZGUwMDAwMDApLAogICAgICAgIGRpc2FibGVkQ29sb3I6IENvbG9yKDB4MGMwMDAwMDApLAogICAgICAgIGxhYmVsUGFkZGluZzoKICAgICAgICBFZGdlSW5zZXRzLm9ubHkodG9wOiAwLjAsIGJvdHRvbTogMC4wLCBsZWZ0OiA4LjAsIHJpZ2h0OiA4LjApLAogICAgICAgIGxhYmVsU3R5bGU6IFRleHRTdHlsZSgKICAgICAgICAgIGNvbG9yOiBDb2xvcigweGRlMDAwMDAwKSwKICAgICAgICAgIGZvbnRTaXplOiAxNC4wLAogICAgICAgICAgZm9udFdlaWdodDogRm9udFdlaWdodC53NDAwLAogICAgICAgICAgZm9udFN0eWxlOiBGb250U3R5bGUubm9ybWFsLAogICAgICAgICksCiAgICAgICAgcGFkZGluZzogRWRnZUluc2V0cy5vbmx5KHRvcDogNC4wLCBib3R0b206IDQuMCwgbGVmdDogNC4wLCByaWdodDogNC4wKSwKICAgICAgICBzZWNvbmRhcnlMYWJlbFN0eWxlOiBUZXh0U3R5bGUoCiAgICAgICAgICBjb2xvcjogQ29sb3IoMHgzZDAwMDAwMCksCiAgICAgICAgICBmb250U2l6ZTogMTQuMCwKICAgICAgICAgIGZvbnRXZWlnaHQ6IEZvbnRXZWlnaHQudzQwMCwKICAgICAgICAgIGZvbnRTdHlsZTogRm9udFN0eWxlLm5vcm1hbCwKICAgICAgICApLAogICAgICAgIHNlY29uZGFyeVNlbGVjdGVkQ29sb3I6IENvbG9yKDB4M2QyMTk2ZjMpLAogICAgICAgIHNlbGVjdGVkQ29sb3I6IENvbG9yKDB4M2QwMDAwMDApLAogICAgICAgIHNoYXBlOiBTdGFkaXVtQm9yZGVyKAogICAgICAgICAgICBzaWRlOiBCb3JkZXJTaWRlKAogICAgICAgICAgICAgIGNvbG9yOiBDb2xvcigweGZmMDAwMDAwKSwKICAgICAgICAgICAgICB3aWR0aDogMC4wLAogICAgICAgICAgICAgIHN0eWxlOiBCb3JkZXJTdHlsZS5ub25lLAogICAgICAgICAgICApKSwKICAgICAgKSwKCiAgICAgIGRpYWxvZ1RoZW1lOiBEaWFsb2dUaGVtZSgKICAgICAgICAgIHNoYXBlOiBSb3VuZGVkUmVjdGFuZ2xlQm9yZGVyKAogICAgICAgICAgICBzaWRlOiBCb3JkZXJTaWRlKAogICAgICAgICAgICAgIGNvbG9yOiBDb2xvcigweGZmMDAwMDAwKSwKICAgICAgICAgICAgICB3aWR0aDogMC4wLAogICAgICAgICAgICAgIHN0eWxlOiBCb3JkZXJTdHlsZS5ub25lLAogICAgICAgICAgICApLAogICAgICAgICAgICBib3JkZXJSYWRpdXM6IEJvcmRlclJhZGl1cy5hbGwoUmFkaXVzLmNpcmN1bGFyKDAuMCkpLAogICAgICAgICAgKSksCiAgICApOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbmdsaXNoX3dvcmRzOiBeMy4xLjAK</text>
+        <text encoding="base64">ICAgICAgVGhlbWVEYXRhKAogICAgICAgIHByaW1hcnlDb2xvcjogQ29sb3JzLndoaXRlLAogICAgICAgIHByaW1hcnlUZXh0VGhlbWU6IFRleHRUaGVtZSgKICAgICAgICAgIGJvZHkyOiBUZXh0U3R5bGUoCiAgICAgICAgICAgIGZvbnRTaXplOiAxOC4wLAogICAgICAgICAgICBjb2xvcjogQ29sb3JzLmJsYWNrNTQKICAgICAgICAgICkKICAgICAgICApCiAgICAgICksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmVuZ2xpc2hfd29yZHMvZW5nbGlzaF93b3Jkcy5kYXJ0JzsK</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOm9uYXlhbWlfYXBwL3RoZW1lcy9zdHlsZV90aGVtZV9jdXN0b20uZGFydCc7CmltcG9ydCAncGFja2FnZTpvbmF5YW1pX2FwcC90aGVtZXMvdGV4dF90aGVtZV9jdXN0b20uZGFydCc7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICBlbmdsaXNoX3dvcmRzOiBeMy4xLjAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbmVkV2lkdGg9InRydWUiCg==</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmVuZ2xpc2hfd29yZHMvZW5nbGlzaF93b3Jkcy5kYXJ0JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbmVkV2lkdGg9InRydWUiCg==</text>
+        <text encoding="base64">ICBlbmdsaXNoX3dvcmRzOiBeMy4xLjAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRIb3Jpem9udGFsX2NoYWluU3R5bGU9InBhY2tlZCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbmVkV2lkdGg9InRydWUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbmVkV2lkdGg9InRydWUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuQXBwQ29tcGF0SW1hZ2VWaWV3CiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9pbWFnZVZpZXciCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjgwZHAiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI4MGRwIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSI4ZHAiCiAgICAgICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IgogICAgICAgICAgICAgICAgICAgIGFwcDpzcmNDb21wYXQ9IkBkcmF3YWJsZS9pY19hbmRyb2lkIiAvPgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRIb3Jpem9udGFsX2NoYWluU3R5bGU9InBhY2tlZCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9kYXRlTGFiZWwiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjE2ZHAiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTVzcCIKICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJwYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
