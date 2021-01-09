@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="Dangerfile" type="PLAIN_TEXT" />
       <mapping ext="traineddata" type="PLAIN_TEXT" />
